@@ -1,0 +1,13 @@
+6,8c6
+< lol
+< ...
+< but
+---
+> lol...but
+16,19c14
+< seems
+< ...
+< %emoji
+< %emoji
+---
+> seems.....😂😂

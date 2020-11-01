@@ -1,0 +1,20 @@
+18,19c18
+< mines
+< .
+---
+> mines.
+29,30c28
+< Obama
+< .
+---
+> Obama.
+38,39c36
+< trump
+< .
+---
+> trump.
+57,58c54
+< Obama
+< .
+---
+> Obama.

@@ -1,0 +1,20 @@
+4,5c4
+< Really
+< ?
+---
+> Really?
+8,9c7
+< are
+< n't
+---
+> aren't
+12,13c10
+< news
+< .
+---
+> news.
+17,18c14
+< lot
+< .
+---
+> lot.

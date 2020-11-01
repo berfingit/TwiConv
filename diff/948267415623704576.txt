@@ -1,0 +1,19 @@
+16,19c16,17
+< non-sequitur
+< .
+< That
+< 's
+---
+> non-sequitur.
+> That’s
+26,31c24,26
+< was
+< n't
+< Nate
+< 's
+< plan
+< .
+---
+> wasn’t
+> Nate’s
+> plan.

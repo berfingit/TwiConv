@@ -1,0 +1,45 @@
+10,11c10
+< 2000
+< ,
+---
+> 2000,
+15,18c14,15
+< -LRB-
+< or
+< Simpsons-Sears
+< -RRB-
+---
+> (or
+> Simpsons-Sears)
+24,25c21
+< work
+< ,
+---
+> work,
+27,31c23,24
+< '
+< family
+< first
+< .
+< '
+---
+> 'family
+> first.'
+34,35c27
+< changed
+< .
+---
+> changed.
+41c33
+< &
+---
+> &amp;
+43,44c35
+< w
+< /
+---
+> w/
+46c37
+< &
+---
+> &amp;

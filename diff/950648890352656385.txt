@@ -1,0 +1,30 @@
+4,5c4
+< would
+< n't
+---
+> wouldn’t
+7,8c6
+< -LRB-
+< I
+---
+> (I
+12,13c10
+< we
+< 've
+---
+> we’ve
+15,16c12
+< met
+< -RRB-
+---
+> met)
+24,25c20
+< ``
+< oh
+---
+> “oh
+31,32c26
+< happened
+< ''
+---
+> happened”

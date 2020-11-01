@@ -1,0 +1,25 @@
+3,4c3
+< Furthermore
+< ,
+---
+> Furthermore,
+16,17c15
+< mechanisms
+< ,
+---
+> mechanisms,
+21,22c19
+< structures
+< ,
+---
+> structures,
+28,29c25
+< themselves
+< ,
+---
+> themselves,
+34,35c30
+< 8
+< /
+---
+> 8/

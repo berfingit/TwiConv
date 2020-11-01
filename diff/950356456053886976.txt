@@ -1,0 +1,28 @@
+6,9c6,7
+< Oprah
+< .
+< She
+< 's
+---
+> Oprah.
+> She's
+12,13c10
+< leftist
+< .
+---
+> leftist.
+31,32c28
+< candidacy
+< .
+---
+> candidacy.
+40,41c36
+< they
+< 're
+---
+> they're
+45,46c40
+< brand
+< .
+---
+> brand.

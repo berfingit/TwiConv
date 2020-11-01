@@ -1,0 +1,57 @@
+8,9c8
+< afternoon
+< .
+---
+> afternoon.
+12,13c11
+< ``
+< King
+---
+> “King
+15,17c13
+< Boys
+< ''
+< ,
+---
+> Boys”,
+27,28c23
+< Boy
+< .
+---
+> Boy.
+32,33c27
+< #BabyBoyManifesto
+< .
+---
+> #BabyBoyManifesto.
+40,41c34
+< easy
+< .
+---
+> easy.
+48,51c41,42
+< enemies
+< .
+< It
+< 's
+---
+> enemies.
+> It’s
+57,58c48
+< envy
+< ,
+---
+> envy,
+60,61c50
+< you
+< 'll
+---
+> you’ll
+65,68c54,55
+< man
+< .
+< Thread
+< .
+---
+> man.
+> Thread.

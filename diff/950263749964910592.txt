@@ -1,0 +1,21 @@
+12,13c12
+< question
+< ?
+---
+> question?
+16,18c15
+< ``
+< co-presidency
+< ''
+---
+> “co-presidency”
+24,25c21
+< it
+< 's
+---
+> it’s
+28,29c24
+< realistic
+< .
+---
+> realistic.

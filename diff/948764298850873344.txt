@@ -1,0 +1,10 @@
+6,7c6
+< thread
+< .
+---
+> thread.
+11,12c10
+< something
+< .
+---
+> something.

@@ -1,0 +1,23 @@
+7,8c7
+< Interesting
+< .
+---
+> Interesting.
+10,11c9
+< what
+< 's
+---
+> what's
+16,19c14,15
+< boobologists
+< ?
+< *
+< points
+---
+> boobologists?
+> *points
+22,23c18
+< Rev
+< *
+---
+> Rev*

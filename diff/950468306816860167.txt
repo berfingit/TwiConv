@@ -1,0 +1,41 @@
+3,4c3
+< Anne
+< .
+---
+> Anne.
+6,7c5
+< I
+< 've
+---
+> I’ve
+16,20c14,15
+< poem
+< --
+< technology
+< is
+< n't
+---
+> poem—technology
+> isn’t
+23,24c18
+< suit
+< .
+---
+> suit.
+28,29c22
+< wo
+< n't
+---
+> won’t
+48,49c41
+< I
+< 've
+---
+> I’ve
+59,62c51
+< -LRB-
+< cont
+< .
+< -RRB-
+---
+> (cont.)

@@ -1,0 +1,42 @@
+9,12c9,10
+< do
+< n't
+< change
+< ...
+---
+> don’t
+> change...
+14,15c12
+< is
+< n't
+---
+> isn’t
+17,20c14,15
+< either
+< .
+< Did
+< n't
+---
+> either.
+> Didn’t
+23,24c18
+< him
+< .
+---
+> him.
+28,29c22
+< it
+< 's
+---
+> it’s
+38,39c31
+< I
+< 'm
+---
+> I’m
+47,49c39
+< %emoji
+< %emoji
+< %emoji
+---
+> 😂😂😂

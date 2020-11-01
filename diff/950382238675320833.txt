@@ -1,0 +1,28 @@
+3,4c3
+< Okay
+< .
+---
+> Okay.
+11,12c10
+< different
+< .
+---
+> different.
+33,34c31
+< it
+< .
+---
+> it.
+38,41c35,36
+< com
+< 's
+< discretion
+< .
+---
+> com's
+> discretion.
+46,47c41
+< though
+< .
+---
+> though.

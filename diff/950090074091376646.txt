@@ -1,0 +1,34 @@
+6,7c6
+< do
+< n't
+---
+> don’t
+11,12c10
+< is
+< n't
+---
+> isn’t
+20,24c18,19
+< ``
+< with
+< confidence
+< ''
+< .
+---
+> “with
+> confidence”.
+42,43c37
+< video
+< .
+---
+> video.
+53,54c47
+< too
+< .
+---
+> too.
+62,63c55
+< undeniable
+< .
+---
+> undeniable.

@@ -1,0 +1,28 @@
+3,4c3
+< ca
+< n't
+---
+> can't
+11,12c10
+< article
+< ...
+---
+> article...
+16,17c14
+< line
+< ,
+---
+> line,
+21,25c18,19
+< wrong
+< .
+< -LRB-
+< ref
+< :
+---
+> wrong.
+> (ref:
+27c21
+< -RRB-
+---
+> )

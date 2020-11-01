@@ -1,0 +1,56 @@
+4,5c4
+< Ok
+< ,
+---
+> Ok,
+9,10c8
+< it
+< 's
+---
+> it’s
+18,21c16,17
+< law
+< ,
+< I
+< 'd
+---
+> law,
+> I’d
+25,26c21
+< 1
+< -RRB-
+---
+> 1)
+35,37c30
+< -LRB-
+< you
+< 've
+---
+> (you’ve
+41,44c34,35
+< answer
+< ,
+< you
+< 've
+---
+> answer,
+> you’ve
+46,50c37,38
+< criticised
+< -RRB-
+< ,
+< 2
+< -RRB-
+---
+> criticised),
+> 2)
+58,59c46
+< do
+< n't
+---
+> don’t
+64,65c51
+< law
+< ?
+---
+> law?

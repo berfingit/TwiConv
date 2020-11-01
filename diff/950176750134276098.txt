@@ -1,0 +1,51 @@
+6,7c6
+< First
+< ,
+---
+> First,
+9,12c8,9
+< apologize
+< ,
+< should
+< n't
+---
+> apologize,
+> shouldn't
+15,16c12
+< that
+< .
+---
+> that.
+18,21c14,15
+< you
+< 're
+< right
+< .
+---
+> you're
+> right.
+23,24c17
+< is
+< ,
+---
+> is,
+26,27c19
+< do
+< n't
+---
+> don't
+33,34c25
+< research
+< .
+---
+> research.
+46,47c37
+< themselves
+< .
+---
+> themselves.
+65,66c55
+< evidence
+< .
+---
+> evidence.

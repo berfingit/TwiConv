@@ -1,0 +1,49 @@
+11,16c11,13
+< false
+< ,
+< though
+< ,
+< I
+< 'm
+---
+> false,
+> though,
+> I'm
+19,20c16
+< there
+< 's
+---
+> there's
+27,28c23
+< month
+< .
+---
+> month.
+33,34c28
+< there
+< 's
+---
+> there's
+38,39c32
+< tomorrow
+< ,
+---
+> tomorrow,
+44,47c37,38
+< week
+< .
+< However
+< ,
+---
+> week.
+> However,
+49,50c40
+< do
+< n't
+---
+> don't
+59,60c49
+< question
+< .
+---
+> question.

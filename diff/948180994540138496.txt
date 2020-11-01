@@ -1,0 +1,35 @@
+10,11c10
+< That
+< 's
+---
+> That’s
+18,19c17
+< kicks
+< .
+---
+> kicks.
+21,22c19
+< do
+< n't
+---
+> don’t
+24,25c21
+< it
+< 's
+---
+> it’s
+43,44c39
+< misses
+< .
+---
+> misses.
+50,51c45
+< him
+< .
+---
+> him.
+58,59c52
+< Conor
+< .
+---
+> Conor.

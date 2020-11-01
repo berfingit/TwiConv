@@ -1,0 +1,25 @@
+10,21c10,12
+< boobs
+< .
+< %emoji
+< %emoji
+< %emoji
+< %emoji
+< %emoji
+< %emoji
+< %emoji
+< %emoji
+< ahahahaaaaa
+< !
+---
+> boobs.
+> 😂😂😂😂😂😂😂😂
+> ahahahaaaaa!
+28,31c19,20
+< slowwwwwww
+< ?!
+< %emoji
+< %emoji
+---
+> slowwwwwww?!
+> 😆🤣

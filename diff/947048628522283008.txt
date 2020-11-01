@@ -1,0 +1,36 @@
+14,15c14
+< prejudice
+< .
+---
+> prejudice.
+17,18c16
+< Samuelson
+< ,
+---
+> Samuelson,
+22,23c20
+< laureate
+< ,
+---
+> laureate,
+25,26c22
+< said
+< :
+---
+> said:
+30,31c26
+< changes
+< ,
+---
+> changes,
+35,37c30
+< conclusions
+< .
+< ''
+---
+> conclusions.”
+49,50c42
+< democracy
+< .
+---
+> democracy.

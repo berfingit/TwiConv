@@ -1,0 +1,36 @@
+1,2c1
+< 1
+< .
+---
+> 1.
+5,6c4
+< next
+< ?
+---
+> next?
+8,11c6,7
+< winners
+< ,
+< losers
+< ,
+---
+> winners,
+> losers,
+18,19c14
+< Coutinho
+< 's
+---
+> Coutinho’s
+24,25c19
+< ''
+< His
+---
+> "His
+40,43c34,35
+< Coutinho
+< .
+< ''
+< %emoji
+---
+> Coutinho."
+> 🔥

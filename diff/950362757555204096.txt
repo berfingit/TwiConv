@@ -1,0 +1,23 @@
+4,5c4
+< is
+< .
+---
+> is.
+17,18c16
+< science
+< .
+---
+> science.
+23,26c21,22
+< work
+< !
+< -LRB-
+< and
+---
+> work!
+> (and
+29,30c25
+< program
+< -RRB-
+---
+> program)

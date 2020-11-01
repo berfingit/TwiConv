@@ -1,0 +1,34 @@
+11,12c11
+< yourself
+< ,
+---
+> yourself,
+17,20c16,17
+< up
+< !
+< It
+< 's
+---
+> up!
+> It’s
+28,29c25
+< danger
+< ,
+---
+> danger,
+42,47c38,40
+< it
+< 's
+< cute
+< .
+< idiots
+< ,
+---
+> it’s
+> cute.
+> idiots,
+51,52c44
+< you
+< !
+---
+> you!

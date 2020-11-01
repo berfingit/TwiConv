@@ -1,0 +1,45 @@
+10,11c10
+< it
+< ,
+---
+> it,
+25,26c24
+< context
+< .
+---
+> context.
+28,29c26
+< i
+< 'm
+---
+> i'm
+36,37c33
+< misinformed
+< ,
+---
+> misinformed,
+39,40c35
+< was
+< n't
+---
+> wasn't
+46,47c41
+< video
+< .
+---
+> video.
+57,58c51
+< do
+< n't
+---
+> don't
+60,61c53
+< that
+< 's
+---
+> that's
+66,67c58
+< do
+< ?
+---
+> do?

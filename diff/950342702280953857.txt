@@ -1,0 +1,36 @@
+9,10c9
+< I
+< 'm
+---
+> I'm
+12,13c11
+< worried
+< .
+---
+> worried.
+25,26c23
+< Clinton
+< .
+---
+> Clinton.
+34,39c31,33
+< could
+< n't
+< sort
+< ,
+< so
+< ,
+---
+> couldn't
+> sort,
+> so,
+47,48c41
+< who
+< 'd
+---
+> who'd
+52,53c45
+< reprisal
+< .
+---
+> reprisal.

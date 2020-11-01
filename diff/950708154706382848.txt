@@ -1,0 +1,16 @@
+17,19c17
+< like
+< ''
+< hundreds
+---
+> like”hundreds
+25,26c23
+< banks
+< ''
+---
+> banks”
+39,40c36
+< lies
+< .
+---
+> lies.

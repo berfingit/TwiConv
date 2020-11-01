@@ -1,0 +1,18 @@
+3,4c3
+< ago
+< :
+---
+> ago:
+25,26c24
+< cap
+< ,
+---
+> cap,
+33,36c31,32
+< winter
+< 's
+< market
+< .
+---
+> winter's
+> market.

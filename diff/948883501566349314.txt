@@ -1,0 +1,23 @@
+2,3c2
+< @
+< 5N_Afzal
+---
+> @5N_Afzal
+15,18c14,15
+< it
+< 's
+< not
+< .
+---
+> it's
+> not.
+28,29c25
+< aid
+< ,
+---
+> aid,
+38,39c34
+< oneself
+< .
+---
+> oneself.

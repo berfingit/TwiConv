@@ -1,0 +1,15 @@
+4,5c4
+< Yes
+< .
+---
+> Yes.
+12,13c11
+< briefing
+< .
+---
+> briefing.
+31,32c29
+< urinals
+< .
+---
+> urinals.

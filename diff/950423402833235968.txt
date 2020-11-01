@@ -1,0 +1,15 @@
+6,8c6
+< remembered
+< .
+< .
+---
+> remembered..
+18,19c16
+< model
+< .
+---
+> model.
+23c20
+< %emoji
+---
+> ❤

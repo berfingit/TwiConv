@@ -1,0 +1,28 @@
+5,6c5
+< Hmmm
+< ...
+---
+> Hmmm...
+11,12c10
+< diplomatically
+< .
+---
+> diplomatically.
+17,20c15,16
+< '
+< well
+< endowed
+< '
+---
+> 'well
+> endowed'
+25,26c21
+< away
+< .
+---
+> away.
+30,31c25
+< charms
+< .
+---
+> charms.

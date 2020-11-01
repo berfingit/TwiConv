@@ -1,0 +1,40 @@
+3,4c3
+< i
+< 've
+---
+> i've
+11,12c10
+< anti
+< ,
+---
+> anti,
+18,19c16
+< that
+< .
+---
+> that.
+36,37c33
+< fandom
+< .
+---
+> fandom.
+39,40c35
+< is
+< n't
+---
+> isn't
+47,48c42
+< anymore
+< .
+---
+> anymore.
+51,52c45
+< said
+< ,
+---
+> said,
+63,64c56
+< was
+< +
+---
+> was+

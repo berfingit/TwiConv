@@ -1,0 +1,25 @@
+8,9c8
+< Andy
+< .
+---
+> Andy.
+12,13c11
+< it
+< 's
+---
+> it’s
+17,18c15
+< somewhat
+< ...
+---
+> somewhat...
+26,27c23
+< I
+< 'm
+---
+> I’m
+29,30c25
+< Etherium
+< .
+---
+> Etherium.

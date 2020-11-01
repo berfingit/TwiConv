@@ -1,0 +1,16 @@
+16,17c16
+< Tapper
+< %emoji
+---
+> Tapper😂
+26,28c25
+< man
+< %emoji
+< %emoji
+---
+> man😂😂
+34,35c31
+< people
+< ?
+---
+> people?

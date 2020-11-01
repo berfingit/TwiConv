@@ -1,0 +1,45 @@
+2,3c2
+< do
+< n't
+---
+> don't
+6,7c5
+< sex
+< .
+---
+> sex.
+9,10c7
+< do
+< n't
+---
+> don't
+15,16c12
+< general
+< .
+---
+> general.
+19,20c15
+< thing
+< .
+---
+> thing.
+29,30c24
+< movies
+< ,
+---
+> movies,
+32,33c26
+< popcorn
+< ,
+---
+> popcorn,
+38,39c31
+< couch
+< .
+---
+> couch.
+47,48c39
+< anytime
+< .
+---
+> anytime.

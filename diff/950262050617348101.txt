@@ -1,0 +1,13 @@
+14,15c14
+< Globes
+< ?
+---
+> Globes?
+30,33c29,30
+< women
+< ,
+< right
+< ?
+---
+> women,
+> right?

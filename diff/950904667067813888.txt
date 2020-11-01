@@ -1,0 +1,33 @@
+5,6c5
+< honest
+< ,
+---
+> honest,
+15,18c14,15
+< men
+< .
+< I
+< 'm
+---
+> men.
+> I'm
+24,25c21
+< anyone
+< ,
+---
+> anyone,
+28,29c24
+< I
+< 'll
+---
+> I'll
+36,37c31
+< me
+< ,
+---
+> me,
+42,43c36
+< advances
+< .
+---
+> advances.

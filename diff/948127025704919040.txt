@@ -1,0 +1,17 @@
+6,11c6,8
+< ''
+< scare
+< quotes
+< ''
+< are
+< ,
+---
+> "scare
+> quotes"
+> are,
+15,17c12
+< do
+< n't
+< ?
+---
+> don't?

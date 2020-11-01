@@ -1,0 +1,15 @@
+4,5c4
+< do
+< .
+---
+> do.
+17,18c16
+< prejudices
+< .
+---
+> prejudices.
+29,30c27
+< time
+< .
+---
+> time.

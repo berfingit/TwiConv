@@ -1,0 +1,34 @@
+5,10c5,7
+< considered
+< ,
+< yes
+< .
+< IIRC
+< ,
+---
+> considered,
+> yes.
+> IIRC,
+22,23c19
+< series
+< .
+---
+> series.
+38,41c34,35
+< pace
+< ,
+< though
+< .
+---
+> pace,
+> though.
+47,48c41
+< that
+< ,
+---
+> that,
+50,51c43
+< prospect
+< .
+---
+> prospect.

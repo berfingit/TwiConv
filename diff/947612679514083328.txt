@@ -1,0 +1,25 @@
+10,11c10
+< Parliament
+< ,
+---
+> Parliament,
+18,19c17
+< reporter
+< .
+---
+> reporter.
+26,27c24
+< news
+< .
+---
+> news.
+41,42c38
+< narrative
+< .
+---
+> narrative.
+51,52c47
+< Russians
+< .
+---
+> Russians.

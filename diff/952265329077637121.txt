@@ -1,0 +1,49 @@
+4,5c4
+< would
+< n't
+---
+> wouldn't
+8,9c7
+< minority
+< .
+---
+> minority.
+20,21c18
+< i
+< 've
+---
+> i've
+29,31c26
+< ''
+< are
+< n't
+---
+> "aren't
+33,34c28
+< enough
+< ''
+---
+> enough"
+37,38c31
+< are
+< n't
+---
+> aren't
+40,41c33
+< they
+< 're
+---
+> they're
+44,47c36,37
+< be
+< .
+< it
+< 's
+---
+> be.
+> it's
+58,59c48
+< children
+< .
+---
+> children.

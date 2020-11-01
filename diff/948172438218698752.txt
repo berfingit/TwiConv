@@ -1,0 +1,39 @@
+7,13c7,8
+< %emoji
+< %emoji
+< %emoji
+< %emoji
+< %emoji
+< it
+< 's
+---
+> 😆😆😆😆😆
+> it's
+17,18c12
+< debates
+< !!
+---
+> debates!!
+21,22c15
+< it
+< 's
+---
+> it's
+25,26c18
+< you
+< 're
+---
+> you're
+35,36c27
+< can
+< not
+---
+> cannot
+40,43c31,32
+< either
+< .
+< %emoji
+< %emoji
+---
+> either.
+> 🤔🤔

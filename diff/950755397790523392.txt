@@ -1,0 +1,59 @@
+7,8c7
+< Hari
+< 's
+---
+> Hari's
+10,11c9
+< -LRB-
+< which
+---
+> (which
+14,16c12
+< addressed
+< -RRB-
+< ,
+---
+> addressed),
+28,31c24,25
+< ''
+< low
+< serotonin
+< ''
+---
+> "low
+> serotonin"
+35,39c29,30
+< ''
+< chemical
+< imbalance
+< ''
+< .
+---
+> "chemical
+> imbalance".
+46,47c37
+< ''
+< insulin
+---
+> "insulin
+50,54c40,42
+< diabetic
+< ''
+< &
+< ''
+< raising
+---
+> diabetic"
+> &amp;
+> "raising
+56,58c44
+< serotonin
+< ''
+< .
+---
+> serotonin".
+60,61c46
+< rewriting
+< .
+---
+> rewriting.

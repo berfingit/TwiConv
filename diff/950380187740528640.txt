@@ -1,0 +1,29 @@
+5,6c5
+< you
+< 've
+---
+> you've
+9,10c8
+< day
+< !
+---
+> day!
+32c30
+< &
+---
+> &amp;
+34,35c32
+< publisher
+< ,
+---
+> publisher,
+37,41c34,36
+< you
+< 've
+< space
+< ?
+< %emoji
+---
+> you've
+> space?
+> 😊

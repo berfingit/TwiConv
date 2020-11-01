@@ -1,0 +1,31 @@
+2,5c2,3
+< Ok
+< .
+< Cool
+< .
+---
+> Ok.
+> Cool.
+14,15c12
+< research
+< .
+---
+> research.
+22,25c19,20
+< point
+< .
+< Have
+< n't
+---
+> point.
+> Haven't
+30,31c25
+< while
+< ,
+---
+> while,
+34,35c28
+< rusty
+< .
+---
+> rusty.

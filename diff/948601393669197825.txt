@@ -1,0 +1,10 @@
+21,22c21
+< distance
+< .
+---
+> distance.
+35,36c34
+< thought
+< .
+---
+> thought.

@@ -1,0 +1,10 @@
+4,5c4
+< what
+< 's
+---
+> what's
+12,13c11
+< translator
+< ?
+---
+> translator?

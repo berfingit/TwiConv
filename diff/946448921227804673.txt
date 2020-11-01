@@ -1,0 +1,28 @@
+3,4c3
+< So
+< ,
+---
+> So,
+18,19c17
+< altruistic
+< ,
+---
+> altruistic,
+28,29c26
+< egoism
+< ,
+---
+> egoism,
+34,35c31
+< egoistically
+< ,
+---
+> egoistically,
+44,47c40,41
+< penalties
+< .
+< 11
+< /
+---
+> penalties.
+> 11/

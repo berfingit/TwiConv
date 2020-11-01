@@ -1,0 +1,36 @@
+12,13c12
+< consultations
+< ,
+---
+> consultations,
+25,34c24,27
+< cannon
+< ,
+< 92
+< %
+< ,
+< 73
+< %
+< 68
+< %
+< ,
+---
+> cannon,
+> 92%,
+> 73%
+> 68%,
+40,41c33
+< have
+< .
+---
+> have.
+45,46c37
+< Londoners
+< .
+---
+> Londoners.
+53,54c44
+< things
+< .
+---
+> things.

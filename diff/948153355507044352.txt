@@ -1,0 +1,26 @@
+8,9c8
+< argument
+< .
+---
+> argument.
+12,14c11,12
+< %emoji
+< It
+< 's
+---
+> 👏
+> It's
+17,18c15
+< question
+< .
+---
+> question.
+28c25
+< &
+---
+> &amp;
+37,38c34
+< questions
+< .
+---
+> questions.

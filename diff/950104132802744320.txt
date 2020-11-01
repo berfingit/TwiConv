@@ -1,0 +1,8 @@
+3,6c3,4
+< Boom
+< !
+< Absolutely
+< !
+---
+> Boom!
+> Absolutely!

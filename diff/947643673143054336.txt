@@ -1,0 +1,31 @@
+6,7c6
+< her
+< ...
+---
+> her...
+25,26c24
+< server
+< ,
+---
+> server,
+29,34c27,29
+< violation
+< .
+< But
+< ,
+< yeah
+< ,
+---
+> violation.
+> But,
+> yeah,
+37,38c32
+< broken
+< .
+---
+> broken.
+43,44c37
+< that
+< ?
+---
+> that?

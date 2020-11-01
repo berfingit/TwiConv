@@ -1,0 +1,31 @@
+14,17c14,15
+< understood
+< ,
+< too
+< .
+---
+> understood,
+> too.
+31,32c29
+< IMMINENT
+< ,
+---
+> IMMINENT,
+36,37c33
+< fact
+< .
+---
+> fact.
+43,46c39,40
+< games
+< ,
+< fine
+< .
+---
+> games,
+> fine.
+56,57c50
+< people
+< .
+---
+> people.

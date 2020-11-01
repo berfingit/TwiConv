@@ -1,0 +1,12 @@
+40,43c40
+< hopefully
+< ...
+< .
+< read
+---
+> hopefully....read
+50,51c47
+< guess
+< ...
+---
+> guess....

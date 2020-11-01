@@ -1,0 +1,50 @@
+4,5c4
+< %emoji
+< %emoji
+---
+> 🙄❄️
+10,11c9
+< already
+< .
+---
+> already.
+17,18c15
+< agree
+< .
+---
+> agree.
+24,25c21
+< day
+< .
+---
+> day.
+31,32c27
+< videos
+< .
+---
+> videos.
+34,35c29
+< do
+< n't
+---
+> don’t
+37,38c31
+< me
+< ?
+---
+> me?
+40,41c33
+< that
+< .
+---
+> that.
+52,53c44
+< inappropriate
+< .
+---
+> inappropriate.
+55,56c46
+< brother
+< ?
+---
+> brother?

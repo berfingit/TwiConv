@@ -1,0 +1,22 @@
+11,12c11
+< argument
+< .
+---
+> argument.
+28,29c27
+< Toby
+< .
+---
+> Toby.
+38,39c36
+< you
+< 'd
+---
+> you'd
+42,45c39
+< ''
+< stock
+< ''
+< .
+---
+> "stock".

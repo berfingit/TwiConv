@@ -1,0 +1,18 @@
+6c6
+< -LRB-
+---
+> (
+13c13
+< -RRB-
+---
+> )
+19,20c19
+< committed
+< ?
+---
+> committed?
+24,25c23
+< bacon
+< .
+---
+> bacon.

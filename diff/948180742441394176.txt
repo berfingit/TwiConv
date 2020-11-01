@@ -1,0 +1,11 @@
+19,24c19,21
+< KKK
+< .
+< I
+< 'm
+< fascinated
+< .
+---
+> KKK.
+> I'm
+> fascinated.

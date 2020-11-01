@@ -1,0 +1,30 @@
+3,4c3
+< Do
+< n't
+---
+> Don't
+7,12c6,8
+< you
+< 've
+< been
+< ,
+< blood
+< ,
+---
+> you've
+> been,
+> blood,
+19,20c15
+< all
+< ,
+---
+> all,
+23,24c18
+< Remain
+< .
+---
+> Remain.
+31c25
+< %emoji
+---
+> 😂

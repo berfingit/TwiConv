@@ -1,0 +1,10 @@
+3,4c3
+< Kristeinsson
+< ?
+---
+> Kristeinsson?
+11,12c10
+< too
+< .
+---
+> too.

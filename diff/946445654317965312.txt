@@ -1,0 +1,17 @@
+11,12c11
+< definition
+< ,
+---
+> definition,
+22,28c21,23
+< '
+< individualistic
+< '
+< tendencies
+< .
+< 6
+< /
+---
+> 'individualistic'
+> tendencies.
+> 6/

@@ -1,0 +1,28 @@
+12,13c12
+< ministry
+< ,
+---
+> ministry,
+28,29c27
+< space
+< .
+---
+> space.
+31,34c29,30
+< wonder
+< ,
+< often
+< ,
+---
+> wonder,
+> often,
+36,37c32
+< he
+< 'd
+---
+> he'd
+40,41c35
+< Twitter
+< .
+---
+> Twitter.

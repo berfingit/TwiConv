@@ -1,0 +1,40 @@
+5,6c5
+< I
+< 'm
+---
+> I’m
+11,12c10
+< do
+< n't
+---
+> don’t
+16,17c14
+< TV
+< .
+---
+> TV.
+21,22c18
+< privately
+< .
+---
+> privately.
+28,29c24
+< TV
+< .
+---
+> TV.
+38,39c33
+< birthday
+< .
+---
+> birthday.
+41,42c35
+< cares
+< ?
+---
+> cares?
+47,48c40
+< here
+< .
+---
+> here.

@@ -1,0 +1,31 @@
+12,15c12,13
+< Israel
+< 's
+< post
+< ,
+---
+> Israel’s
+> post,
+18,19c16
+< he
+< 's
+---
+> he’s
+24,27c21,22
+< word
+< !
+< You
+< 're
+---
+> word!
+> You’re
+34,35c29
+< slide
+< !
+---
+> slide!
+40,41c34
+< do
+< !
+---
+> do!

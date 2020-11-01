@@ -1,0 +1,33 @@
+5,8c5,6
+< You
+< 're
+< right
+< .
+---
+> You’re
+> right.
+15,16c13
+< SuggestiveGaming
+< .
+---
+> SuggestiveGaming.
+26,27c23
+< video
+< ,
+---
+> video,
+35,36c31
+< that
+< .
+---
+> that.
+49,50c44
+< company
+< ,
+---
+> company,
+60,61c54
+< apology
+< .
+---
+> apology.

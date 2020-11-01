@@ -1,0 +1,52 @@
+1,2c1
+< ``
+< Haha
+---
+> “Haha
+13,16c12,13
+< meme
+< ''
+< is
+< n't
+---
+> meme”
+> isn’t
+20,21c17
+< here
+< .
+---
+> here.
+25,28c21,22
+< is
+< ,
+< ``
+< internet
+---
+> is,
+> “internet
+35,36c29
+< decade
+< ,
+---
+> decade,
+39,40c32
+< life
+< ,
+---
+> life,
+44,46c36
+< it
+< .
+< ``
+---
+> it.”
+54,55c44
+< that
+< 's
+---
+> that’s
+57,58c46
+< portrayed
+< .
+---
+> portrayed.

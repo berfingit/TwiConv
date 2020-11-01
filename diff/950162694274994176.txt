@@ -1,0 +1,28 @@
+7,8c7
+< that
+< ,
+---
+> that,
+10,13c9,10
+< they
+< 're
+< complicit
+< ,
+---
+> they're
+> complicit,
+17,18c14
+< decades
+< .
+---
+> decades.
+20,21c16
+< should
+< n't
+---
+> shouldn't
+31,32c26
+< up
+< .
+---
+> up.

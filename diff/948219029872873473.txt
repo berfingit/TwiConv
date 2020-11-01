@@ -1,0 +1,36 @@
+8,9c8
+< well
+< .
+---
+> well.
+13,14c12
+< town
+< 's
+---
+> town's
+28,30c26
+< ''
+< motivation
+< ''
+---
+> "motivation"
+32,33c28
+< came
+< .
+---
+> came.
+37,42c32,33
+< Iran
+< 's
+< ''
+< protesters
+< ''
+< ?
+---
+> Iran's
+> "protesters"?
+57,58c48
+< men
+< ?
+---
+> men?

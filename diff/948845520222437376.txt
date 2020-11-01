@@ -1,0 +1,29 @@
+4,5c4
+< Also
+< ,
+---
+> Also,
+11,12c10
+< racist
+< ,
+---
+> racist,
+17,22c15,17
+< RT
+< 'd
+< is
+< n't
+< either
+< .
+---
+> RT’d
+> isn’t
+> either.
+30,33c25,26
+< comment
+< .
+< You
+< 've
+---
+> comment.
+> You’ve

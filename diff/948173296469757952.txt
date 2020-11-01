@@ -1,0 +1,24 @@
+12,15c12
+< saying
+< .
+< .
+< why
+---
+> saying..why
+28,31c25
+< facts
+< .
+< .
+< how
+---
+> facts..how
+42,43c36
+< program
+< ?
+---
+> program?
+53,54c46
+< suited
+< ?
+---
+> suited?

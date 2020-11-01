@@ -1,0 +1,22 @@
+3,4c3
+< you
+< .
+---
+> you.
+11,12c10
+< love
+< ,
+---
+> love,
+15,22c13,14
+< joy
+< .
+< %emoji
+< %emoji
+< %emoji
+< %emoji
+< %emoji
+< %emoji
+---
+> joy.
+> 🙋🏻‍♀️👋🤗❤️💃🏻

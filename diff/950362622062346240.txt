@@ -1,0 +1,15 @@
+3,4c3
+< it
+< 's
+---
+> it's
+7,8c6
+< series
+< ,
+---
+> series,
+13,14c11
+< manga
+< .
+---
+> manga.

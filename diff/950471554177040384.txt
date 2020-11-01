@@ -1,0 +1,65 @@
+11,12c11
+< did
+< n't
+---
+> didn't
+24,25c23
+< us
+< .
+---
+> us.
+27,28c25
+< DACA
+< .
+---
+> DACA.
+30,31c27
+< Obamacare
+< .
+---
+> Obamacare.
+33,34c29
+< Border
+< .
+---
+> Border.
+36,37c31
+< Economy
+< .
+---
+> Economy.
+39,40c33
+< Debt
+< .
+---
+> Debt.
+42,43c35
+< FBI
+< ,
+---
+> FBI,
+45,46c37
+< DOJ
+< .
+---
+> DOJ.
+54,55c45
+< it
+< .
+---
+> it.
+64,68c54,55
+< history
+< .
+< .
+< But
+< ,
+---
+> history..
+> But,
+71,73c58
+< him
+< .
+< ?
+---
+> him.?

@@ -1,0 +1,21 @@
+3,6c3,4
+< Ca
+< n't
+< wait
+< !
+---
+> Can’t
+> wait!
+18,19c16
+< Trump
+< !
+---
+> Trump!
+22,25c19,20
+< girl
+< !
+< %emoji
+< %emoji
+---
+> girl!
+> 😂✌🏼

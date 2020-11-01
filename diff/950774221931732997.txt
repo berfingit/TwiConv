@@ -1,0 +1,41 @@
+5,12c5,7
+< sir
+< .
+< .
+< that
+< 's
+< fine
+< .
+< .
+---
+> sir..
+> that's
+> fine..
+19,20c14
+< sometime
+< .
+---
+> sometime.
+22,24c16
+< insaults
+< .
+< .
+---
+> insaults..
+26,28c18
+< feelings
+< .
+< .
+---
+> feelings..
+30,31c20
+< facts
+< ...
+---
+> facts...
+35,37c24
+< day
+< .
+< .
+---
+> day..

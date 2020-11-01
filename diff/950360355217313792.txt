@@ -1,0 +1,23 @@
+4,5c4
+< mate
+< ,
+---
+> mate,
+14,17c13,14
+< bollocks
+< .
+< [
+< You
+---
+> bollocks.
+> [You
+24,25c21
+< bollocks
+< ,
+---
+> bollocks,
+32,33c28
+< issue
+< ]
+---
+> issue]

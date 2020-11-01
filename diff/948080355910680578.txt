@@ -1,0 +1,18 @@
+12,13c12
+< marriage
+< .
+---
+> marriage.
+22,25c21,22
+< adoption
+< ,
+< fostering
+< ,
+---
+> adoption,
+> fostering,
+28,29c25
+< surrogacy
+< .
+---
+> surrogacy.

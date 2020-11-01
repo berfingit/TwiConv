@@ -1,0 +1,23 @@
+23,24c23
+< Christianity
+< .
+---
+> Christianity.
+27,28c26
+< this
+< .
+---
+> this.
+37,38c35
+< immediately
+< .
+---
+> immediately.
+44,47c41,42
+< you
+< 're
+< ignoring
+< .
+---
+> you're
+> ignoring.

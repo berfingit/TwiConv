@@ -1,0 +1,24 @@
+9,10c9
+< this
+< ,
+---
+> this,
+12,14c11,12
+< %emoji
+< remember
+< ,
+---
+> 🙄
+> remember,
+27,28c25
+< medicine
+< ,
+---
+> medicine,
+30,32c27,28
+< rectally
+< !
+< %emoji
+---
+> rectally!
+> 😆

@@ -1,0 +1,25 @@
+8,9c8
+< years
+< ,
+---
+> years,
+15,16c14
+< intent
+< .
+---
+> intent.
+27,28c25
+< information
+< .
+---
+> information.
+43,44c40
+< meeting
+< .
+---
+> meeting.
+55,56c51
+< you
+< ?
+---
+> you?

@@ -1,0 +1,5 @@
+5,6c5
+< charisma
+< 's
+---
+> charisma's

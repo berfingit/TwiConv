@@ -1,0 +1,22 @@
+8,9c8
+< swearing
+< ?
+---
+> swearing?
+14,15c13
+< question
+< .
+---
+> question.
+18,19c16
+< very
+< ,
+---
+> very,
+27,29c24,25
+< journey
+< .
+< %smiley
+---
+> journey.
+> ;)

@@ -1,0 +1,21 @@
+14,15c14
+< proposes
+< .
+---
+> proposes.
+36,37c35
+< equipped
+< .
+---
+> equipped.
+39,41c37
+< '
+< stock
+< '
+---
+> 'stock'
+45,46c41
+< it
+< .
+---
+> it.

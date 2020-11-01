@@ -1,0 +1,23 @@
+3,4c3
+< Dennis
+< ,
+---
+> Dennis,
+19,20c18
+< offer
+< .
+---
+> offer.
+27,28c25
+< downgrade
+< ,
+---
+> downgrade,
+40,43c37,38
+< change
+< .
+< ^
+< DO
+---
+> change.
+> ^DO

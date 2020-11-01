@@ -1,0 +1,23 @@
+9,12c9,10
+< say
+< ?
+< That
+< 's
+---
+> say?
+> That's
+20,21c18
+< evidence
+< .
+---
+> evidence.
+36,37c33
+< generalisation
+< .
+---
+> generalisation.
+39,40c35
+< on
+< .
+---
+> on.

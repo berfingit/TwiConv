@@ -1,0 +1,36 @@
+17,20c17,18
+< ANYBODY
+< .
+< It
+< 's
+---
+> ANYBODY.
+> It’s
+22,23c20
+< talk
+< .
+---
+> talk.
+29,30c26
+< Purdue
+< ,
+---
+> Purdue,
+32,35c28,29
+< cares
+< ?
+< Yeah
+< ,
+---
+> cares?
+> Yeah,
+41,42c35
+< SMU
+< .
+---
+> SMU.
+46,47c39
+< about
+< .
+---
+> about.

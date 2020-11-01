@@ -1,0 +1,24 @@
+15,18c15,16
+< Nate
+< 's
+< plan
+< ?
+---
+> Nate’s
+> plan?
+30,31c28
+< back
+< .
+---
+> back.
+33,38c30,32
+< was
+< n't
+< Nate
+< 's
+< plan
+< ...
+---
+> wasn’t
+> Nate’s
+> plan...

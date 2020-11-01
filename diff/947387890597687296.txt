@@ -1,0 +1,25 @@
+6,7c6
+< yours
+< .
+---
+> yours.
+15,16c14
+< would
+< n't
+---
+> wouldn’t
+28,29c26
+< jg
+< .
+---
+> jg.
+38,39c35
+< been
+< .
+---
+> been.
+57,58c53
+< stupidity/oblivion
+< ?
+---
+> stupidity/oblivion?

@@ -1,0 +1,39 @@
+12,14c12
+< ''
+< like
+< ,
+---
+> "like,
+16,21c14,16
+< smart
+< ''
+< ''
+< special
+< genius
+< ''
+---
+> smart"
+> "special
+> genius"
+24,25c19
+< school
+< .
+---
+> school.
+35,37c29,30
+< was
+< ,
+< &
+---
+> was,
+> &amp;
+42,43c35
+< things
+< ,
+---
+> things,
+61,62c53
+< window
+< .
+---
+> window.

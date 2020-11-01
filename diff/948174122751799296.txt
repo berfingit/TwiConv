@@ -1,0 +1,26 @@
+14,17c14,15
+< advantage
+< ,
+< ironically
+< ,
+---
+> advantage,
+> ironically,
+21,24c19,20
+< boobs
+< .
+< Woo
+< !
+---
+> boobs.
+> Woo!
+29,30c25
+< is
+< n't
+---
+> isn't
+32,33c27
+< elsewhere
+< .
+---
+> elsewhere.

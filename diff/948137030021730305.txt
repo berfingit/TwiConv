@@ -1,0 +1,35 @@
+3,4c3
+< you
+< 're
+---
+> you're
+8,9c7
+< hey
+< .
+---
+> hey.
+11,12c9
+< Lord
+< ,
+---
+> Lord,
+17,18c14
+< mandarin
+< ,
+---
+> mandarin,
+23,24c19
+< elected
+< ,
+---
+> elected,
+33,34c28
+< mood
+< .
+---
+> mood.
+43,44c37
+< it
+< .
+---
+> it.

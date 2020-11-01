@@ -1,0 +1,15 @@
+16,17c16
+< Socialists
+< ?
+---
+> Socialists?
+19,20c18
+< act
+< ,
+---
+> act,
+28,29c26
+< Socialism
+< ?
+---
+> Socialism?

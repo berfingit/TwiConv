@@ -1,0 +1,15 @@
+10,12c10
+< black
+< ,
+< people
+---
+> black,people
+26c24
+< &
+---
+> &amp;
+28,29c26
+< he
+< 's
+---
+> he’s

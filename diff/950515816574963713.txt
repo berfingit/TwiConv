@@ -1,0 +1,26 @@
+12c12
+< &
+---
+> &amp;
+17,21c17,19
+< well
+< .
+< I
+< do
+< n't
+---
+> well.
+> I️
+> don’t
+32,35c30
+< again
+< ...
+< .
+< but
+---
+> again....but
+37,38c32
+< knows
+< .
+---
+> knows.

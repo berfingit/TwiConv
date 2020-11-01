@@ -1,0 +1,28 @@
+3,4c3
+< stupid
+< ,
+---
+> stupid,
+7,8c6
+< were
+< n't
+---
+> weren't
+13,14c11
+< do
+< n't
+---
+> don't
+19,22c16,17
+< feed
+< ,
+< you
+< 'd
+---
+> feed,
+> you'd
+36,37c31
+< time
+< .
+---
+> time.

@@ -1,0 +1,33 @@
+5,6c5
+< 97
+< %
+---
+> 97%
+9,10c8
+< statehood
+< .
+---
+> statehood.
+21,22c19
+< elections
+< ,
+---
+> elections,
+25,26c22
+< do
+< n't
+---
+> don't
+35,36c31
+< voted
+< .
+---
+> voted.
+42,45c37,38
+< choice
+< ,
+< too
+< .
+---
+> choice,
+> too.

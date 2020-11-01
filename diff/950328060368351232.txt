@@ -1,0 +1,20 @@
+5,6c5
+< I
+< 'm
+---
+> I'm
+26,27c25
+< tbh
+< .
+---
+> tbh.
+37,38c35
+< currently
+< .
+---
+> currently.
+42,43c39
+< GRANarchist
+< !
+---
+> GRANarchist!

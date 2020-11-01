@@ -1,0 +1,48 @@
+7,8c7
+< ''
+< The
+---
+> "The
+25,27c24
+< tyrants
+< .
+< ''
+---
+> tyrants."
+35,36c32
+< together
+< .
+---
+> together.
+44,47c40,41
+< harbor
+< .
+< It
+< 's
+---
+> harbor.
+> It's
+50,51c44
+< ''
+< throw
+---
+> "throw
+53,55c46
+< [
+< this
+< ]
+---
+> [this]
+62,69c53,55
+< [
+< our
+< ]
+< security
+< .
+< ''
+< DOI
+< .
+---
+> [our]
+> security."
+> DOI.

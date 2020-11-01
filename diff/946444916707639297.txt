@@ -1,0 +1,18 @@
+19,20c19
+< -LRB-
+< reasonable
+---
+> (reasonable
+22,23c21
+< unreasonable
+< -RRB-
+---
+> unreasonable)
+25,28c23,24
+< function
+< .
+< 5
+< /
+---
+> function.
+> 5/

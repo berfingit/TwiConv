@@ -1,0 +1,48 @@
+4,7c4,5
+< %emoji
+< aiit
+< lem
+< me
+---
+> 😂aiit
+> lemme
+13,14c11
+< it
+< .
+---
+> it.
+18,19c15
+< you
+< 're
+---
+> you're
+21,22c17
+< about
+< ,
+---
+> about,
+26,27c21
+< lock
+< ?
+---
+> lock?
+29,30c23
+< so
+< ,
+---
+> so,
+35,36c28
+< normally
+< ,
+---
+> normally,
+40,41c32
+< dodge/strike
+< .
+---
+> dodge/strike.
+60,61c51
+< striking
+< .
+---
+> striking.

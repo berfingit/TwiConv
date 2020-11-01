@@ -1,0 +1,40 @@
+12,13c12
+< doing
+< ?
+---
+> doing?
+15,16c14
+< do
+< n't
+---
+> don't
+20,21c18
+< situation
+< ,
+---
+> situation,
+23,24c20
+< do
+< n't
+---
+> don't
+29,30c25
+< are
+< ,
+---
+> are,
+32,33c27
+< do
+< n't
+---
+> don't
+40,41c34
+< them
+< .
+---
+> them.
+45,46c38
+< business
+< .
+---
+> business.

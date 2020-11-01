@@ -1,0 +1,50 @@
+8,9c8
+< you
+< 're
+---
+> you're
+18,19c17
+< what
+< ?
+---
+> what?
+22,23c20
+< disagree
+< ?
+---
+> disagree?
+26,27c23
+< it
+< ,
+---
+> it,
+31,34c27,28
+< marriage
+< ,
+< it
+< 's
+---
+> marriage,
+> it's
+50,53c44,45
+< ''
+< cuz
+< it
+< 's
+---
+> "cuz
+> it's
+57,61c49,50
+< like
+< .
+< .
+< it
+< 's
+---
+> like..
+> it's
+68,69c57
+< stuff
+< ''
+---
+> stuff"

@@ -1,0 +1,26 @@
+2,6c2
+< Haha
+< !!
+< ...
+< Do
+< n't
+---
+> Haha!!...Don't
+14,15c10
+< it
+< 's
+---
+> it's
+20,23c15,16
+< conducted
+< .
+< It
+< 's
+---
+> conducted.
+> It's
+29,30c22
+< staged
+< .
+---
+> staged.

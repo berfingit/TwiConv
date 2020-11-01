@@ -1,0 +1,25 @@
+9,10c9
+< source
+< ,
+---
+> source,
+19,20c18
+< wo
+< n't
+---
+> won't
+29,30c27
+< ca
+< n't
+---
+> can't
+32,33c29
+< win
+< ,
+---
+> win,
+48,49c44
+< Palestine
+< .
+---
+> Palestine.

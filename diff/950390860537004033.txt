@@ -1,0 +1,22 @@
+4,7c4,5
+< rubbish
+< ,
+< you
+< 're
+---
+> rubbish,
+> you're
+19,20c17
+< Neil
+< ,
+---
+> Neil,
+22,23c19
+< below
+< .
+---
+> below.
+33c29
+< %emoji
+---
+> 😁

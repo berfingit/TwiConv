@@ -1,0 +1,25 @@
+3,4c3
+< um
+< ,
+---
+> um,
+8,9c7
+< is
+< n't
+---
+> isn’t
+18,19c16
+< does
+< n't
+---
+> doesn’t
+27,28c24
+< everyone
+< 's
+---
+> everyone’s
+32,33c28
+< tonight
+< ?
+---
+> tonight?

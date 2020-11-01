@@ -1,0 +1,27 @@
+20,21c20
+< dementia
+< .
+---
+> dementia.
+23,24c22
+< did
+< n't
+---
+> didn't
+27,28c25
+< decision
+< .
+---
+> decision.
+35,36c32
+< book
+< .
+---
+> book.
+42,45c38
+< *
+< critical
+< *
+< .
+---
+> *critical*.

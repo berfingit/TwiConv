@@ -1,0 +1,25 @@
+6,7c6
+< economy
+< ,
+---
+> economy,
+9,10c8
+< jobs
+< ,
+---
+> jobs,
+13,14c11
+< control
+< ,
+---
+> control,
+16,17c13
+< taxes
+< ,
+---
+> taxes,
+20,21c16
+< freedom
+< .
+---
+> freedom.

@@ -1,0 +1,54 @@
+3,4c3
+< Yeah
+< ,
+---
+> Yeah,
+9,12c8,9
+< too
+< .
+< They
+< 're
+---
+> too.
+> They're
+21,22c18
+< ''
+< the
+---
+> "the
+24,26c20
+< zone
+< ''
+< ,
+---
+> zone",
+28,29c22
+< course
+< .
+---
+> course.
+31,32c24
+< me
+< ,
+---
+> me,
+37,38c29
+< interested
+< ,
+---
+> interested,
+40,41c31
+< ca
+< n't
+---
+> can't
+49,50c39
+< zone
+< ,
+---
+> zone,
+57,58c46
+< outright
+< .
+---
+> outright.

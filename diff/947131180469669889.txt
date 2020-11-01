@@ -1,0 +1,44 @@
+7,10c7,8
+< We
+< 're
+< still
+< @in
+---
+> We’re
+> still@in
+12,13c10
+< EU
+< .
+---
+> EU.
+17,24c14,17
+< Boeing
+< ,
+< Hitachi
+< ,
+< Tata
+< ,
+< Liberty
+< ,
+---
+> Boeing,
+> Hitachi,
+> Tata,
+> Liberty,
+26c19
+< &
+---
+> &amp;
+34,35c27
+< ago
+< .
+---
+> ago.
+53,56c45,46
+< does
+< n't
+< leave
+< .
+---
+> doesn’t
+> leave.

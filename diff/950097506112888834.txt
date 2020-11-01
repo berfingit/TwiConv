@@ -1,0 +1,35 @@
+7,8c7
+< Bias
+< .
+---
+> Bias.
+12,13c11
+< friends
+< .
+---
+> friends.
+20,21c18
+< them
+< .
+---
+> them.
+40,41c37
+< did
+< n't
+---
+> didn’t
+49,50c45
+< videos
+< .
+---
+> videos.
+53,54c48
+< ca
+< n't
+---
+> can’t
+66,67c60
+< point
+< .
+---
+> point.

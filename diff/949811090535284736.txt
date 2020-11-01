@@ -1,0 +1,29 @@
+3,4c3
+< right
+< ,
+---
+> right,
+8,13c7,9
+< parts
+< .
+< Dude
+< ,
+< that
+< 's
+---
+> parts.
+> Dude,
+> that's
+29,32c25,26
+< stuff
+< .
+< Really
+< ,
+---
+> stuff.
+> Really,
+46,47c40
+< times
+< !
+---
+> times!

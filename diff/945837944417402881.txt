@@ -1,0 +1,39 @@
+9,10c9
+< tweets
+< .
+---
+> tweets.
+17,18c16
+< seriously
+< ?
+---
+> seriously?
+22,23c20
+< I
+< 'm
+---
+> I'm
+28,29c25
+< name
+< ,
+---
+> name,
+38,39c34
+< christchurch
+< .
+---
+> christchurch.
+45,46c40
+< you
+< 've
+---
+> you've
+51,55c45,46
+< account
+< .
+< .
+< Hypocrite
+< .
+---
+> account..
+> Hypocrite.

@@ -1,0 +1,26 @@
+3,4c3
+< Thanks
+< !
+---
+> Thanks!
+8,9c7
+< heel
+< .
+---
+> heel.
+18,19c16
+< gills
+< .
+---
+> gills.
+21,22c18
+< I
+< 've
+---
+> I've
+31,33c27
+< Nike
+< 's
+< .
+---
+> Nike's.

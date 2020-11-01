@@ -1,0 +1,36 @@
+7,10c7,8
+< party
+< ?
+< Dude
+< ,
+---
+> party?
+> Dude,
+15,16c13
+< 1981
+< .
+---
+> 1981.
+25,26c22
+< me
+< .
+---
+> me.
+28,31c24,25
+< party
+< ,
+< however
+< ,
+---
+> party,
+> however,
+35,36c29
+< be
+< ,
+---
+> be,
+39,40c32
+< examine
+< .
+---
+> examine.

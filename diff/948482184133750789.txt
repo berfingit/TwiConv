@@ -1,0 +1,28 @@
+7,8c7
+< welcome
+< ,
+---
+> welcome,
+16,17c15
+< arms
+< .
+---
+> arms.
+34,37c32,33
+< them
+< ?
+< I
+< 've
+---
+> them?
+> I’ve
+48,49c44
+< lifetime
+< ,
+---
+> lifetime,
+52,53c47
+< does
+< n't
+---
+> doesn’t

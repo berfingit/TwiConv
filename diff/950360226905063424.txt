@@ -1,0 +1,10 @@
+7,8c7
+< teacher
+< .
+---
+> teacher.
+20,21c19
+< adults
+< ?
+---
+> adults?

@@ -1,0 +1,39 @@
+3,6c3,4
+< did
+< n't
+< win
+< ?
+---
+> didn't
+> win?
+11,12c9
+< well
+< .
+---
+> well.
+15,20c12,14
+< SAF
+< ,
+< DGA
+< ,
+< MPAA
+< ,
+---
+> SAF,
+> DGA,
+> MPAA,
+22,23c16
+< stylist
+< ,
+---
+> stylist,
+26,27c19
+< press
+< .
+---
+> press.
+30,31c22
+< roll
+< .
+---
+> roll.

@@ -1,0 +1,30 @@
+5,16c5,10
+< liar
+< ,
+< Cameron
+< ,
+< Clegg
+< ,
+< Osborne
+< ,
+< Johnson
+< ,
+< Gove
+< ,
+---
+> liar,
+> Cameron,
+> Clegg,
+> Osborne,
+> Johnson,
+> Gove,
+38,39c32
+< union
+< .
+---
+> union.
+52,53c45
+< up
+< .
+---
+> up.

@@ -1,0 +1,27 @@
+5,6c5
+< thing
+< .
+---
+> thing.
+21,23c20
+< SA
+< ,
+< India
+---
+> SA,India
+30,32c27
+< then
+< ,
+< not
+---
+> then,not
+35,36c30
+< wicket
+< !
+---
+> wicket!
+48,49c42
+< up
+< .
+---
+> up.

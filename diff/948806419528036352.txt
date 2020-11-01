@@ -1,0 +1,29 @@
+16,19c16,17
+< hold
+< ?
+< You
+< 're
+---
+> hold?
+> You’re
+22,23c20
+< who
+< 's
+---
+> who’s
+27,30c24,25
+< opinions
+< ,
+< that
+< 's
+---
+> opinions,
+> that’s
+34,37c29,30
+< bigotry
+< .
+< I
+< 've
+---
+> bigotry.
+> I’ve

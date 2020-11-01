@@ -1,0 +1,13 @@
+9,12c9,10
+< work
+< .
+< It
+< 's
+---
+> work.
+> It's
+14,15c12
+< punctuation
+< .
+---
+> punctuation.

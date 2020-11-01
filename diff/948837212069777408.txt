@@ -1,0 +1,10 @@
+1,2c1
+< @
+< 5N_Afzal
+---
+> @5N_Afzal
+16,17c15
+< misogynistic
+< .
+---
+> misogynistic.

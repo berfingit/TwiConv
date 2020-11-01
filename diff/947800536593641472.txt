@@ -1,0 +1,53 @@
+7,8c7
+< London
+< ,
+---
+> London,
+11,12c10
+< that
+< .
+---
+> that.
+18,19c16
+< semite
+< ,
+---
+> semite,
+21,24c18,19
+< divisive
+< .
+< @Borisjohnson
+< 's
+---
+> divisive.
+> @Borisjohnson's
+26,27c21
+< achievement
+< ,
+---
+> achievement,
+30,31c24
+< London
+< .
+---
+> London.
+34,35c27
+< down
+< ,
+---
+> down,
+42,43c34
+< years
+< .
+---
+> years.
+46,47c37
+< divisive
+< ,
+---
+> divisive,
+49,50c39
+< nothing
+< .
+---
+> nothing.

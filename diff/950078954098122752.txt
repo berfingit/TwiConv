@@ -1,0 +1,32 @@
+5,6c5
+< ''
+< a
+---
+> "a
+9,11c8
+< work
+< ''
+< ,
+---
+> work",
+13,14c10
+< dude
+< .
+---
+> dude.
+19,20c15
+< footage
+< .
+---
+> footage.
+23,25c18
+< don
+< %emoji
+< t
+---
+> don´t
+29,30c22
+< editing
+< .
+---
+> editing.

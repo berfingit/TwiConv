@@ -1,0 +1,25 @@
+21,22c21
+< time
+< .
+---
+> time.
+24,25c23
+< note
+< ,
+---
+> note,
+42,43c40
+< debate
+< .
+---
+> debate.
+49,50c46
+< link
+< .
+---
+> link.
+55,56c51
+< wrong
+< .
+---
+> wrong.

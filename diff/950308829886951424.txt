@@ -1,0 +1,16 @@
+7,9c7
+< it
+< ...
+< because
+---
+> it...because
+18,19c16
+< oppressed
+< ,
+---
+> oppressed,
+31,32c28
+< helm
+< ?
+---
+> helm?

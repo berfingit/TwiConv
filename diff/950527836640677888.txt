@@ -1,0 +1,25 @@
+3,4c3
+< is
+< n't
+---
+> isn’t
+6,7c5
+< nice
+< .
+---
+> nice.
+21,22c19
+< data
+< .
+---
+> data.
+35,36c32
+< reply
+< .
+---
+> reply.
+42,43c38
+< story
+< .
+---
+> story.

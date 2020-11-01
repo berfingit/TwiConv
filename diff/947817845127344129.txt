@@ -1,0 +1,22 @@
+13,14c13
+< people
+< ,
+---
+> people,
+36,38c35
+< life
+< ,
+< you
+---
+> life,you
+40,42c37
+< evil
+< ,
+< protecting
+---
+> evil,protecting
+46,47c41
+< complicit
+< ,
+---
+> complicit,

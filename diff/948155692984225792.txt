@@ -1,0 +1,10 @@
+7,8c7
+< actually
+< .
+---
+> actually.
+26,27c25
+< idea
+< !
+---
+> idea!

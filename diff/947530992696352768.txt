@@ -1,0 +1,41 @@
+4,5c4
+< Have
+< n't
+---
+> Haven't
+7,10c6,7
+< heard
+< ,
+< dear
+< ????
+---
+> heard,
+> dear????
+14,15c11
+< president
+< !!!
+---
+> president!!!
+27,28c23
+< false
+< .
+---
+> false.
+35,36c30
+< operatives
+< ,
+---
+> operatives,
+41,44c35,36
+< Putin
+< ,
+< dear
+< .
+---
+> Putin,
+> dear.
+50,51c42
+< info
+< .
+---
+> info.

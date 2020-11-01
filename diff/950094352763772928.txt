@@ -1,0 +1,58 @@
+5,6c5
+< Well
+< .
+---
+> Well.
+11,12c10
+< we
+< 're
+---
+> we’re
+14,15c12
+< gon
+< na
+---
+> gonna
+20,21c17
+< this
+< .
+---
+> this.
+23,24c19
+< do
+< n't
+---
+> don’t
+32,33c27
+< anyway
+< .
+---
+> anyway.
+38,39c32
+< content
+< .
+---
+> content.
+43,44c36
+< is
+< n't
+---
+> isn’t
+57,60c49,50
+< footage
+< .
+< I
+< 'm
+---
+> footage.
+> I’m
+63,64c53
+< do
+< n't
+---
+> don’t
+70,71c59
+< is
+< .
+---
+> is.

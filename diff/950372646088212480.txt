@@ -1,0 +1,29 @@
+3,4c3
+< It
+< 's
+---
+> It's
+19,24c18,20
+< bitter
+< ,
+< mindless
+< ,
+< intellect-crippling
+< ,
+---
+> bitter,
+> mindless,
+> intellect-crippling,
+29,30c25
+< SNP
+< .
+---
+> SNP.
+36,39c31,32
+< counselling
+< ,
+< perhaps
+< .
+---
+> counselling,
+> perhaps.

@@ -1,0 +1,43 @@
+10,11c10
+< wan
+< na
+---
+> wanna
+18,19c17
+< again
+< .
+---
+> again.
+21,22c19
+< CAN
+< NOT
+---
+> CANNOT
+27,28c24
+< loan
+< .
+---
+> loan.
+38,41c34,35
+< season
+< .
+< Ca
+< n't
+---
+> season.
+> Can't
+46,47c40
+< team
+< .
+---
+> team.
+51,52c44
+< FIFA
+< 's
+---
+> FIFA's
+55,56c47
+< this
+< .
+---
+> this.

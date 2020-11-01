@@ -1,0 +1,10 @@
+12,13c12
+< fantasy
+< .
+---
+> fantasy.
+28,29c27
+< whatsoever
+< ?
+---
+> whatsoever?

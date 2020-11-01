@@ -1,0 +1,23 @@
+7,11c7
+< do
+< n't
+< .
+< ,
+< ,
+---
+> don’t.,,
+15,16c11
+< how
+< ?
+---
+> how?
+20,21c15
+< arguments
+< ,
+---
+> arguments,
+24,25c18
+< facts
+< .
+---
+> facts.

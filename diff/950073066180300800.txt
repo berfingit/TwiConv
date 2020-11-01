@@ -1,0 +1,73 @@
+6,8c6
+< ``
+< ...
+< now
+---
+> “...now
+11,12c9
+< daughter
+< /
+---
+> daughter/
+16,18c13
+< stone
+< ,
+< /
+---
+> stone,/
+23,27c18,20
+< air
+< .
+< ''
+< ``
+< ...
+---
+> air.”
+> “...a
+> woman,
+29,30c22
+< woman
+< ,
+---
+> mother,
+32,36c24
+< mother
+< ,
+< a
+< warrior
+< /
+---
+> warrior/
+40,41c28
+< fighting
+< ,
+---
+> fighting,
+45,47c32
+< in
+< .
+< /
+---
+> in./
+49,50c34
+< exiled
+< ,
+---
+> exiled,
+55,57c39
+< home
+< ,
+< /
+---
+> home,/
+61,62c43
+< up
+< .
+---
+> up.
+66,68c47
+< back
+< .
+< ''
+---
+> back.”

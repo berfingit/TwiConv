@@ -1,0 +1,10 @@
+5,6c5
+< is
+< n't
+---
+> isn’t
+8,9c7
+< sufficient
+< ?
+---
+> sufficient?

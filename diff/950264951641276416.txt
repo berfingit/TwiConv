@@ -1,0 +1,12 @@
+2,3c2
+< That
+< 's
+---
+> That's
+8,11c7
+< ever
+< %emoji
+< %emoji
+< %emoji
+---
+> ever😂😂😂

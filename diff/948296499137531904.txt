@@ -1,0 +1,18 @@
+8,11c8,9
+< worshipping
+< ?
+< You
+< 're
+---
+> worshipping?
+> You're
+15,16c13
+< twist
+< .
+---
+> twist.
+31,32c28
+< doing
+< .
+---
+> doing.

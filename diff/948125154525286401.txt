@@ -1,0 +1,10 @@
+13,14c13
+< eugenics
+< .
+---
+> eugenics.
+31,32c30
+< himself
+< .
+---
+> himself.

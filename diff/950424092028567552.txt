@@ -1,0 +1,56 @@
+3,4c3
+< do
+< n't
+---
+> don't
+6,7c5
+< what
+< 's
+---
+> what's
+15,16c13
+< we
+< 're
+---
+> we're
+19,20c16
+< ACA
+< .
+---
+> ACA.
+22,23c18
+< guess
+< ,
+---
+> guess,
+27,28c22
+< figures
+< ,
+---
+> figures,
+38,39c32
+< win
+< .
+---
+> win.
+42,43c35
+< case
+< ,
+---
+> case,
+50,51c42
+< increasing
+< .
+---
+> increasing.
+60,62c51
+< ''
+< okay
+< ,
+---
+> "okay,
+66,67c55
+< up
+< ''
+---
+> up"

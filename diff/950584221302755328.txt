@@ -1,0 +1,32 @@
+22,25c22,23
+< Agreed
+< !
+< There
+< 's
+---
+> Agreed!
+> There's
+41,42c39
+< Sif
+< .
+---
+> Sif.
+53,54c50
+< was
+< n't
+---
+> wasn't
+70c66
+< &
+---
+> &amp;
+72,73c68
+< could
+< n't
+---
+> couldn't
+77,78c72
+< Zealand
+< .
+---
+> Zealand.

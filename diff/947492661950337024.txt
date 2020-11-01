@@ -1,0 +1,48 @@
+1,4c1
+< RT
+< :
+< ''
+< Our
+---
+> RT:”Our
+6c3
+< &
+---
+> &amp;
+19,24c16,17
+< NKorea
+< ,
+< Venezuela
+< ,
+< Cuba
+< &
+---
+> NKorea,Venezuela,Cuba
+> &amp;
+27,28c20
+< Iran
+< ,
+---
+> Iran,
+36,38c28
+< voice
+< .
+< The
+---
+> voice.The
+47,49c37
+< people
+< .
+< We
+---
+> people.We
+52c40
+< &
+---
+> &amp;
+58,60c46
+< day
+< .
+< ''
+---
+> day.”

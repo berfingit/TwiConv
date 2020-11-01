@@ -1,0 +1,37 @@
+7,11c7,8
+< '
+< semantic
+< traps
+< '
+< .
+---
+> 'semantic
+> traps'.
+30,31c27
+< place
+< ,
+---
+> place,
+35,36c31
+< eugenicism
+< ,
+---
+> eugenicism,
+43,46c38,39
+< hypocritical
+< .
+< Absurd
+< ,
+---
+> hypocritical.
+> Absurd,
+48,49c41
+< course
+< ,
+---
+> course,
+58,59c50
+< quote
+< .
+---
+> quote.

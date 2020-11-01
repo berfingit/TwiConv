@@ -1,0 +1,33 @@
+16,17c16
+< ways
+< .
+---
+> ways.
+19,22c18,19
+< they
+< 're
+< not
+< .
+---
+> they're
+> not.
+28,29c25
+< tighter
+< .
+---
+> tighter.
+33,34c29
+< decided
+< ,
+---
+> decided,
+38,39c33
+< Yankees
+< ,
+---
+> Yankees,
+47,48c41
+< players
+< .
+---
+> players.

@@ -1,0 +1,20 @@
+11,12c11
+< whatsoever
+< .
+---
+> whatsoever.
+20,21c19
+< itself
+< ,
+---
+> itself,
+31,32c29
+< nation
+< ;
+---
+> nation;
+38,39c35
+< matter
+< .
+---
+> matter.

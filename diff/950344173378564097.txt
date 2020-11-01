@@ -1,0 +1,43 @@
+4,5c4
+< There
+< 's
+---
+> There's
+16,18c15
+< '
+< accept
+< '
+---
+> 'accept'
+32,33c29
+< marry
+< ...
+---
+> marry...
+36,37c32
+< did
+< n't
+---
+> didn't
+39,41c34
+< that
+< ...
+< and
+---
+> that...and
+46,47c39
+< right
+< .
+---
+> right.
+55,57c47
+< '
+< accept
+< '
+---
+> 'accept'
+62,63c52
+< set-back
+< .
+---
+> set-back.

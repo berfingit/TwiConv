@@ -1,0 +1,10 @@
+10,11c10
+< does
+< n't
+---
+> doesn't
+19,20c18
+< means
+< .
+---
+> means.

@@ -1,0 +1,20 @@
+3,4c3
+< do
+< n't
+---
+> don't
+13,14c12
+< office
+< .
+---
+> office.
+21,22c19
+< she
+< 's
+---
+> she's
+25,26c22
+< woman
+< .
+---
+> woman.

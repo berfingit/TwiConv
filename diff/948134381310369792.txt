@@ -1,0 +1,13 @@
+15,19c15
+< %emoji
+< %emoji
+< %emoji
+< %emoji
+< %emoji
+---
+> 😂😂😂😂😂
+27,28c23
+< Rob
+< .
+---
+> Rob.

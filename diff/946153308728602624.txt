@@ -1,0 +1,25 @@
+11,12c11
+< consistent
+< .
+---
+> consistent.
+15,16c14
+< flimsy
+< ,
+---
+> flimsy,
+19,20c17
+< hypocritical
+< .
+---
+> hypocritical.
+32,33c29
+< progression
+< .
+---
+> progression.
+44,45c40
+< acceptance
+< .
+---
+> acceptance.

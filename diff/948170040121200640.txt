@@ -1,0 +1,29 @@
+7,8c7
+< I
+< 've
+---
+> I've
+11,18c10,13
+< boobology
+< .
+< No
+< ,
+< I
+< 'm
+< joking
+< .
+---
+> boobology.
+> No,
+> I'm
+> joking.
+32,33c27
+< alone
+< ,
+---
+> alone,
+43,44c37
+< then
+< .
+---
+> then.

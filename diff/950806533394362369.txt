@@ -1,0 +1,21 @@
+8,9c8
+< type
+< ,
+---
+> type,
+13,16c12,13
+< ca
+< n't
+< read
+< .
+---
+> can't
+> read.
+27,30c24,25
+< do
+< n't
+< you
+< .
+---
+> don't
+> you.

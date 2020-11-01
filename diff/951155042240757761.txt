@@ -1,0 +1,35 @@
+4,5c4
+< Nothing
+< .
+---
+> Nothing.
+13,14c12
+< hatred
+< ,
+---
+> hatred,
+24,25c22
+< ignorant
+< ,
+---
+> ignorant,
+28,29c25
+< tyrant
+< .
+---
+> tyrant.
+31,32c27
+< who
+< 's
+---
+> who's​
+35,36c30
+< IQ
+< ,
+---
+> IQ,
+43,44c37
+< ignorance
+< .
+---
+> ignorance.

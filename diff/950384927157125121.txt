@@ -1,0 +1,13 @@
+3,4c3
+< Cortex
+< ,
+---
+> Cortex,
+6,9c5,6
+< him
+< .
+< LMAO
+< .
+---
+> him.
+> LMAO.

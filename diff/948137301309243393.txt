@@ -1,0 +1,30 @@
+2,3c2
+< logically
+< ,
+---
+> logically,
+14,15c13
+< it
+< ?
+---
+> it?
+18,19c16
+< korean
+< ?
+---
+> korean?
+30,31c27
+< it
+< .
+---
+> it.
+43,44c39
+< words
+< .
+---
+> words.
+49,50c44
+< is
+< ,
+---
+> is,

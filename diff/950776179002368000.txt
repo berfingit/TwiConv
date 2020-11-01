@@ -1,0 +1,38 @@
+2,5c2
+< Du
+< n
+< no
+< ...
+---
+> Dunno…
+12,13c9
+< wrong
+< ,
+---
+> wrong,
+24,26c20
+< men
+< --
+< at
+---
+> men—at
+30,33c24,25
+< experience
+< .
+< It
+< 's
+---
+> experience.
+> It's
+48,49c40
+< partner
+< ,
+---
+> partner,
+58,61c49
+< friend
+< [
+< ...
+< ]
+---
+> friend[…]

@@ -1,0 +1,23 @@
+6,7c6
+< I
+< 'm
+---
+> I'm
+10,11c9
+< debate
+< ,
+---
+> debate,
+17,18c15
+< topic
+< .
+---
+> topic.
+30,33c27,28
+< amusing
+< ,
+< briefly
+< .
+---
+> amusing,
+> briefly.

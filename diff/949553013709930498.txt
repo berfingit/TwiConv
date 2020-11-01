@@ -1,0 +1,20 @@
+11,12c11
+< left
+< ,
+---
+> left,
+28,29c27
+< cancel
+< .
+---
+> cancel.
+38,39c36
+< though
+< .
+---
+> though.
+42,43c39
+< you
+< .
+---
+> you.

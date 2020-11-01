@@ -1,0 +1,20 @@
+7,8c7
+< ridiculous
+< .
+---
+> ridiculous.
+16,17c15
+< England
+< .
+---
+> England.
+21,22c19
+< too
+< .
+---
+> too.
+33,34c30
+< well
+< .
+---
+> well.

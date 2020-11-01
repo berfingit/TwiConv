@@ -1,0 +1,45 @@
+1,2c1
+< ackshully
+< ,
+---
+> ackshully,
+4,5c3
+< was
+< n't
+---
+> wasn't
+9,10c7
+< code
+< ,
+---
+> code,
+17,18c14
+< christmas
+< !!
+---
+> christmas!!
+21,22c17
+< week
+< 's
+---
+> week's
+25,30c20,21
+< ''
+< YearOf2017
+< ''
+< ,
+< do
+< n't
+---
+> "YearOf2017",
+> don't
+38,39c29
+< aura
+< .
+---
+> aura.
+44,45c34
+< anime
+< !!
+---
+> anime!!

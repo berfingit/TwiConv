@@ -1,0 +1,39 @@
+13,14c13
+< war
+< ?
+---
+> war?
+28,33c27,29
+< -LRB-
+< I
+< quote
+< -RRB-
+< ''
+< America
+---
+> (I
+> quote)
+> "America
+39,44c35,37
+< together
+< ''
+< &
+< ''
+< Let
+< 's
+---
+> together"
+> &amp;
+> "Let's
+46,52c39,41
+< together
+< ,
+< America
+< ''
+< ?
+< Huh
+< .
+---
+> together,
+> America"?
+> Huh.

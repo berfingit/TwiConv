@@ -1,0 +1,29 @@
+5,8c5
+< american
+< .
+< .
+< he
+---
+> american..he
+16,20c13,14
+< .
+< .
+< unless
+< he
+< 's
+---
+> ..unless
+> he's
+22,25c16
+< something
+< .
+< .
+< The
+---
+> something..The
+30,32c21
+< free
+< .
+< .
+---
+> free..

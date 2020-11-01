@@ -1,0 +1,31 @@
+14,15c14
+< yourself
+< .
+---
+> yourself.
+20,21c19
+< wo
+< n't
+---
+> won't
+30,31c28
+< you
+< 've
+---
+> you've
+35,37c32
+< it
+< --
+< just
+---
+> it--just
+43,44c38
+< it
+< ,
+---
+> it,
+59,60c53
+< said
+< .
+---
+> said.

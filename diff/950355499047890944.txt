@@ -1,0 +1,17 @@
+2,3c2
+< Why
+< ?
+---
+> Why?
+21,27c20,22
+< live
+< ,
+< unfiltered
+< ...
+< and
+< unguarded
+< .
+---
+> live,
+> unfiltered...and
+> unguarded.

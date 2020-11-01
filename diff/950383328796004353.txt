@@ -1,0 +1,13 @@
+4,7c4,5
+< ``
+< actively
+< thinking
+< ''
+---
+> “actively
+> thinking”
+13,14c11
+< 2020
+< ,
+---
+> 2020,

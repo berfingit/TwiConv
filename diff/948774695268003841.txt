@@ -1,0 +1,39 @@
+4,9c4,6
+< You
+< 're
+< adorable
+< .
+< I
+< 'm
+---
+> You’re
+> adorable.
+> I’m
+12,13c9
+< do
+< n't
+---
+> don’t
+19,22c15,16
+< you
+< 've
+< included
+< .
+---
+> you’ve
+> included.
+32,33c26
+< generalisations
+< .
+---
+> generalisations.
+44,45c37
+< would
+< n't
+---
+> wouldn’t
+47,48c39
+< you
+< .
+---
+> you.

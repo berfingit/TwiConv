@@ -1,0 +1,36 @@
+3,4c3
+< Ha
+< !
+---
+> Ha!
+6,8c5,6
+< true
+< .
+< %emoji
+---
+> true.
+> 😆
+23,26c21,22
+< 666
+< ?
+< I
+< 'm
+---
+> 666?
+> I'm
+39,42c35,36
+< it
+< .
+< Henceforth
+< ,
+---
+> it.
+> Henceforth,
+51,54c45,46
+< dragon
+< .
+< Beware
+< .
+---
+> dragon.
+> Beware.

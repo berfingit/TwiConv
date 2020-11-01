@@ -1,0 +1,13 @@
+3,4c3
+< WTF
+< ?
+---
+> WTF?
+24,27c23,24
+< drop
+< .
+< Manipulation
+< ?
+---
+> drop.
+> Manipulation?

@@ -1,0 +1,20 @@
+17,18c17
+< teams
+< ?
+---
+> teams?
+21,22c20
+< flops
+< .
+---
+> flops.
+40,41c38
+< spending
+< .
+---
+> spending.
+58,59c55
+< bucks
+< .
+---
+> bucks.

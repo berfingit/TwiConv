@@ -1,0 +1,31 @@
+6,7c6
+< worries
+< ,
+---
+> worries,
+20,21c19
+< think
+< .
+---
+> think.
+24,25c22
+< runs
+< ,
+---
+> runs,
+33,36c30
+< job/requirements
+< ...
+< .
+< TBH
+---
+> job/requirements....TBH
+45c39
+< I
+---
+> I️
+51,52c45
+< candidate
+< .
+---
+> candidate.

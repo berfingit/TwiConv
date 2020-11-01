@@ -1,0 +1,28 @@
+14,15c14
+< do
+< n't
+---
+> don't
+19,20c18
+< welfare
+< .
+---
+> welfare.
+38,41c36,37
+< job
+< .
+< That
+< 's
+---
+> job.
+> That's
+45,46c41
+< it
+< .
+---
+> it.
+60,61c55
+< much
+< !!
+---
+> much!!

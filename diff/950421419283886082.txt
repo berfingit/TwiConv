@@ -1,0 +1,27 @@
+5,6c5
+< should
+< n't
+---
+> shouldn't
+13,14c12
+< ca
+< n't
+---
+> can't
+16,17c14
+< criticism
+< .
+---
+> criticism.
+19,20c16
+< she
+< 's
+---
+> she's
+23,25c19,20
+< them
+< .
+< %smiley
+---
+> them.
+> :(

@@ -1,0 +1,63 @@
+5,6c5
+< Quite
+< .
+---
+> Quite.
+10,11c9
+< word
+< .
+---
+> word.
+18,19c16
+< eugenics
+< .
+---
+> eugenics.
+24,25c21
+< name
+< .
+---
+> name.
+28,29c24
+< long
+< ,
+---
+> long,
+31,32c26
+< article
+< .
+---
+> article.
+34,35c28
+< was
+< n't
+---
+> wasn’t
+37,38c30
+< slip
+< ,
+---
+> slip,
+46,47c38
+< reader
+< .
+---
+> reader.
+51,52c42
+< word
+< .
+---
+> word.
+60,63c50,51
+< means
+< .
+< He
+< 's
+---
+> means.
+> He’s
+67,68c55
+< eugenics
+< .
+---
+> eugenics.

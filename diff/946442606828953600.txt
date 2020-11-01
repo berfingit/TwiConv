@@ -1,0 +1,29 @@
+4,5c4
+< individualism-v-collectivism
+< ,
+---
+> individualism-v-collectivism,
+9,10c8
+< degree
+< ,
+---
+> degree,
+20,21c18
+< system
+< ,
+---
+> system,
+38,39c35
+< -LRB-
+< and
+---
+> (and
+42,46c38,39
+< sums
+< -RRB-
+< .
+< 3
+< /
+---
+> sums).
+> 3/

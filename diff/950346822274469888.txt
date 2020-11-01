@@ -1,0 +1,36 @@
+8,10c8
+< ''
+< noise
+< ''
+---
+> "noise"
+12,13c10
+< created
+< ,
+---
+> created,
+18,19c15
+< new
+< .
+---
+> new.
+45,46c41
+< Reagan
+< ,
+---
+> Reagan,
+51,52c46
+< stability
+< .
+---
+> stability.
+58,59c52
+< w
+< /
+---
+> w/
+62,63c55
+< salt
+< .
+---
+> salt.

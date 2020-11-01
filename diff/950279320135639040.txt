@@ -1,0 +1,44 @@
+7,9c7
+< /
+< not
+< /
+---
+> /not/
+11,14c9,10
+< her
+< .
+< She
+< 's
+---
+> her.
+> She’s
+16,17c12
+< creepy
+< ,
+---
+> creepy,
+19,20c14
+< person
+< .
+---
+> person.
+23,24c17
+< said
+< ,
+---
+> said,
+35,36c28
+< harassment
+< ,
+---
+> harassment,
+46,47c38
+< completely
+< ,
+---
+> completely,
+49,50c40
+< disgusting
+< .
+---
+> disgusting.

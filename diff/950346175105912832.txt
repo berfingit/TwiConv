@@ -1,0 +1,36 @@
+7,12c7,9
+< Oprah
+< 's
+< got
+< ,
+< Trump
+< 's
+---
+> Oprah's
+> got,
+> Trump's
+16,17c13
+< assured
+< .
+---
+> assured.
+21,22c17
+< hysterical
+< ,
+---
+> hysterical,
+33,34c28
+< does
+< n't
+---
+> doesn't
+39,43c33,35
+< speech
+< .
+< Sorry
+< .
+< %emoji
+---
+> speech.
+> Sorry.
+> 🤗

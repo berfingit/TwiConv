@@ -1,0 +1,17 @@
+3,4c3
+< is
+< .
+---
+> is.
+7,8c6
+< shippers
+< .
+---
+> shippers.
+12,14c10,11
+< disagreeing
+< .
+< %emoji
+---
+> disagreeing.
+> 🤣

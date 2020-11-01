@@ -1,0 +1,30 @@
+6,7c6
+< Really
+< ?
+---
+> Really?
+13,14c12
+< work
+< ?
+---
+> work?
+20,21c18
+< school
+< ?
+---
+> school?
+30,31c27
+< years
+< .
+---
+> years.
+34,35c30
+< obama
+< .
+---
+> obama.
+44,45c39
+< elected
+< .
+---
+> elected.

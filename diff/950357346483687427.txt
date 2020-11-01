@@ -1,0 +1,56 @@
+7,13c7,9
+< myself
+< ,
+< ''
+< okay
+< ,
+< it
+< 's
+---
+> myself,
+> "okay,
+> it's
+19,20c15
+< we
+< 'll
+---
+> we'll
+25,32c20,22
+< someone
+< .
+< .
+< ''
+< *
+< checks
+< Twitter
+< *
+---
+> someone.."
+> *checks
+> Twitter*
+39,40c29
+< @zonalmista
+< 's
+---
+> @zonalmista's
+48,51c37,38
+< *
+< scrolling
+< up
+< *
+---
+> *scrolling
+> up*
+54,57c41,42
+< Gino
+< ?!
+< *
+< repeat
+---
+> Gino?!
+> *repeat
+60,61c45
+< later
+< *
+---
+> later*

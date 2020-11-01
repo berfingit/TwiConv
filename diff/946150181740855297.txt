@@ -1,0 +1,33 @@
+11,12c11
+< you
+< ,
+---
+> you,
+18,19c17
+< mine
+< ?
+---
+> mine?
+21,22c19
+< note
+< ,
+---
+> note,
+37,40c34,35
+< others
+< ?
+< You
+< 've
+---
+> others?
+> You've
+55,56c50
+< brain
+< .
+---
+> brain.
+62,63c56
+< it
+< ?
+---
+> it?

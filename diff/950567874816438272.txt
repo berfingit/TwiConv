@@ -1,0 +1,35 @@
+12,13c12
+< right
+< ?
+---
+> right?
+20,21c19
+< blowout
+< .
+---
+> blowout.
+24,25c22
+< close
+< ,
+---
+> close,
+33,34c30
+< crushed
+< .
+---
+> crushed.
+36,37c32
+< incendiary
+< .
+---
+> incendiary.
+42,43c37
+< what
+< 's
+---
+> what’s
+47,48c41
+< Australia
+< ?
+---
+> Australia?

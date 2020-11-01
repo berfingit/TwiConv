@@ -1,0 +1,9 @@
+15,19c15,16
+< doesn
+< %emoji
+< t
+< own
+< .
+---
+> doesn´t
+> own.

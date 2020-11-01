@@ -1,0 +1,13 @@
+14,15c14
+< Do
+< n't
+---
+> Don’t
+27,31c26
+< %emoji
+< %emoji
+< %emoji
+< %emoji
+< %emoji
+---
+> 😳😂😂😂😂

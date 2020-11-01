@@ -1,0 +1,20 @@
+3,4c3
+< lovely
+< ,
+---
+> lovely,
+6,7c5
+< is
+< n't
+---
+> isn't
+12,13c10
+< though
+< .
+---
+> though.
+24,25c21
+< politics
+< ?
+---
+> politics?

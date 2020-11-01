@@ -1,0 +1,19 @@
+4,5c4
+< well
+< ,
+---
+> well,
+7,14c6,9
+< he
+< 's
+< like
+< ,
+< really
+< ,
+< smart
+< .
+---
+> he’s
+> like,
+> really,
+> smart.

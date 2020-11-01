@@ -1,0 +1,13 @@
+14,17c14,15
+< leprechauns
+< !
+< Ca
+< n't
+---
+> leprechauns!
+> Can’t
+26,27c24
+< literal
+< .
+---
+> literal.

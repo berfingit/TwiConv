@@ -1,0 +1,30 @@
+12,13c12
+< earlier
+< .
+---
+> earlier.
+19,20c18
+< up
+< .
+---
+> up.
+31,32c29
+< though
+< .
+---
+> though.
+36,37c33
+< what
+< ,
+---
+> what,
+43,44c39
+< career
+< ?
+---
+> career?
+53,54c48
+< ages
+< .
+---
+> ages.

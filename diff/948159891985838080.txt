@@ -1,0 +1,20 @@
+14,15c14
+< tweet
+< .
+---
+> tweet.
+21,22c20
+< word
+< ,
+---
+> word,
+29,30c27
+< such
+< .
+---
+> such.
+47,48c44
+< discussion
+< .
+---
+> discussion.

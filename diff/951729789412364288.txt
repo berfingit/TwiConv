@@ -1,0 +1,12 @@
+4,5c4
+< do
+< n't
+---
+> don’t
+14,16c13,14
+< condoms
+< .
+< %emoji
+---
+> condoms.
+> 💯

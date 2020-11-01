@@ -1,0 +1,29 @@
+4,7c4,5
+< Catherine
+< ,
+< I
+< 've
+---
+> Catherine,
+> I've
+9,11c7
+< *
+< exactly
+< *
+---
+> *exactly*
+20,21c16
+< result
+< ,
+---
+> result,
+32,33c27
+< leadership
+< ?
+---
+> leadership?
+46,47c40
+< you
+< ?
+---
+> you?

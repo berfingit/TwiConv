@@ -1,0 +1,24 @@
+4,6c4
+< again
+< .
+< .
+---
+> again..
+10,12c8
+< something
+< .
+< ?
+---
+> something.?
+15,17c11
+< maybe
+< .
+< .
+---
+> maybe..
+23,25c17
+< bright
+< .
+< .
+---
+> bright..

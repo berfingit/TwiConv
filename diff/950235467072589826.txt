@@ -1,0 +1,20 @@
+3,4c3
+< Roy
+< 's
+---
+> Roy's
+6,7c5
+< handle
+< ?
+---
+> handle?
+9,10c7
+< ca
+< n't
+---
+> can't
+17,18c14
+< search
+< .
+---
+> search.

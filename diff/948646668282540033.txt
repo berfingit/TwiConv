@@ -1,0 +1,46 @@
+12,13c12
+< shocking
+< ,
+---
+> shocking,
+15,16c14
+< shocking
+< ,
+---
+> shocking,
+30,31c28
+< remarks
+< .
+---
+> remarks.
+35,36c32
+< racism
+< ,
+---
+> racism,
+40,42c36
+< would
+< n't
+< .
+---
+> wouldn’t.
+44,45c38
+< women
+< ?
+---
+> women?
+47,48c40
+< do
+< n't
+---
+> don’t
+53,54c45
+< defence
+< .
+---
+> defence.
+63,64c54
+< misogyny
+< .
+---
+> misogyny.

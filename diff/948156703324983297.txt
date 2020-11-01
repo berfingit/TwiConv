@@ -1,0 +1,23 @@
+15,18c15,16
+< democracy
+< .
+< It
+< 's
+---
+> democracy.
+> It's
+22,23c20
+< referendums
+< ,
+---
+> referendums,
+31,32c28
+< much
+< .
+---
+> much.
+55,56c51
+< entirely
+< .
+---
+> entirely.

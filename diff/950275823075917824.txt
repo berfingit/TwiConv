@@ -1,0 +1,27 @@
+8,14c8,10
+< ``
+< sonichu
+< ''
+< panel
+< .
+< Like
+< ,
+---
+> “sonichu”
+> panel.
+> Like,
+32,33c28
+< could
+< n't
+---
+> couldn’t
+42,43c37
+< aneurotypicality
+< .
+---
+> aneurotypicality.
+48,49c42
+< that
+< ?
+---
+> that?

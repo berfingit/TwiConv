@@ -1,0 +1,15 @@
+16,17c16
+< executive
+< .
+---
+> executive.
+30,31c29
+< job
+< .
+---
+> job.
+34,35c32
+< him
+< .
+---
+> him.

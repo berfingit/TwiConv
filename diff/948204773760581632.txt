@@ -1,0 +1,23 @@
+3,6c3,4
+< You
+< 're
+< welcome
+< .
+---
+> You're
+> welcome.
+17,18c15
+< complete
+< .
+---
+> complete.
+24,25c21
+< soon
+< .
+---
+> soon.
+31,32c27
+< it
+< .
+---
+> it.

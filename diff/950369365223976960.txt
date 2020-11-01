@@ -1,0 +1,43 @@
+15,16c15
+< x
+< %
+---
+> x%
+19,22c18,19
+< sport
+< 's
+< revenue
+< .
+---
+> sport's
+> revenue.
+26,27c23
+< $
+< 2M
+---
+> $2M
+29,30c25
+< salary
+< ,
+---
+> salary,
+40,41c35
+< sooner
+< ,
+---
+> sooner,
+44,45c38
+< deals
+< ,
+---
+> deals,
+47,48c40
+< agree
+< .
+---
+> agree.
+56,57c48
+< whole
+< .
+---
+> whole.

@@ -1,0 +1,40 @@
+1,2c1
+< Today
+< ,
+---
+> Today,
+12,27c11,18
+< intelligence
+< ,
+< stability
+< ,
+< decency
+< ,
+< humility
+< ,
+< compassion
+< ,
+< humor
+< ,
+< hope
+< ,
+< morality
+< ,
+---
+> intelligence,
+> stability,
+> decency,
+> humility,
+> compassion,
+> humor,
+> hope,
+> morality,
+31c22
+< &
+---
+> &amp;
+34,35c25
+< country
+< .
+---
+> country.

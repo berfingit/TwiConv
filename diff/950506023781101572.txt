@@ -1,0 +1,58 @@
+1,2c1
+< @
+< 1111summit
+---
+> @1111summit
+6,9c5,6
+< I
+< 'm
+< sorry
+< .
+---
+> I'm
+> sorry.
+12,13c9
+< I
+< 'm
+---
+> I'm
+17,18c13
+< now
+< ,
+---
+> now,
+32,34c27,28
+< Trump
+< ;
+< &
+---
+> Trump;
+> &amp;
+36,37c30
+< would
+< n't
+---
+> wouldn't
+42,43c35
+< president
+< .
+---
+> president.
+54,57c46,47
+< her
+< .
+< She
+< 's
+---
+> her.
+> She's
+60,61c50
+< things
+< .
+---
+> things.
+68,69c57
+< vote
+< .
+---
+> vote.

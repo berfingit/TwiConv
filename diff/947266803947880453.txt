@@ -1,0 +1,6 @@
+12,14c12
+< -
+< triggered
+< -
+---
+> -triggered-

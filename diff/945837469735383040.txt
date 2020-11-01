@@ -1,0 +1,35 @@
+17,18c17
+< account
+< ?
+---
+> account?
+22,23c21
+< picture
+< ?
+---
+> picture?
+25,26c23
+< do
+< n't
+---
+> don't
+32,33c29
+< either
+< ,
+---
+> either,
+35,36c31
+< what
+< ?
+---
+> what?
+42,43c37
+< too
+< ?
+---
+> too?
+46,47c40
+< moron
+< .
+---
+> moron.

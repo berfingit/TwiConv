@@ -1,0 +1,29 @@
+4,8c4,5
+< YOU
+< !
+< %emoji
+< %emoji
+< %emoji
+---
+> YOU!
+> 💛💛💛
+16,17c13
+< more
+< ,
+---
+> more,
+19,20c15
+< think
+< !
+---
+> think!
+28,29c23
+< them
+< -
+---
+> them-
+31,32c25
+< included
+< !
+---
+> included!

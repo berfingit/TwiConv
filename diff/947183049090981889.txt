@@ -1,0 +1,45 @@
+15,16c15
+< -LRB-
+< except
+---
+> (except
+18,19c17
+< Liberty
+< 's
+---
+> Liberty's
+21c19
+< &
+---
+> &amp;
+23,25c21
+< investments
+< -RRB-
+< .
+---
+> investments).
+36,37c32
+< know
+< ,
+---
+> know,
+46,47c41
+< 2008
+< .
+---
+> 2008.
+53,54c47
+< ahead
+< .
+---
+> ahead.
+57,58c50
+< #
+< billion
+---
+> £billion
+60,61c52
+< them
+< .
+---
+> them.

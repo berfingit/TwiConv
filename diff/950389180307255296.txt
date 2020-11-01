@@ -1,0 +1,20 @@
+15,16c15
+< views
+< ,
+---
+> views,
+22,23c21
+< Leave
+< .
+---
+> Leave.
+25,26c23
+< do
+< n't
+---
+> don’t
+28,29c25
+< understand
+< ?
+---
+> understand?

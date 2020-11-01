@@ -1,0 +1,20 @@
+14,15c14
+< money
+< ,
+---
+> money,
+24,25c23
+< Nixon
+< .
+---
+> Nixon.
+41,42c39
+< law
+< ,
+---
+> law,
+50,51c47
+< collusion
+< .
+---
+> collusion.

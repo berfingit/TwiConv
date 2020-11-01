@@ -1,0 +1,20 @@
+7,8c7
+< guys
+< ,
+---
+> guys,
+19,20c18
+< Brits
+< .
+---
+> Brits.
+39,40c37
+< nations
+< ?!
+---
+> nations?!
+52,53c49
+< dictionary
+< .
+---
+> dictionary.

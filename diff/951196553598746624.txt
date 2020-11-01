@@ -1,0 +1,36 @@
+2,3c2
+< @
+< 798ash
+---
+> @798ash
+8c7
+< %emoji
+---
+> 😂
+16,30c15
+< %emoji
+< %emoji
+< %emoji
+< %emoji
+< %emoji
+< %emoji
+< %emoji
+< %emoji
+< %emoji
+< %emoji
+< %emoji
+< %emoji
+< %emoji
+< %emoji
+< %emoji
+---
+> 😂🤣😭😭😭😭😂💀💀💀💀💀👀👀👀
+34,35c19
+< lmao
+< .
+---
+> lmao.
+40c24
+< &
+---
+> &amp;

@@ -1,0 +1,23 @@
+3,4c3
+< clear
+< ,
+---
+> clear,
+20,23c19,20
+< for
+< ,
+< I
+< 'm
+---
+> for,
+> I’m
+27,28c24
+< actions
+< .
+---
+> actions.
+51,52c47
+< autism
+< .
+---
+> autism.

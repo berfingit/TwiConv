@@ -1,0 +1,28 @@
+19,20c19
+< trials
+< .
+---
+> trials.
+22,23c21
+< do
+< n't
+---
+> don't
+28,29c26
+< this
+< ?
+---
+> this?
+32,35c29,30
+< forgot
+< .
+< It
+< 's
+---
+> forgot.
+> It's
+40,41c35
+< deflect
+< .
+---
+> deflect.

@@ -1,0 +1,9 @@
+11,16c11
+< fan
+< %emoji
+< %emoji
+< %emoji
+< %emoji
+< %emoji
+---
+> fan😂😂😂😂😂

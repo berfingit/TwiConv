@@ -1,0 +1,10 @@
+17,18c17
+< religion
+< .
+---
+> religion.
+27,28c26
+< yours
+< .
+---
+> yours.

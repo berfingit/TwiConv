@@ -1,0 +1,47 @@
+10,11c10
+< Philly
+< .
+---
+> Philly.
+14,17c13,14
+< better
+< .
+< Period
+< .
+---
+> better.
+> Period.
+23,24c20
+< -LRB-
+< Rams
+---
+> (Rams
+26,27c22
+< 19th
+< -RRB-
+---
+> 19th)
+32,33c27
+< -LRB-
+< Rams
+---
+> (Rams
+35,37c29
+< 12th
+< -RRB-
+< .
+---
+> 12th).
+39,42c31,32
+< offense
+< ,
+< IMO
+< ,
+---
+> offense,
+> IMO,
+55,56c45
+< turnovers
+< .
+---
+> turnovers.

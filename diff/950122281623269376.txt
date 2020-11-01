@@ -1,0 +1,18 @@
+2,3c2
+< ca
+< n't
+---
+> can’t
+31,34c30,31
+< servile
+< .
+< Unrelatedly
+< ,
+---
+> servile.
+> Unrelatedly,
+44,45c41
+< electricity
+< .
+---
+> electricity.

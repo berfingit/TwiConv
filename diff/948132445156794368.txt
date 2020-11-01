@@ -1,0 +1,23 @@
+6,9c6,7
+< -LRB-
+< I
+< assumed
+< -RRB-
+---
+> (I
+> assumed)
+12,13c10
+< he
+< 's
+---
+> he's
+21,22c18
+< eugenics
+< .
+---
+> eugenics.
+25,26c21
+< is
+< .
+---
+> is.

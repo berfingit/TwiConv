@@ -1,0 +1,43 @@
+7,14c7,8
+< %emoji
+< %emoji
+< %emoji
+< %emoji
+< %emoji
+< %emoji
+< ''
+< well
+---
+> 😆😆😆😆😆😆
+> "well
+19,22c13,14
+< that
+< ''
+< *
+< whips
+---
+> that"
+> *whips
+26,27c18
+< post
+< *
+---
+> post*
+31,32c22
+< ca
+< n't
+---
+> can't
+39,42c29,30
+< anymore
+< ,
+< it
+< 's
+---
+> anymore,
+> it's
+46,47c34
+< procedure
+< .
+---
+> procedure.

@@ -1,0 +1,40 @@
+5,6c5
+< There
+< 's
+---
+> There’s
+10,11c9
+< was
+< n't
+---
+> wasn’t
+16,17c14
+< content
+< .
+---
+> content.
+21,22c18
+< was
+< .
+---
+> was.
+24,25c20
+< did
+< n't
+---
+> didn’t
+33,34c28
+< video
+< .
+---
+> video.
+44,45c38
+< it
+< ,
+---
+> it,
+54,55c47
+< work
+< .
+---
+> work.

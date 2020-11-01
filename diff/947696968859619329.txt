@@ -1,0 +1,18 @@
+10,11c10
+< woman
+< .
+---
+> woman.
+18,19c17
+< it
+< 's
+---
+> it’s
+21,24c19,20
+< marriage
+< .
+< It
+< 's
+---
+> marriage.
+> It’s

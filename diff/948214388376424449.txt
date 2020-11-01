@@ -1,0 +1,23 @@
+18,19c18
+< diseases
+< .
+---
+> diseases.
+25,26c24
+< IQ
+< .
+---
+> IQ.
+28,31c26,27
+< consider
+< ,
+< arbitrarily
+< ,
+---
+> consider,
+> arbitrarily,
+37,38c33
+< not
+< .
+---
+> not.

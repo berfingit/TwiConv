@@ -1,0 +1,25 @@
+4,5c4
+< NO
+< .
+---
+> NO.
+19,20c18
+< satire
+< .
+---
+> satire.
+30,31c28
+< couse
+< .
+---
+> couse.
+37,38c34
+< racism
+< ,
+---
+> racism,
+41,42c37
+< opposite
+< .
+---
+> opposite.

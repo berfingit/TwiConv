@@ -1,0 +1,20 @@
+8,10c8
+< offense
+< ...
+< they
+---
+> offense...they
+13,15c11
+< 26
+< ...
+< in
+---
+> 26...in
+27,30c23,24
+< bowl
+< .
+< Thoughts
+< ?
+---
+> bowl.
+> Thoughts?

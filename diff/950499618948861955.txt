@@ -1,0 +1,28 @@
+2,3c2
+< Well
+< ,
+---
+> Well,
+6,7c5
+< do
+< n't
+---
+> don't
+15,18c13,14
+< starters
+< ,
+< I
+< 'm
+---
+> starters,
+> I'm
+26,27c22
+< particular
+< .
+---
+> particular.
+34,35c29
+< him
+< ?
+---
+> him?

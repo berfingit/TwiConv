@@ -1,0 +1,26 @@
+2,4c2
+< Nah
+< .
+< .
+---
+> Nah..
+10,11c8
+< suffer
+< .
+---
+> suffer.
+19,20c16
+< good
+< .
+---
+> good.
+38,39c34
+< they
+< 'll
+---
+> they'll
+43,44c38
+< classic
+< .
+---
+> classic.

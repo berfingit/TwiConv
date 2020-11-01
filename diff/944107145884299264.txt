@@ -1,0 +1,46 @@
+1,2c1
+< ''
+< Wow
+---
+> "Wow
+4,7c3,4
+< passport
+< 's
+< fancy
+< .
+---
+> passport's
+> fancy.
+12,13c9
+< features
+< .
+---
+> features.
+28,38c24,27
+< boy
+< ?
+< ''
+< ''
+< 1
+< ''
+< ''
+< Huh
+< .
+< Still
+< ,
+---
+> boy?"
+> "1"
+> "Huh.
+> Still,
+40,41c29
+< though
+< ...
+---
+> though...
+44,46c32
+< snazzy
+< .
+< ''
+---
+> snazzy."

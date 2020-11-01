@@ -1,0 +1,50 @@
+9,10c9
+< Referendum
+< ,
+---
+> Referendum,
+16,17c15
+< GDP
+< .
+---
+> GDP.
+25,26c23
+< years
+< .
+---
+> years.
+30,37c27,30
+< Boeing
+< ,
+< Hitachi
+< ,
+< Tata
+< ,
+< Liberty
+< ,
+---
+> Boeing,
+> Hitachi,
+> Tata,
+> Liberty,
+39,41c32,33
+< &
+< Toyota
+< .
+---
+> &amp;
+> Toyota.
+48c40
+< &
+---
+> &amp;
+51,52c43
+< FTSE250
+< .
+---
+> FTSE250.
+57,58c48
+< hold
+< .
+---
+> hold.

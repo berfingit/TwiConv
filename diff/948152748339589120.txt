@@ -1,0 +1,19 @@
+15,16c15
+< It
+< 's
+---
+> It’s
+19,20c18
+< does
+< n't
+---
+> doesn’t
+26,30c24,25
+< %emoji
+< -LRB-
+< Alzheimer
+< 's
+< -RRB-
+---
+> 😂
+> (Alzheimer’s)

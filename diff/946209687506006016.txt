@@ -1,0 +1,23 @@
+3,6c3,4
+< Actually
+< ,
+< they
+< 're
+---
+> Actually,
+> they're
+9,10c7
+< it
+< 's
+---
+> it's
+13,14c10
+< burger
+< .
+---
+> burger.
+17,18c13
+< bite
+< ?
+---
+> bite?

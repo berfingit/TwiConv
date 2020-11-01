@@ -1,0 +1,24 @@
+4,5c4
+< He
+< 's
+---
+> He’s
+7,9c6
+< leaver
+< ...
+< Loves
+---
+> leaver...Loves
+15,18c12,13
+< others
+< .
+< Ca
+< n't
+---
+> others.
+> Can’t
+21,22c16
+< himself
+< .
+---
+> himself.

@@ -1,0 +1,40 @@
+4,5c4
+< correction
+< ,
+---
+> correction,
+8,9c7
+< red
+< .
+---
+> red.
+18,22c16,18
+< &
+< India
+< ,
+< respectively
+< ,
+---
+> &amp;
+> India,
+> respectively,
+26,27c22
+< off
+< .
+---
+> off.
+30,31c25
+< dates
+< .
+---
+> dates.
+41,42c35
+< news
+< .
+---
+> news.
+45,46c38
+< BTC
+< .
+---
+> BTC.

@@ -1,0 +1,31 @@
+8,9c8
+< move
+< ,
+---
+> move,
+24,27c23,24
+< brother
+< 's
+< request
+< .
+---
+> brother’s
+> request.
+38,39c35
+< I
+< 'd
+---
+> I’d
+42,45c38,39
+< twitter
+< .
+< Had
+< n't
+---
+> twitter.
+> Hadn’t
+50,51c44
+< all
+< .
+---
+> all.

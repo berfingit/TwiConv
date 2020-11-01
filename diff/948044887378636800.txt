@@ -1,0 +1,10 @@
+9,10c9
+< equality
+< .
+---
+> equality.
+18,19c17
+< society
+< .
+---
+> society.

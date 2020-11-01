@@ -1,0 +1,20 @@
+3,4c3
+< particularly
+< .
+---
+> particularly.
+7,8c6
+< I
+< 've
+---
+> I've
+11,12c9
+< to
+< .
+---
+> to.
+21,22c18
+< mate
+< .
+---
+> mate.

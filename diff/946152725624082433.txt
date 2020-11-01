@@ -1,0 +1,14 @@
+4,5c4
+< %emoji
+< Have
+---
+> ❣Have
+11,16c10
+< friend
+< %emoji
+< %emoji
+< %emoji
+< %emoji
+< %emoji
+---
+> friend🙇‍♀️🙋‍♀️❤

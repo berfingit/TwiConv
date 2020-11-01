@@ -1,0 +1,41 @@
+6,7c6
+< ca
+< n't
+---
+> can't
+9,10c8
+< anymore
+< ,
+---
+> anymore,
+22,23c20
+< him
+< ,
+---
+> him,
+25,26c22
+< they
+< 'll
+---
+> they'll
+28,29c24
+< by
+< .
+---
+> by.
+39c34
+< &
+---
+> &amp;
+41,42c36
+< w
+< /
+---
+> w/
+44,46c38,39
+< &
+< @AnthonyGermain
+< .
+---
+> &amp;
+> @AnthonyGermain.

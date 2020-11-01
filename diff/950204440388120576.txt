@@ -1,0 +1,20 @@
+10,11c10
+< wife
+< .
+---
+> wife.
+18,19c17
+< together
+< .
+---
+> together.
+33,34c31
+< closet
+< !
+---
+> closet!
+36,37c33
+< solved
+< .
+---
+> solved.

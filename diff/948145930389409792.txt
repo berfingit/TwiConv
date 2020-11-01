@@ -1,0 +1,52 @@
+4,5c4
+< No
+< ,
+---
+> No,
+7,8c6
+< do
+< n't
+---
+> don't
+11,12c9
+< news
+< .
+---
+> news.
+16,17c13
+< have
+< n't
+---
+> haven't
+21,22c17
+< yet
+< ,
+---
+> yet,
+26,30c21,22
+< have
+< n't
+< ,
+< I
+< 'm
+---
+> haven't,
+> I'm
+36,39c28,29
+< fan
+< .
+< You
+< 're
+---
+> fan.
+> You're
+44,45c34
+< nerve
+< ,
+---
+> nerve,
+51,52c40
+< sweetie
+< .
+---
+> sweetie.

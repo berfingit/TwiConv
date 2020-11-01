@@ -1,0 +1,15 @@
+29,30c29
+< leadership
+< ,
+---
+> leadership,
+38,39c37
+< they
+< 've
+---
+> they've
+53,54c51
+< campaign
+< ...
+---
+> campaign...

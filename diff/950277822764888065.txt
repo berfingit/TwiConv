@@ -1,0 +1,35 @@
+2,3c2
+< yeah
+< ,
+---
+> yeah,
+13,14c12
+< timeline
+< .
+---
+> timeline.
+19,20c17
+< someone
+< 's
+---
+> someone’s
+30,31c27
+< campaign
+< .
+---
+> campaign.
+34,35c30
+< that
+< ,
+---
+> that,
+37,38c32
+< do
+< n't
+---
+> don’t
+50,51c44
+< made
+< .
+---
+> made.

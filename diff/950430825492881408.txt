@@ -1,0 +1,20 @@
+5,6c5
+< No
+< ,
+---
+> No,
+8,9c7
+< English
+< .
+---
+> English.
+11,13c9
+< know
+< ,
+< English
+---
+> know,
+15c11
+< ...
+---
+> English...

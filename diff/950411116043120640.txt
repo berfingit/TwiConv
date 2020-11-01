@@ -1,0 +1,8 @@
+12,15c12,13
+< he
+< 's
+< developed
+< ?
+---
+> he's
+> developed?

@@ -1,0 +1,33 @@
+3,10c3,5
+< Yeah
+< ,
+< Murdoch
+< 's
+< paper
+< ...
+< .
+< News
+---
+> Yeah,
+> Murdoch's
+> paper....News
+13,14c8
+< World
+< .
+---
+> World.
+19,24c13,14
+< that
+< ...
+< curious
+< ,
+< he
+< 's
+---
+> that...curious,
+> he's
+29,30c19
+< guy
+< .
+---
+> guy.

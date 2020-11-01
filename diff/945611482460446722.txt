@@ -1,0 +1,22 @@
+19,20c19
+< night
+< .
+---
+> night.
+31,32c30
+< Jesus
+< ?
+---
+> Jesus?
+42,43c40
+< Christ
+< .
+---
+> Christ.
+46,49c43
+< short
+< !!!
+< %emoji
+< %emoji
+---
+> short!!!☝️🙏

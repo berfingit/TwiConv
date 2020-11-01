@@ -1,0 +1,45 @@
+8,9c8
+< did
+< n't
+---
+> didn’t
+11,12c10
+< eugenics
+< ,
+---
+> eugenics,
+14,15c12
+< would
+< n't
+---
+> wouldn’t
+21,22c18
+< eugenics
+< ,
+---
+> eugenics,
+34,35c30
+< eugenics
+< .
+---
+> eugenics.
+37,40c32,33
+< it
+< 's
+< ok
+< ,
+---
+> it’s
+> ok,
+42,48c35,37
+< it
+< 's
+< `
+< progressive
+< '
+< eugenics
+< .
+---
+> it’s
+> ‘progressive’
+> eugenics.

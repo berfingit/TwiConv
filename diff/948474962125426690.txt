@@ -1,0 +1,31 @@
+15,16c15
+< house
+< ?
+---
+> house?
+22,23c21
+< office
+< ?
+---
+> office?
+30,31c28
+< drugs
+< ?
+---
+> drugs?
+50,55c47,49
+< domain
+< ?
+< Seriously
+< ,
+< you
+< 're
+---
+> domain?
+> Seriously,
+> you’re
+58,59c52
+< now
+< .
+---
+> now.

@@ -1,0 +1,40 @@
+6,11c6,8
+< Hmm
+< ,
+< let
+< 's
+< see
+< ,
+---
+> Hmm,
+> let's
+> see,
+18,19c15
+< attacks
+< ,
+---
+> attacks,
+21,22c17
+< plans
+< ,
+---
+> plans,
+27,28c22
+< Muslim
+< .
+---
+> Muslim.
+34,35c28
+< -LRB-
+< if
+---
+> (if
+39,40c32
+< words
+< ,
+---
+> words,
+44c36
+< -RRB-
+---
+> )

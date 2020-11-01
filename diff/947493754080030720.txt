@@ -1,0 +1,18 @@
+16,17c16
+< decade
+< .
+---
+> decade.
+21,24c20,21
+< true
+< !
+< Ca
+< n't
+---
+> true!
+> Can’t
+31,32c28
+< year
+< !
+---
+> year!

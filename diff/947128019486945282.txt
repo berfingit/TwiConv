@@ -1,0 +1,25 @@
+2,3c2
+< You
+< 're
+---
+> You're
+12,13c11
+< Safari
+< .
+---
+> Safari.
+15,16c13
+< up
+< ,
+---
+> up,
+27,28c24
+< you
+< 're
+---
+> you're
+36,37c32
+< steps
+< ?
+---
+> steps?

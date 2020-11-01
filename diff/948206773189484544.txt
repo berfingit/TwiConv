@@ -1,0 +1,18 @@
+3,6c3,4
+< Do
+< n't
+< worry
+< .
+---
+> Don't
+> worry.
+21,22c19
+< this
+< .
+---
+> this.
+25,26c22
+< better
+< .
+---
+> better.

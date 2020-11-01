@@ -1,0 +1,8 @@
+13,16c13,14
+< individualist
+< ?
+< 10
+< /
+---
+> individualist?
+> 10/

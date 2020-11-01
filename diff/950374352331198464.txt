@@ -1,0 +1,30 @@
+1,2c1
+< What
+< 's
+---
+> What’s
+7,8c6
+< ask
+< ?
+---
+> ask?
+12,13c10
+< rich
+< ,
+---
+> rich,
+20,21c17
+< -LRB-
+< and
+---
+> (and
+25,26c21
+< rapists
+< -RRB-
+---
+> rapists)
+37,38c32
+< Trump
+< .
+---
+> Trump.

@@ -1,0 +1,24 @@
+14,17c14,15
+< opinion
+< ,
+< you
+< 're
+---
+> opinion,
+> you're
+27,28c25
+< you
+< .
+---
+> you.
+39,44c36,38
+< what
+< 's
+< opinion
+< .
+< Shalom
+< !!
+---
+> what's
+> opinion.
+> Shalom!!

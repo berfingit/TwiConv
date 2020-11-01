@@ -1,0 +1,25 @@
+6,7c6
+< It
+< 's
+---
+> It's
+12,13c11
+< theory
+< .
+---
+> theory.
+28,29c26
+< want
+< .
+---
+> want.
+34,35c31
+< today
+< .
+---
+> today.
+52,53c48
+< permanent
+< .
+---
+> permanent.

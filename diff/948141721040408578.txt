@@ -1,0 +1,45 @@
+4,7c4,5
+< a
+< -RRB-
+< It
+< 's
+---
+> a)
+> It's
+22,23c20
+< did
+< n't
+---
+> didn't
+26,27c23
+< problematic
+< ,
+---
+> problematic,
+36,39c32,33
+< disagree
+< ?
+< b
+< -RRB-
+---
+> disagree?
+> b)
+42,46c36,37
+< *
+< my
+< *
+< stance
+< ,
+---
+> *my*
+> stance,
+50,51c41
+< I
+< 'm
+---
+> I'm
+57,58c47
+< else
+< .
+---
+> else.

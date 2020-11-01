@@ -1,0 +1,15 @@
+8,9c8
+< running
+< .
+---
+> running.
+15,16c14
+< better
+< .
+---
+> better.
+26,27c24
+< weeks
+< .
+---
+> weeks.

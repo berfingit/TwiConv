@@ -1,0 +1,18 @@
+13,14c13
+< attention
+< ,
+---
+> attention,
+21,24c20,21
+< they
+< 're
+< fake
+< ...
+---
+> they're
+> fake...
+28,29c25
+< beach
+< !
+---
+> beach!

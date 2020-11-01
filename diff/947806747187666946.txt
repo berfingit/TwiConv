@@ -1,0 +1,13 @@
+4,7c4,5
+< Nah
+< ,
+< you
+< 're
+---
+> Nah,
+> you're
+9,10c7
+< loony
+< .
+---
+> loony.

@@ -1,0 +1,27 @@
+1,2c1
+< %emoji
+< True
+---
+> 🍁True
+5,6c4
+< rare
+< ,
+---
+> rare,
+8,9c6
+< it
+< 's
+---
+> it's
+17,23c14,16
+< meaning
+< %emoji
+< -
+< N
+< .
+< Sparks
+< -
+---
+> meaning🍁
+> -N.
+> Sparks-

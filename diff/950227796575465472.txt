@@ -1,0 +1,33 @@
+2,3c2
+< now
+< ,
+---
+> now,
+11,12c10
+< I
+< 'm
+---
+> I’m
+20,21c18
+< dumb
+< ,
+---
+> dumb,
+28,30c25
+< ``
+< consensual
+< ''
+---
+> “consensual”
+32,35c27
+< ``
+< consequential
+< ,
+< ''
+---
+> “consequential,”
+41,42c33
+< do
+< n't
+---
+> don’t

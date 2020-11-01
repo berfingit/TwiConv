@@ -1,0 +1,20 @@
+3,4c3
+< that
+< 's
+---
+> that’s
+7,8c6
+< you
+< 're
+---
+> you’re
+13,14c11
+< it
+< .
+---
+> it.
+18,19c15
+< are
+< n't
+---
+> aren’t

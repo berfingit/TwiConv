@@ -1,0 +1,18 @@
+26,29c26,27
+< upheld
+< ?
+< Let
+< 's
+---
+> upheld?
+> Let's
+39,40c37
+< 1st
+< .
+---
+> 1st.
+46,47c43
+< concept
+< .
+---
+> concept.

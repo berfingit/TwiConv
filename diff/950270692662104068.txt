@@ -1,0 +1,20 @@
+10,11c10
+< do
+< n't
+---
+> don't
+17,18c16
+< platforms
+< .
+---
+> platforms.
+21,22c19
+< Budden
+< 's
+---
+> Budden's
+24,25c21
+< puppet
+< ?
+---
+> puppet?

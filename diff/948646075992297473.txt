@@ -1,0 +1,10 @@
+19,20c19
+< comment
+< .
+---
+> comment.
+25,26c24
+< well
+< .
+---
+> well.

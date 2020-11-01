@@ -1,0 +1,15 @@
+3,4c3
+< who
+< 's
+---
+> who's
+16,17c15
+< decade
+< ,
+---
+> decade,
+36,37c34
+< book
+< .
+---
+> book.

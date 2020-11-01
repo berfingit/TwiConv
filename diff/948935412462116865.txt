@@ -1,0 +1,25 @@
+11,12c11
+< Bundle
+< .
+---
+> Bundle.
+18,19c17
+< uniform
+< ,
+---
+> uniform,
+21,25c19,21
+< headgear
+< ,
+< Glcksschwein
+< charm
+< ,
+---
+> headgear,
+> Glücksschwein
+> charm,
+35,36c31
+< rifle
+< .
+---
+> rifle.

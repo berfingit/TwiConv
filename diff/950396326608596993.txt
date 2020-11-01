@@ -1,0 +1,20 @@
+9,10c9
+< rampant
+< ,
+---
+> rampant,
+12,13c11
+< pseudoscience
+< .
+---
+> pseudoscience.
+17,18c15
+< SciShow
+< .
+---
+> SciShow.
+21,22c18
+< better
+< .
+---
+> better.

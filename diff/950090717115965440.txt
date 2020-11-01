@@ -1,0 +1,30 @@
+9,10c9
+< shady
+< ,
+---
+> shady,
+12,13c11
+< unprofessional
+< .
+---
+> unprofessional.
+24,25c22
+< subjects
+< .
+---
+> subjects.
+32,33c29
+< hobby
+< .
+---
+> hobby.
+43,44c39
+< professionally
+< ,
+---
+> professionally,
+51,52c46
+< idea
+< .
+---
+> idea.

@@ -1,0 +1,35 @@
+4,5c4
+< Yeah
+< ?
+---
+> Yeah?
+9,10c8
+< song
+< .
+---
+> song.
+18,19c16
+< songs
+< ,
+---
+> songs,
+21,22c18
+< i
+< 'll
+---
+> i'll
+26,27c22
+< listen
+< .
+---
+> listen.
+37,38c32
+< works
+< .
+---
+> works.
+42,43c36
+< though
+< :P
+---
+> though:P

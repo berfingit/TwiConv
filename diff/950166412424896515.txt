@@ -1,0 +1,6 @@
+1,3c1
+< .
+< @newtgingrich
+< :
+---
+> .@newtgingrich:

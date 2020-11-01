@@ -1,0 +1,29 @@
+2,4c2
+< %emoji
+< %emoji
+< %emoji
+---
+> 😂😂😂
+9,12c7,8
+< yaar
+< !
+< %emoji
+< %emoji
+---
+> yaar!
+> 👏👏
+14,19c10
+< know
+< ...
+< .
+< fools
+< ...
+< %emoji
+---
+> know....fools...🐍
+21,23c12
+< fools
+< ...
+< they
+---
+> fools...they

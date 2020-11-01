@@ -1,0 +1,35 @@
+8,9c8
+< It
+< 's
+---
+> It's
+14,17c13,14
+< '
+< digging
+< dirt
+< '
+---
+> 'digging
+> dirt'
+30,31c27
+< individuals
+< ,
+---
+> individuals,
+36,40c32,33
+< *
+< is
+< *
+< evidence
+< ,
+---
+> *is*
+> evidence,
+45,48c38,39
+< import
+< .
+< 2
+< /
+---
+> import.
+> 2/

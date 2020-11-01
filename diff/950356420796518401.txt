@@ -1,0 +1,15 @@
+10,11c10
+< avocado
+< .
+---
+> avocado.
+13,14c12
+< do
+< n't
+---
+> don’t
+23,24c21
+< body
+< .
+---
+> body.

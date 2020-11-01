@@ -1,0 +1,15 @@
+22,23c22
+< did
+< n't
+---
+> didn’t
+32,33c31
+< doing
+< .
+---
+> doing.
+48,49c46
+< Trump
+< .
+---
+> Trump.

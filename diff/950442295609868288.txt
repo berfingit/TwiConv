@@ -1,0 +1,18 @@
+11,12c11
+< wo
+< n't
+---
+> won't
+14,17c13,14
+< idiocy
+< .
+< You
+< 're
+---
+> idiocy.
+> You're
+19,20c16
+< yourself
+< .
+---
+> yourself.

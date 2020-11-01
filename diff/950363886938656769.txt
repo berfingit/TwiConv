@@ -1,0 +1,50 @@
+3,6c3,4
+< Agreed
+< .
+< It
+< 's
+---
+> Agreed.
+> It's
+9,10c7
+< is
+< n't
+---
+> isn't
+13,14c10
+< fire
+< .
+---
+> fire.
+24,25c20
+< $
+< 180M
+---
+> $180M
+28,29c23
+< ago
+< ,
+---
+> ago,
+31,32c25
+< he
+< 's
+---
+> he's
+35,44c28,32
+< get
+< ,
+< like
+< ,
+< 3/54
+< .
+< It
+< 's
+< pathetic
+< .
+---
+> get,
+> like,
+> 3/54.
+> It's
+> pathetic.

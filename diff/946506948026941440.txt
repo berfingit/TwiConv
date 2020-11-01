@@ -1,0 +1,27 @@
+17,19c17
+< Wild
+< ,
+< #Joeys
+---
+> Wild,#Joeys
+23c21
+< &
+---
+> &amp;
+25,27c23
+< requirements
+< ...
+< #LukeBryan
+---
+> requirements...#LukeBryan
+32,33c28
+< ca
+< n't
+---
+> can’t
+39,41c34
+< alone
+< %emoji
+< !
+---
+> alone😳!

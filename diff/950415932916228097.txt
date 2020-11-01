@@ -1,0 +1,25 @@
+8,9c8
+< though
+< ?
+---
+> though?
+11,12c10
+< mean
+< ,
+---
+> mean,
+14,15c12
+< ca
+< n't
+---
+> can’t
+23,24c20
+< do
+< n't
+---
+> don’t
+29,30c25
+< these
+< .
+---
+> these.

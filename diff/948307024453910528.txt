@@ -1,0 +1,32 @@
+14,15c14
+< `
+< why
+---
+> ‘why
+18,22c17,18
+< care
+< '
+< .
+< Exactly
+< ,
+---
+> care’.
+> Exactly,
+30,31c26
+< about
+< ,
+---
+> about,
+44,45c39
+< roasted
+< .
+---
+> roasted.
+53,56c47,48
+< someone
+< 's
+< post
+< .
+---
+> someone’s
+> post.

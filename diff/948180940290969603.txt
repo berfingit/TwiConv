@@ -1,0 +1,22 @@
+2,3c2
+< ok
+< ,
+---
+> ok,
+10,11c9
+< conversation
+< ,
+---
+> conversation,
+14,16c12
+< nothing
+< ...
+< subtweeting
+---
+> nothing...subtweeting
+26,28c22
+< *
+< shock
+< *
+---
+> *shock*

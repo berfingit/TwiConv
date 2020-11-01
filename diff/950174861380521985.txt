@@ -1,0 +1,20 @@
+9,10c9
+< link
+< .
+---
+> link.
+15,16c14
+< attack
+< .
+---
+> attack.
+28,29c26
+< started
+< .
+---
+> started.
+36,37c33
+< ones
+< .
+---
+> ones.

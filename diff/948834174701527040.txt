@@ -1,0 +1,41 @@
+7a8,9
+> I’m
+> doing.
+9,14c11
+< 'm
+< doing
+< .
+< I
+< do
+< n't
+---
+> don’t
+28,29c25
+< you
+< .
+---
+> you.
+41,46c37,39
+< is
+< n't
+< good
+< .
+< I
+< 'm
+---
+> isn’t
+> good.
+> I’m
+50,51c43
+< why
+< ,
+---
+> why,
+60,63c52,53
+< it
+< 's
+< futile
+< .
+---
+> it’s
+> futile.

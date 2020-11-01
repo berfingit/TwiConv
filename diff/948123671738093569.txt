@@ -1,0 +1,32 @@
+3,4c3
+< did
+< n't
+---
+> didn't
+10,11c9
+< anything
+< !
+---
+> anything!
+24,25c22
+< just
+< ,
+---
+> just,
+28,29c25
+< him
+< ,
+---
+> him,
+34,35c30
+< night
+< .
+---
+> night.
+38,40c33,34
+< anticlimax
+< .
+< %emoji
+---
+> anticlimax.
+> 😆

@@ -1,0 +1,35 @@
+6,7c6
+< kidding
+< ?
+---
+> kidding?
+10,11c9
+< footage
+< ,
+---
+> footage,
+19,20c17
+< script
+< .
+---
+> script.
+26,27c23
+< stolen
+< .
+---
+> stolen.
+31,32c27
+< OK
+< .
+---
+> OK.
+37,38c32
+< videos
+< .
+---
+> videos.
+49,50c43
+< create
+< .
+---
+> create.

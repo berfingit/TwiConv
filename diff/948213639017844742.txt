@@ -1,0 +1,25 @@
+7,9c7
+< ''
+< I
+< 'm
+---
+> "I'm
+20,21c18
+< race
+< ,
+---
+> race,
+26,28c23
+< off
+< ''
+< .
+---
+> off".
+33,36c28,29
+< Galton
+< 's
+< position
+< .
+---
+> Galton's
+> position.

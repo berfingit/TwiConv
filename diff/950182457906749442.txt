@@ -1,0 +1,15 @@
+16,17c16
+< trump
+< ?
+---
+> trump?
+26,27c25
+< elected
+< ,
+---
+> elected,
+39,40c37
+< economy
+< .
+---
+> economy.

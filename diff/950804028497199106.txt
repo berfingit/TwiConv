@@ -1,0 +1,41 @@
+5,6c5
+< I
+< 've
+---
+> I've
+13,16c12,13
+< source
+< .
+< I
+< 'm
+---
+> source.
+> I'm
+26,27c23
+< say
+< ,
+---
+> say,
+41,42c37
+< yourself
+< .
+---
+> yourself.
+47,48c42
+< Palestine
+< ,
+---
+> Palestine,
+50,51c44
+< ca
+< n't
+---
+> can't
+57,60c50,51
+< account
+< .
+< Goodbye
+< .
+---
+> account.
+> Goodbye.

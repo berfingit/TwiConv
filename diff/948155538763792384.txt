@@ -1,0 +1,28 @@
+7,10c7,8
+< let
+< 's
+< see
+< .
+---
+> let's
+> see.
+12,13c10
+< me
+< ,
+---
+> me,
+35,36c32
+< happen
+< ,
+---
+> happen,
+39,40c35
+< lot
+< .
+---
+> lot.
+48,49c43
+< argument
+< .
+---
+> argument.

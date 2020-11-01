@@ -1,0 +1,10 @@
+8,9c8
+< -LRB-
+< and
+---
+> (and
+12,13c11
+< Chair
+< -RRB-
+---
+> Chair)

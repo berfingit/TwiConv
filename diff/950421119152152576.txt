@@ -1,0 +1,11 @@
+10,11c10
+< assholes
+< .
+---
+> assholes.
+14,16c13
+< was
+< n't
+< .
+---
+> wasn't.

@@ -1,0 +1,20 @@
+1,2c1
+< BREAKING
+< :
+---
+> BREAKING:
+5,6c4
+< SAFE
+< .
+---
+> SAFE.
+10,11c8
+< me
+< .
+---
+> me.
+14,15c11
+< soon
+< .
+---
+> soon.

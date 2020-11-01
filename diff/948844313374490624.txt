@@ -1,0 +1,41 @@
+2,3c2
+< @
+< 5N_Afzal
+---
+> @5N_Afzal
+15,18c14,15
+< ''
+< dog
+< is
+< n't
+---
+> "dog
+> isn't
+20,21c17
+< word
+< ''
+---
+> word"
+33,34c29
+< position
+< .
+---
+> position.
+41,42c36
+< ''
+< complicity
+---
+> "complicity
+44,45c38
+< misogyny
+< ''
+---
+> misogyny"
+50,53c43,44
+< I
+< 'm
+< misogynistic
+< .
+---
+> I'm
+> misogynistic.

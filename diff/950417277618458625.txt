@@ -1,0 +1,17 @@
+2,5c2,3
+< Supposedly
+< ,
+< she
+< 's
+---
+> Supposedly,
+> she's
+9,13c7,8
+< SpoilerTV
+< ...
+< .
+< Lovely
+< .
+---
+> SpoilerTV....
+> Lovely.

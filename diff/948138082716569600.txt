@@ -1,0 +1,49 @@
+3,4c3
+< I
+< 'm
+---
+> I'm
+14,18c13,14
+< -LRB-
+< which
+< ,
+< incidentally
+< ,
+---
+> (which,
+> incidentally,
+20,24c16,17
+< do
+< n't
+< like
+< -RRB-
+< ?
+---
+> don't
+> like)?
+29,30c22
+< tweets
+< :
+---
+> tweets:
+36,41c28,30
+< beliefs
+< ,
+< that
+< 's
+< fine
+< ,
+---
+> beliefs,
+> that's
+> fine,
+48,49c37
+< faith
+< .
+---
+> faith.
+60,61c48
+< motives
+< ?
+---
+> motives?

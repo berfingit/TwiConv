@@ -1,0 +1,20 @@
+20,21c20
+< #SecretaryofState
+< .
+---
+> #SecretaryofState.
+31,32c30
+< quiet
+< ?
+---
+> quiet?
+36,37c34
+< does
+< n't
+---
+> doesn’t
+40,41c37
+< narrative
+< .
+---
+> narrative.

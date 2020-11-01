@@ -1,0 +1,23 @@
+1,2c1
+< ''
+< They
+---
+> "They
+5,8c4
+< '
+< others
+< '
+< .
+---
+> 'others'.
+13,14c9
+< people
+< .
+---
+> people.
+19,21c14
+< issue
+< .
+< ''
+---
+> issue."

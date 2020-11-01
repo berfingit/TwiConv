@@ -1,0 +1,15 @@
+7,8c7
+< They
+< 'll
+---
+> They'll
+12,13c11
+< Tories
+< ,
+---
+> Tories,
+22,23c20
+< own
+< .
+---
+> own.

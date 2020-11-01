@@ -1,0 +1,34 @@
+13,14c13
+< did
+< n't
+---
+> didn’t
+17,18c16
+< kind
+< .
+---
+> kind.
+20,24c18,19
+< ``
+< facts
+< ''
+< did
+< n't
+---
+> “facts”
+> didn’t
+35,36c30
+< view
+< .
+---
+> view.
+52,53c46
+< vote
+< .
+---
+> vote.
+57,58c50
+< obvious
+< .
+---
+> obvious.

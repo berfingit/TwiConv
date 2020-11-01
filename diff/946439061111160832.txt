@@ -1,0 +1,33 @@
+4,5c4
+< facie
+< ,
+---
+> facie,
+10,11c9
+< dichotomies
+< ,
+---
+> dichotomies,
+15,16c13
+< mirror
+< ,
+---
+> mirror,
+22,23c19
+< way
+< ,
+---
+> way,
+28,29c24
+< sociology
+< 's
+---
+> sociology's
+32,35c27,28
+< methods
+< .
+< 1
+< /
+---
+> methods.
+> 1/

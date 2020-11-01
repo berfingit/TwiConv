@@ -1,0 +1,20 @@
+15,16c15
+< war
+< .
+---
+> war.
+23,24c22
+< energy
+< .
+---
+> energy.
+28,29c26
+< opinion
+< ,
+---
+> opinion,
+35,36c32
+< mine
+< .
+---
+> mine.

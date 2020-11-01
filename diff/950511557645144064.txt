@@ -1,0 +1,60 @@
+1,2c1
+< @
+< 1111summit
+---
+> @1111summit
+7,8c6
+< do
+< n't
+---
+> don't
+16,17c14
+< 2020
+< .
+---
+> 2020.
+27,28c24
+< he
+< 's
+---
+> he's
+30,31c26
+< old
+< .
+---
+> old.
+42,43c37
+< either
+< .
+---
+> either.
+56,67c50,54
+< Warren
+< .
+< She
+< 's
+< tough
+< .
+< .
+< She
+< 's
+< Smart
+< .
+< .
+---
+> Warren.
+> She's
+> tough..
+> She's
+> Smart..
+70,72c57
+< does
+< n't
+< '
+---
+> doesn't'
+74,75c59
+< down
+< .
+---
+> down.

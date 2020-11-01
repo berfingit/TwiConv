@@ -1,0 +1,34 @@
+1,2c1
+< @
+< 5N_Afzal
+---
+> @5N_Afzal
+22,23c21
+< could
+< n't
+---
+> couldn't
+25,26c23
+< agreeing
+< .
+---
+> agreeing.
+28,29c25
+< we
+< 're
+---
+> we're
+36,40c32,33
+< '
+< look
+< like
+< '
+< ,
+---
+> 'look
+> like',
+46,47c39
+< day
+< .
+---
+> day.

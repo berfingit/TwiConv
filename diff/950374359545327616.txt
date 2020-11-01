@@ -1,0 +1,10 @@
+15,16c15
+< Clinton
+< .
+---
+> Clinton.
+51,52c50
+< with
+< .
+---
+> with.

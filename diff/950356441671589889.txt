@@ -1,0 +1,35 @@
+8,9c8
+< SA
+< ,
+---
+> SA,
+19,20c18
+< home
+< .
+---
+> home.
+24,25c22
+< begging
+< !
+---
+> begging!
+30,31c27
+< do
+< n't
+---
+> don’t
+33,34c29
+< to
+< .
+---
+> to.
+46,47c41
+< Philander
+< !
+---
+> Philander!
+52,53c46
+< he
+< 'll
+---
+> he’ll

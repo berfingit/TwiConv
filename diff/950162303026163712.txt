@@ -1,0 +1,15 @@
+5,6c5
+< does
+< n't
+---
+> doesn't
+9,10c8
+< should
+< n't
+---
+> shouldn't
+14,15c12
+< now
+< .
+---
+> now.

@@ -1,0 +1,25 @@
+9,10c9
+< sorry
+< .
+---
+> sorry.
+23,24c22
+< does
+< n't
+---
+> doesn't
+30,31c28
+< justified
+< .
+---
+> justified.
+45,46c42
+< deal
+< .
+---
+> deal.
+51,52c47
+< bad
+< .
+---
+> bad.

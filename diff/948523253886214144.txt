@@ -1,0 +1,25 @@
+6,7c6
+< point
+< ,
+---
+> point,
+17,18c16
+< others
+< .
+---
+> others.
+35,36c33
+< that
+< 's
+---
+> that's
+39,40c36
+< thing
+< ?
+---
+> thing?
+48,49c44
+< was
+< n't
+---
+> wasn't

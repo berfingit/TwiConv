@@ -1,0 +1,20 @@
+15,16c15
+< term
+< ,
+---
+> term,
+22,23c21
+< onset
+< ,
+---
+> onset,
+33,34c31
+< years
+< ,
+---
+> years,
+39,40c36
+< earlier
+< .
+---
+> earlier.

@@ -1,0 +1,20 @@
+10,11c10
+< Khabib
+< 's
+---
+> Khabib's
+13,14c12
+< fight
+< .
+---
+> fight.
+21,22c19
+< Barbosa
+< 's
+---
+> Barbosa's
+27,28c24
+< happened
+< ?
+---
+> happened?

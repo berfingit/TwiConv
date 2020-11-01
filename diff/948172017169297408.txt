@@ -1,0 +1,28 @@
+7,8c7
+< Yes
+< ,
+---
+> Yes,
+16,17c15
+< politics
+< ,
+---
+> politics,
+19,20c17
+< says
+< ,
+---
+> says,
+23,26c20,21
+< tea
+< .
+< *
+< furiously
+---
+> tea.
+> *furiously
+28,29c23
+< boobs
+< *
+---
+> boobs*

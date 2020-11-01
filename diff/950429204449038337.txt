@@ -1,0 +1,51 @@
+6,9c6
+< any
+< .
+< .
+< subsidies
+---
+> any..subsidies
+14,20c11
+< April
+< .
+< .
+< so
+< .
+< .
+< instead
+---
+> April..so..instead
+26,29c17
+< it
+< .
+< .
+< they
+---
+> it..they
+34,37c22
+< it
+< .
+< .
+< rural
+---
+> it..rural
+45,48c30
+< under
+< .
+< .
+< so
+---
+> under..so
+52,55c34
+< fix
+< .
+< .
+< rates
+---
+> fix..rates
+64,66c43
+< regulations
+< .
+< .
+---
+> regulations..

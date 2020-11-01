@@ -1,0 +1,35 @@
+2,3c2
+< Right
+< ?!
+---
+> Right?!
+6,7c5
+< I
+< 'd
+---
+> I’d
+22,23c20
+< he
+< 's
+---
+> he’s
+27,28c24
+< ocean
+< ?
+---
+> ocean?
+36,37c32
+< then
+< .
+---
+> then.
+49,50c44
+< is
+< n't
+---
+> isn’t
+52,53c46
+< shaped
+< .
+---
+> shaped.

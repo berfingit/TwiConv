@@ -1,0 +1,25 @@
+3,4c3
+< Yup
+< ,
+---
+> Yup,
+34,35c33
+< holidays
+< ,
+---
+> holidays,
+40,41c38
+< weekend
+< .
+---
+> weekend.
+44,45c41
+< are
+< n't
+---
+> aren't
+51,52c47
+< anyways
+< .
+---
+> anyways.

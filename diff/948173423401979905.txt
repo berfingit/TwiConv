@@ -1,0 +1,51 @@
+9,10c9
+< you
+< 're
+---
+> you’re
+12,13c11
+< %emoji
+< .
+---
+> 😂.
+18,19c16
+< is
+< n't
+---
+> isn’t
+21,24c18,19
+< marriage
+< .
+< It
+< 's
+---
+> marriage.
+> It’s
+28,29c23
+< work
+< ,
+---
+> work,
+32,33c26
+< equal
+< .
+---
+> equal.
+39,42c32,33
+< man
+< .
+< It
+< 's
+---
+> man.
+> It’s
+46,47c37
+< you
+< 're
+---
+> you’re
+49,50c39
+< religious
+< .
+---
+> religious.

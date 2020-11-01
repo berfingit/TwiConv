@@ -1,0 +1,15 @@
+4,5c4
+< Dude
+< ,
+---
+> Dude,
+12,13c11
+< footage
+< ,
+---
+> footage,
+15,16c13
+< animation
+< .
+---
+> animation.

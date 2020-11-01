@@ -1,0 +1,25 @@
+4,5c4
+< Sorry
+< ,
+---
+> Sorry,
+19,20c18
+< card
+< .
+---
+> card.
+42,43c40
+< ignorance
+< .
+---
+> ignorance.
+46,47c43
+< does
+< n't
+---
+> doesn’t
+51,52c47
+< bonehead
+< .
+---
+> bonehead.

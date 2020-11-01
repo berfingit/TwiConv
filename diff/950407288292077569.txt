@@ -1,0 +1,36 @@
+11,12c11
+< man
+< ,
+---
+> man,
+16,17c15
+< ignorant
+< .
+---
+> ignorant.
+25,26c23
+< overlook
+< .
+---
+> overlook.
+30,31c27
+< do
+< n't
+---
+> don't
+34,35c30
+< message
+< .
+---
+> message.
+49,50c44
+< guilty
+< ,
+---
+> guilty,
+56,58c50
+< necklines
+< .
+< .
+---
+> necklines..

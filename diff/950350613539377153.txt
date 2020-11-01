@@ -1,0 +1,48 @@
+4,5c4
+< addition
+< ,
+---
+> addition,
+10,12c9
+< ''
+< outsider
+< ''
+---
+> "outsider"
+20,21c17
+< Pres
+< .
+---
+> Pres.
+27,28c23
+< outsider
+< .
+---
+> outsider.
+31,32c26
+< mind
+< ,
+---
+> mind,
+34,35c28
+< -LRB-
+< elites
+---
+> (elites
+39,42c32
+< Gov
+< '
+< t
+< -RRB-
+---
+> Gov't)
+49,50c39
+< do
+< n't
+---
+> don't
+61,62c50
+< up
+< .
+---
+> up.

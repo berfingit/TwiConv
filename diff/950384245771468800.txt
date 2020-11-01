@@ -1,0 +1,34 @@
+1,2c1
+< @
+< 4realchris
+---
+> @4realchris
+12,19c11,14
+< Netflix
+< ,
+< Hulu
+< ,
+< Amazon
+< ,
+< ect
+< ?
+---
+> Netflix,
+> Hulu,
+> Amazon,
+> ect?
+21,22c16
+< should
+< n't
+---
+> shouldn't
+28,29c22
+< ca
+< n't
+---
+> can't
+37,38c30
+< elsewhere
+< ?
+---
+> elsewhere?

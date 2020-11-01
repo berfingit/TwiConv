@@ -1,0 +1,43 @@
+3,4c3
+< +
+< careless
+---
+> +careless
+7,8c6
+< words
+< ,
+---
+> words,
+13,16c11,12
+< is
+< .
+< we
+< 're
+---
+> is.
+> we're
+20,21c16
+< bh
+< ,
+---
+> bh,
+33,34c28
+< mistake
+< .
+---
+> mistake.
+49,50c43
+< again
+< .
+---
+> again.
+52,53c45
+< ca
+< n't
+---
+> can't
+60,61c52
+< right
+< ,
+---
+> right,

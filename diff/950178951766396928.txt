@@ -1,0 +1,22 @@
+22,23c22
+< elected
+< .
+---
+> elected.
+33,34c32
+< accomplishments
+< .
+---
+> accomplishments.
+40,41c38
+< did
+< n't
+---
+> didn't
+45,48c42
+< -LRB-
+< yet
+< -RRB-
+< .
+---
+> (yet).

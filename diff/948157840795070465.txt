@@ -1,0 +1,18 @@
+13,14c13
+< level
+< ,
+---
+> level,
+22,23c21
+< billion
+< ,
+---
+> billion,
+29,32c27,28
+< boobs
+< ,
+< Rev
+< ?
+---
+> boobs,
+> Rev?

@@ -1,0 +1,17 @@
+2,7c2
+< %emoji
+< %emoji
+< %emoji
+< %emoji
+< %emoji
+< who
+---
+> 😂😂😂😂😂who
+14,17c9,10
+< people
+< 's
+< sisters
+< ?
+---
+> people's
+> sisters?

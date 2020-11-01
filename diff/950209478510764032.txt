@@ -1,0 +1,25 @@
+13,14c13
+< blind
+< ,
+---
+> blind,
+18,19c17
+< mistaken
+< .
+---
+> mistaken.
+42,43c40
+< world
+< .
+---
+> world.
+46,47c43
+< do
+< n't
+---
+> don't
+54,55c50
+< Oprah
+< .
+---
+> Oprah.

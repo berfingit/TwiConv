@@ -1,0 +1,43 @@
+3,4c3
+< However
+< ,
+---
+> However,
+8,9c7
+< '
+< caring
+---
+> 'caring
+11,17c9
+< yourself
+< '
+< -
+< v
+< -
+< `
+< caring
+---
+> yourself'-v-'caring
+20,21c12
+< good
+< '
+---
+> good'
+29,30c20
+< egoism-v-altruism
+< .
+---
+> egoism-v-altruism.
+37,38c27
+< tribalisms
+< ,
+---
+> tribalisms,
+43,46c32,33
+< values
+< .
+< 2
+< /
+---
+> values.
+> 2/

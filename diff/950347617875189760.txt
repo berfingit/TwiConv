@@ -1,0 +1,10 @@
+9,10c9
+< Alzheimer
+< 's
+---
+> Alzheimer's
+13,14c12
+< presidency
+< .
+---
+> presidency.

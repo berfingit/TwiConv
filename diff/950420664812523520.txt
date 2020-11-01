@@ -1,0 +1,25 @@
+4,5c4
+< wo
+< n't
+---
+> won't
+9,10c8
+< long
+< ,
+---
+> long,
+14,15c12
+< that
+< .
+---
+> that.
+17,18c14
+< he
+< 'll
+---
+> he'll
+22,23c18
+< Summer
+< .
+---
+> Summer.

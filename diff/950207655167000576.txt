@@ -1,0 +1,43 @@
+4,5c4
+< act
+< .
+---
+> act.
+10,13c9,10
+< performances
+< .
+< Does
+< n't
+---
+> performances.
+> Doesn’t
+23,24c20
+< -
+< at
+---
+> -at
+26,27c22
+< things
+< .
+---
+> things.
+29,30c24
+< let
+< 's
+---
+> let’s
+36,37c30
+< did
+< .
+---
+> did.
+39,40c32
+< thinking
+< ,
+---
+> thinking,
+43,44c35
+< adulation
+< .
+---
+> adulation.

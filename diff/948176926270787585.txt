@@ -1,0 +1,25 @@
+19,20c19
+< things
+< ,
+---
+> things,
+27,28c26
+< day
+< ,
+---
+> day,
+41,42c39
+< ca
+< n't
+---
+> can’t
+45,46c42
+< used
+< ,
+---
+> used,
+49,50c45
+< reasons
+< .
+---
+> reasons.

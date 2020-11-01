@@ -1,0 +1,17 @@
+5c5
+< %emoji
+---
+> 😂
+7,8c7
+< thanks
+< .
+---
+> thanks.
+10,13c9,10
+< ai
+< n't
+< equal
+< .
+---
+> ain’t
+> equal.

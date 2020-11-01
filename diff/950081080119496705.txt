@@ -1,0 +1,25 @@
+5,6c5
+< Uh
+< ,
+---
+> Uh,
+11,12c10
+< shit
+< ,
+---
+> shit,
+19,20c17
+< SuggestiveGaming
+< .
+---
+> SuggestiveGaming.
+27,28c24
+< week
+< .
+---
+> week.
+54,55c50
+< story
+< .
+---
+> story.

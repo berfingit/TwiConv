@@ -1,0 +1,20 @@
+4,5c4
+< Michael
+< ,
+---
+> Michael,
+15,16c14
+< disdain
+< .
+---
+> disdain.
+21,22c19
+< she
+< 'd
+---
+> she'd
+30,31c27
+< human
+< ?
+---
+> human?

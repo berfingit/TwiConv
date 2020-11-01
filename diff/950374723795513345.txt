@@ -1,0 +1,14 @@
+21,22c21
+< authentic
+< .
+---
+> authentic.
+36,40c35,36
+< Standards
+< .
+< -LRB-
+< 2/2
+< -RRB-
+---
+> Standards.
+> (2/2)

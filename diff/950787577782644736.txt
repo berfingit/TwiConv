@@ -1,0 +1,33 @@
+9,12c9
+< #
+< 20
+< '
+< 000
+---
+> £20'000
+17,20c14,15
+< men
+< ,
+< Let
+< 's
+---
+> men,
+> Let's
+24,27c19,20
+< WHOOP
+< !
+< WHOOP
+< !
+---
+> WHOOP!
+> WHOOP!
+29,30c22
+< Theresa
+< 's
+---
+> Theresa's
+32,33c24
+< equality
+< .
+---
+> equality.

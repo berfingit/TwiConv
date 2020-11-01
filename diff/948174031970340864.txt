@@ -1,0 +1,21 @@
+9,12c9
+< narrative
+< .
+< .
+< its
+---
+> narrative..its
+21,24c18
+< chamber
+< .
+< .
+< I
+---
+> chamber..I
+32,35c26
+< insult
+< .
+< .
+< genuinely
+---
+> insult..genuinely

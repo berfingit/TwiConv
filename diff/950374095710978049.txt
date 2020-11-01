@@ -1,0 +1,31 @@
+4,5c4
+< cool
+< !
+---
+> cool!
+21,22c20
+< translation
+< ,
+---
+> translation,
+24,29c22,24
+< synthesis
+< ,
+< PCR
+< ,
+< Cloning
+< ,
+---
+> synthesis,
+> PCR,
+> Cloning,
+35,36c30
+< syllabus
+< .
+---
+> syllabus.
+44,45c38
+< here
+< .
+---
+> here.

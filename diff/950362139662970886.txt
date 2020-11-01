@@ -1,0 +1,23 @@
+2,3c2
+< He
+< 's
+---
+> He's
+15,16c14
+< overall
+< .
+---
+> overall.
+22,25c20,21
+< Wiggins
+< .
+< It
+< 's
+---
+> Wiggins.
+> It's
+39,40c35
+< more
+< .
+---
+> more.

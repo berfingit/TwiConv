@@ -1,0 +1,13 @@
+3,6c3,4
+< point
+< .
+< Let
+< 's
+---
+> point.
+> Let's
+17,18c15
+< made
+< .
+---
+> made.

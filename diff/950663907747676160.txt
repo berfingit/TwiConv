@@ -1,0 +1,25 @@
+3,4c3
+< Wait
+< ,
+---
+> Wait,
+6,7c5
+< does
+< n't
+---
+> doesn't
+10,11c8
+< you
+< ?
+---
+> you?
+13,14c10
+< lord
+< ,
+---
+> lord,
+16,17c12
+< ca
+< n't
+---
+> can't

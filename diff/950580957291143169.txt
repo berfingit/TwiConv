@@ -1,0 +1,22 @@
+22,23c22
+< Yes
+< ,
+---
+> Yes,
+26,28c25
+< know
+< %emoji
+< %emoji
+---
+> know👊🏻💥
+30,31c27
+< she
+< 's
+---
+> she’s
+36,38c32
+< Sif
+< %emoji
+< %emoji
+---
+> Sif🌹⚔️

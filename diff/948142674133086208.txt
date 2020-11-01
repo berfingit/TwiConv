@@ -1,0 +1,10 @@
+8,9c8
+< definition
+< .
+---
+> definition.
+15,16c14
+< dictionary
+< .
+---
+> dictionary.

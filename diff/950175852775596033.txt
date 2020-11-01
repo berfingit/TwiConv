@@ -1,0 +1,25 @@
+4,5c4
+< wan
+< na
+---
+> wanna
+8,19c7,12
+< eat
+< ...
+< family
+< ,
+< friends
+< ,
+< acquaintances
+< ,
+< strangers
+< ,
+< enemies
+< ...
+---
+> eat...
+> family,
+> friends,
+> acquaintances,
+> strangers,
+> enemies...

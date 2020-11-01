@@ -1,0 +1,23 @@
+5,6c5
+< equivalency
+< .
+---
+> equivalency.
+15,18c14,15
+< flaw
+< .
+< They
+< 're
+---
+> flaw.
+> They're
+24,25c21
+< there
+< 's
+---
+> there's
+29,30c25
+< that
+< .
+---
+> that.

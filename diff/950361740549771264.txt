@@ -1,0 +1,33 @@
+9,10c9
+< Mig
+< ,
+---
+> Mig,
+20,21c19
+< league
+< !
+---
+> league!
+27,28c25
+< me
+< ?
+---
+> me?
+32,33c29
+< awful
+< !
+---
+> awful!
+41,42c37
+< decent
+< .
+---
+> decent.
+59,62c54,55
+< he
+< 's
+< distributing
+< !
+---
+> he's
+> distributing!

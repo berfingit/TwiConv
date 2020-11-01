@@ -1,0 +1,25 @@
+14,15c14
+< talking
+< .
+---
+> talking.
+21,22c20
+< enforcement
+< ,
+---
+> enforcement,
+31,32c29
+< ppl
+< .
+---
+> ppl.
+50,51c47
+< spewing
+< .
+---
+> spewing.
+55,56c51
+< movements
+< .
+---
+> movements.

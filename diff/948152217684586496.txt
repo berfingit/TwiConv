@@ -1,0 +1,26 @@
+16,21c16,18
+< they
+< ?
+< That
+< 's
+< weird
+< ,
+---
+> they?
+> That's
+> weird,
+23,24c20
+< was
+< n't
+---
+> wasn't
+29,30c25
+< myself
+< !
+---
+> myself!
+32,33c27
+< dear
+< ,
+---
+> dear,

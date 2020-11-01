@@ -1,0 +1,24 @@
+5,6c5
+< It
+< 's
+---
+> It's
+12,15c11,12
+< website
+< .
+< ``
+< The
+---
+> website.
+> "The
+27,29c24
+< Noradrenaline
+< .
+< ''
+---
+> Noradrenaline."
+37,38c32
+< promoted
+< .
+---
+> promoted.

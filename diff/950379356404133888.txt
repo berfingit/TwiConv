@@ -1,0 +1,15 @@
+5,6c5
+< novel
+< .
+---
+> novel.
+13,14c12
+< desired
+< .
+---
+> desired.
+19,20c17
+< novel
+< .
+---
+> novel.

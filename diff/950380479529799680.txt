@@ -1,0 +1,22 @@
+3,7c3,4
+< %emoji
+< %emoji
+< %emoji
+< that
+< 's
+---
+> 😂😂😂
+> that's
+9,10c6
+< #Harvey
+< 's
+---
+> #Harvey's
+14,17c10,11
+< were
+< n't
+< involved
+< .
+---
+> weren't
+> involved.

@@ -1,0 +1,13 @@
+5,6c5
+< does
+< n't
+---
+> doesn’t
+16,19c15,16
+< committed
+< ,
+< dear
+< .
+---
+> committed,
+> dear.

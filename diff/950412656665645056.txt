@@ -1,0 +1,20 @@
+7,8c7
+< untrue
+< ,
+---
+> untrue,
+15,16c14
+< it
+< 's
+---
+> it’s
+19,20c17
+< want
+< ,
+---
+> want,
+25,26c22
+< reality
+< .
+---
+> reality.

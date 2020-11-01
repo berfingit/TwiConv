@@ -1,0 +1,21 @@
+5,6c5
+< cheers
+< .
+---
+> cheers.
+33,34c32
+< -LRB-
+< other
+---
+> (other
+37,39c35
+< rumours
+< -RRB-
+< .
+---
+> rumours).
+45,46c41
+< something
+< .
+---
+> something.

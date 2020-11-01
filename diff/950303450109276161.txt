@@ -1,0 +1,10 @@
+12,13c12
+< he
+< 's
+---
+> he's
+17,18c16
+< minister
+< .
+---
+> minister.

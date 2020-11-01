@@ -1,0 +1,25 @@
+5,12c5,7
+< Do
+< n't
+< worry
+< ,
+< ''
+< Liz
+< .
+< ''
+---
+> Don't
+> worry,
+> "Liz."
+15,16c10
+< guess
+< ,
+---
+> guess,
+18,21c12
+< ''
+< Steiner
+< ?
+< ''
+---
+> "Steiner?"

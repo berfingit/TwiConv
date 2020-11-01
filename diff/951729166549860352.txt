@@ -1,0 +1,16 @@
+5,6c5
+< ''
+< ignores
+---
+> "ignores
+15,17c14
+< outburst
+< ''
+< !
+---
+> outburst"!
+20,21c17
+< beatdown
+< .
+---
+> beatdown.

@@ -1,0 +1,10 @@
+13,14c13
+< wedding
+< .
+---
+> wedding.
+40,41c39
+< paper
+< .
+---
+> paper.

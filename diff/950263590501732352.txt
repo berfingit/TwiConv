@@ -1,0 +1,35 @@
+6,7c6
+< Obama
+< !
+---
+> Obama!
+11,12c10
+< condescension
+< ,
+---
+> condescension,
+15,16c13
+< policies
+< ,
+---
+> policies,
+21,22c18
+< authority
+< ,
+---
+> authority,
+40,41c36
+< it
+< 's
+---
+> it's
+50,51c45
+< MAGA
+< .
+---
+> MAGA.
+53,54c47
+< Trump
+< !
+---
+> Trump!

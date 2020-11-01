@@ -1,0 +1,25 @@
+5,6c5
+< was
+< n't
+---
+> wasn't
+11,12c10
+< Sears
+< ,
+---
+> Sears,
+15,16c13
+< '
+< enjoyed
+---
+> 'enjoyed
+18,19c15
+< minute
+< '
+---
+> minute'
+26,27c22
+< company
+< .
+---
+> company.

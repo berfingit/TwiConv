@@ -1,0 +1,46 @@
+2,3c2
+< update
+< :
+---
+> update:
+14c13
+< &
+---
+> &amp;
+17,21c16,17
+< 7.60
+< lbs
+< .
+< Guys
+< ,
+---
+> 7.60lbs.
+> Guys,
+28,29c24
+< quitting
+< .
+---
+> quitting.
+34,37c29,30
+< accomplishment
+< .
+< -LRB-
+< we
+---
+> accomplishment.
+> (we
+51,52c44
+< lolz
+< -RRB-
+---
+> lolz)
+55,56c47
+< down
+< ,
+---
+> down,
+60,61c51
+< go
+< !
+---
+> go!

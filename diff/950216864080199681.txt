@@ -1,0 +1,10 @@
+11,12c11
+< provocative
+< .
+---
+> provocative.
+27,28c26
+< it
+< .
+---
+> it.

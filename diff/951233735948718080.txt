@@ -1,0 +1,13 @@
+11,14c11,12
+< person
+< 's
+< IQ
+< .
+---
+> person's
+> IQ.
+27,28c25
+< that
+< .
+---
+> that.

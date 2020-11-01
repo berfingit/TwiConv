@@ -1,0 +1,19 @@
+15,18c15
+< veterans
+< .
+< .
+< and
+---
+> veterans..and
+40,43c37
+< taxed
+< .
+< .
+< taxed
+---
+> taxed..taxed
+51,52c45
+< win
+< ?
+---
+> win?

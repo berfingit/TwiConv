@@ -1,0 +1,18 @@
+6,7c6
+< apologized
+< ,
+---
+> apologized,
+13,16c12,13
+< either
+< .
+< We
+< 're
+---
+> either.
+> We’re
+21,22c18
+< side
+< .
+---
+> side.

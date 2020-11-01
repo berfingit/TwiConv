@@ -1,0 +1,34 @@
+2,5c2,3
+< LOL
+< .
+< Ah
+< ,
+---
+> LOL.
+> Ah,
+11,12c9
+< Islamophobe
+< .
+---
+> Islamophobe.
+16,17c13
+< Nick
+< .
+---
+> Nick.
+19,20c15
+< way
+< ,
+---
+> way,
+22,24c17
+< ''
+< beliefs
+< ''
+---
+> "beliefs"
+28,29c21
+< crawl
+< .
+---
+> crawl.

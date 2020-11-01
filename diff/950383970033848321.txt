@@ -1,0 +1,10 @@
+7,8c7
+< genius
+< !
+---
+> genius!
+13,14c12
+< Blur
+< ?
+---
+> Blur?

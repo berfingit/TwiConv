@@ -1,0 +1,22 @@
+2,5c2,3
+< Yep
+< ,
+< I
+< 'm
+---
+> Yep,
+> I’m
+8,9c6
+< frightened
+< ,
+---
+> frightened,
+11,12c8
+< I
+< 'm
+---
+> I’m
+23c19
+< %emoji
+---
+> 🤔

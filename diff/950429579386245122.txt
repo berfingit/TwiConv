@@ -1,0 +1,7 @@
+15,18c15
+< %emoji
+< %emoji
+< %emoji
+< %emoji
+---
+> 😂😂😂😂

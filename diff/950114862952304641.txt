@@ -1,0 +1,10 @@
+11,12c11
+< does
+< n't
+---
+> doesn't
+23,24c22
+< theft
+< .
+---
+> theft.

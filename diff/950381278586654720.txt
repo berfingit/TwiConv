@@ -1,0 +1,23 @@
+7,9c7
+< there
+< .
+< .
+---
+> there..
+16,17c14
+< they
+< 'd
+---
+> they'd
+20,21c17
+< though
+< ?
+---
+> though?
+30,32c26,27
+< drops
+< .
+< %emoji
+---
+> drops.
+> 😑

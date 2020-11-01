@@ -1,0 +1,38 @@
+4,5c4
+< Listen
+< ,
+---
+> Listen,
+10,11c9
+< chat
+< ,
+---
+> chat,
+19,22c17,18
+< acrimonious
+< .
+< I
+< 'm
+---
+> acrimonious.
+> I'm
+26,27c22
+< it
+< 's
+---
+> it's
+38,39c33
+< more
+< ,
+---
+> more,
+43,44c37
+< you
+< 've
+---
+> you've
+58,59c51
+< offensive/fatuous
+< .
+---
+> offensive/fatuous.

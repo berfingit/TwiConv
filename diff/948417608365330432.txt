@@ -1,0 +1,43 @@
+16,20c16,17
+< '
+< witch-hunt
+< '
+< OA
+< .
+---
+> 'witch-hunt'
+> OA.
+22,23c19
+< witch-hunt
+< ,
+---
+> witch-hunt,
+25,26c21
+< definition
+< ,
+---
+> definition,
+38,39c33
+< people
+< .
+---
+> people.
+42,44c36
+< '
+< evidence
+< '
+---
+> 'evidence'
+46,47c38
+< is
+< n't
+---
+> isn't
+50,53c41,42
+< all
+< .
+< 1
+< /
+---
+> all.
+> 1/

@@ -1,0 +1,15 @@
+1,2c1
+< It
+< 's
+---
+> It’s
+5,6c4
+< today
+< .
+---
+> today.
+14,15c12
+< myself
+< .
+---
+> myself.

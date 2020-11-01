@@ -1,0 +1,54 @@
+5,6c5
+< Sorry
+< ?
+---
+> Sorry?
+8,11c7,8
+< Right
+< ?
+< I
+< 'm
+---
+> Right?
+> I'm
+14,17c11,12
+< there
+< .
+< That
+< 's
+---
+> there.
+> That's
+19,22c14,15
+< fine
+< ,
+< I
+< 'm
+---
+> fine,
+> I'm
+24,25c17
+< disagreeing
+< .
+---
+> disagreeing.
+27,28c19
+< I
+< 'm
+---
+> I'm
+37,38c28
+< Brexit
+< ,
+---
+> Brexit,
+49,50c39
+< idea
+< ,
+---
+> idea,
+60,61c49
+< referendum
+< .
+---
+> referendum.

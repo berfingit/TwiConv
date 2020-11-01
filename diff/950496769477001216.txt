@@ -1,0 +1,15 @@
+1,2c1
+< @
+< 1111summit
+---
+> @1111summit
+8,9c7
+< is
+< n't
+---
+> isn't
+17,18c15
+< degree
+< .
+---
+> degree.

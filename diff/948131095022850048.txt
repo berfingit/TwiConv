@@ -1,0 +1,18 @@
+2,5c2,3
+< enough
+< ,
+< I
+< 'm
+---
+> enough,
+> I'm
+24,25c22
+< Arabia
+< .
+---
+> Arabia.
+32,33c29
+< either
+< ,
+---
+> either,

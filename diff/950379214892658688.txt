@@ -1,0 +1,28 @@
+5,6c5
+< that
+< ,
+---
+> that,
+12c11
+< %emoji
+---
+> 😉
+16,17c15
+< twitter
+< ,
+---
+> twitter,
+21,25c19,20
+< page
+< ,
+< he
+< `
+< s
+---
+> page,
+> he‘s
+29,30c24
+< videos
+< !
+---
+> videos!

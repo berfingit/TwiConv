@@ -1,0 +1,33 @@
+5,7c5
+< ''
+< accusation
+< ''
+---
+> "accusation"
+9,12c7
+< ''
+< guilty
+< ''
+< .
+---
+> "guilty".
+18,19c13
+< boss
+< ,
+---
+> boss,
+26,27c20
+< story
+< ,
+---
+> story,
+29,30c22
+< he
+< 'd
+---
+> he'd
+43,44c35
+< job
+< .
+---
+> job.

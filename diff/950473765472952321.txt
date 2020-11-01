@@ -1,0 +1,31 @@
+15,16c15
+< win
+< .
+---
+> win.
+19c18
+< &
+---
+> &amp;
+22,25c21,22
+< that
+< .
+< Also
+< ,
+---
+> that.
+> Also,
+30c27
+< &
+---
+> &amp;
+48,50c45
+< vote
+< ...
+< republicans
+---
+> vote...republicans
+56c51
+< &
+---
+> &amp;

@@ -1,0 +1,25 @@
+4,5c4
+< He
+< 's
+---
+> He's
+9,10c8
+< willy-nilly
+< .
+---
+> willy-nilly.
+12,13c10
+< ca
+< n't
+---
+> can't
+19,20c16
+< publishers
+< '
+---
+> publishers'
+36,37c32
+< it
+< .
+---
+> it.

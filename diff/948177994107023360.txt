@@ -1,0 +1,11 @@
+4,5c4
+< thanks
+< ,
+---
+> thanks,
+11,13c10
+< qt-opensource-mac-x64-clang
+< -
+< 5.5.0
+---
+> qt-opensource-mac-x64-clang-5.5.0

@@ -1,0 +1,40 @@
+4,7c4,5
+< Mostly
+< .
+< I
+< 'm
+---
+> Mostly.
+> I’m
+26,27c24
+< binary
+< .
+---
+> binary.
+30,31c27
+< is
+< n't
+---
+> isn’t
+35,36c31
+< -LRB-
+< or
+---
+> (or
+41,43c36
+< you
+< -RRB-
+< .
+---
+> you).
+53,55c46
+< ``
+< gang
+< ''
+---
+> “gang”
+58,59c49
+< Australian
+< ?
+---
+> Australian?

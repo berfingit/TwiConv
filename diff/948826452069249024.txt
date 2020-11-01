@@ -1,0 +1,28 @@
+5,8c5,6
+< lastly
+< ,
+< 3
+< -RRB-
+---
+> lastly,
+> 3)
+24,25c22
+< accountable
+< ,
+---
+> accountable,
+31,32c28
+< injustice
+< ?
+---
+> injustice?
+35,36c31
+< is
+< n't
+---
+> isn’t
+45,46c40
+< employers
+< ?
+---
+> employers?

@@ -1,0 +1,15 @@
+5,6c5
+< There
+< 's
+---
+> There's
+18,19c17
+< Act
+< ,
+---
+> Act,
+23,24c21
+< reached
+< .
+---
+> reached.

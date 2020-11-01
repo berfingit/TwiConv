@@ -1,0 +1,41 @@
+5,6c5
+< GFY
+< !
+---
+> GFY!
+9c8
+< &
+---
+> &amp;
+17,18c16
+< maturity
+< ,
+---
+> maturity,
+20,22c18,19
+< &
+< safely
+< ,
+---
+> &amp;
+> safely,
+25,26c22
+< I
+< 'll
+---
+> I’ll
+32,33c28
+< you
+< 're
+---
+> you’re
+43,44c38
+< clue
+< .
+---
+> clue.
+48,49c42
+< bases
+< ,
+---
+> bases,

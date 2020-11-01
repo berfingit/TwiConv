@@ -1,0 +1,18 @@
+3,6c3,4
+< Sure
+< ,
+< that
+< 's
+---
+> Sure,
+> that's
+11,12c9
+< missiles
+< .
+---
+> missiles.
+14,15c11
+< wait
+< ...
+---
+> wait...

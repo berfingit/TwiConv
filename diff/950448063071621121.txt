@@ -1,0 +1,54 @@
+5,6c5
+< Agreed
+< ,
+---
+> Agreed,
+11,14c10,11
+< candidate
+< .
+< But
+< ,
+---
+> candidate.
+> But,
+19c16
+< &
+---
+> &amp;
+31,32c28
+< Corp
+< ,
+---
+> Corp,
+34,38c30,32
+< studio
+< ,
+< charities
+< ,
+< &
+---
+> studio,
+> charities,
+> &amp;
+41,43c35,36
+< things
+< .
+< I
+---
+> things.
+> I️
+55c48
+< &
+---
+> &amp;
+59,61c52
+< job
+< .
+< Not
+---
+> job.Not
+66,67c57
+< yet
+< ?
+---
+> yet?

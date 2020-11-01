@@ -1,0 +1,10 @@
+8,13c8,9
+< say
+< ?
+< %emoji
+< %emoji
+< %emoji
+< %emoji
+---
+> say?
+> 😂😂😂😂

@@ -1,0 +1,15 @@
+26,27c26
+< on
+< .
+---
+> on.
+41,42c40
+< going
+< .
+---
+> going.
+58,59c56
+< defensive
+< .
+---
+> defensive.

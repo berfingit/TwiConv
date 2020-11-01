@@ -1,0 +1,41 @@
+3,6c3,4
+< No
+< ,
+< I
+< 'll
+---
+> No,
+> I'll
+9,10c7
+< that
+< ,
+---
+> that,
+14,15c11
+< has
+< n't
+---
+> hasn't
+18,21c14,15
+< -LRB-
+< so
+< far
+< -RRB-
+---
+> (so
+> far)
+24,25c18
+< seasons
+< .
+---
+> seasons.
+27,28c20
+< he
+< 's
+---
+> he's
+34,35c26
+< Brenda
+< !
+---
+> Brenda!

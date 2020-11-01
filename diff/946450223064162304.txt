@@ -1,0 +1,13 @@
+14,15c14
+< nouns
+< ,
+---
+> nouns,
+20,23c19,20
+< meanings
+< .
+< 13/end
+< .
+---
+> meanings.
+> 13/end.

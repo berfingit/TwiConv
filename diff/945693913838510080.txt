@@ -1,0 +1,53 @@
+11,12c11
+< it
+< 's
+---
+> it's
+16,19c15
+< too
+< .
+< %emoji
+< I
+---
+> too.😂I
+21,22c17
+< that
+< 's
+---
+> that's
+26,27c21
+< you
+< 're
+---
+> you're
+29,30c23
+< about
+< .
+---
+> about.
+38,39c31
+< modes
+< .
+---
+> modes.
+42,43c34
+< got
+< ta
+---
+> gotta
+49,50c40
+< you
+< 're
+---
+> you're
+52,57c42,44
+< ''
+< dark
+< souls
+< ''
+< mode
+< .
+---
+> "dark
+> souls"
+> mode.

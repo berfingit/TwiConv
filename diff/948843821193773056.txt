@@ -1,0 +1,44 @@
+6,7c6
+< attacked
+< .
+---
+> attacked.
+15,20c14,16
+< mockery
+< ?
+< Yes
+< .
+< Furthermore
+< ,
+---
+> mockery?
+> Yes.
+> Furthermore,
+31,32c27
+< do
+< n't
+---
+> don’t
+35,38c30,31
+< you
+< .
+< That
+< 's
+---
+> you.
+> That’s
+44,45c37
+< I
+< 'm
+---
+> I’m
+49,50c41
+< staff
+< ,
+---
+> staff,
+53,54c44
+< you
+< .
+---
+> you.

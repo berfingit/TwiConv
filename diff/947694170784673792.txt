@@ -1,0 +1,47 @@
+5,6c5
+< is
+< n't
+---
+> isn't
+11,14c10,11
+< beliefs
+< .
+< He
+< 's
+---
+> beliefs.
+> He's
+26,27c23,25
+< think
+< .
+---
+> think.
+> He's
+> spineless.
+29,34c27
+< 's
+< spineless
+< .
+< He
+< does
+< n't
+---
+> doesn't
+38,39c31
+< opinion
+< ,
+---
+> opinion,
+49,50c41
+< acceptance
+< .
+---
+> acceptance.
+54,57c45,46
+< 100
+< %
+< marriage
+< /
+---
+> 100%
+> marriage/

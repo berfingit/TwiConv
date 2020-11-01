@@ -1,0 +1,20 @@
+16,17c16
+< successfully
+< ,
+---
+> successfully,
+24,25c23
+< sciences
+< .
+---
+> sciences.
+28,29c26
+< excuses
+< ,
+---
+> excuses,
+32,33c29
+< eyes
+< !
+---
+> eyes!

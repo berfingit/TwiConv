@@ -1,0 +1,32 @@
+2,3c2
+< Also
+< ,
+---
+> Also,
+10,12c9,10
+< &
+< have
+< n't
+---
+> &amp;
+> haven't
+17,18c15
+< foods
+< .
+---
+> foods.
+35,36c32
+< treats
+< !
+---
+> treats!
+46,47c42
+< ago
+< .
+---
+> ago.
+50,51c45
+< me
+< !
+---
+> me!

@@ -1,0 +1,33 @@
+11,12c11
+< drink
+< .
+---
+> drink.
+18,19c17
+< do
+< n't
+---
+> don't
+26,27c24
+< is
+< ,
+---
+> is,
+35,36c32
+< is
+< .
+---
+> is.
+44,47c40,41
+< shutup
+< ,
+< you
+< 're
+---
+> shutup,
+> you're
+53,54c47
+< idiot
+< .
+---
+> idiot.

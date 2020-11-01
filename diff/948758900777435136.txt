@@ -1,0 +1,25 @@
+4,7c4,5
+< Facts
+< ?
+< Ha
+< .
+---
+> Facts?
+> Ha.
+11,12c9
+< trash
+< .
+---
+> trash.
+20c17
+< &
+---
+> &amp;
+26,29c23,24
+< else
+< .
+< You
+< 're
+---
+> else.
+> You’re

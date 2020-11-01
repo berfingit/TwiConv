@@ -1,0 +1,23 @@
+12,13c12
+< confused
+< ,
+---
+> confused,
+20,23c19,20
+< accent
+< .
+< He
+< 's
+---
+> accent.
+> He's
+29,30c26
+< money
+< ,
+---
+> money,
+32,33c28
+< course
+< .
+---
+> course.

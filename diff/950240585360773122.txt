@@ -1,0 +1,25 @@
+23,24c23
+< pages
+< .
+---
+> pages.
+26,27c25
+< did
+< n't
+---
+> didn’t
+46,47c44
+< the
+< .
+---
+> the.
+52,53c49
+< encoded
+< .
+---
+> encoded.
+56,57c52
+< past
+< .
+---
+> past.

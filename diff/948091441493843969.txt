@@ -1,0 +1,20 @@
+21,22c21
+< today
+< 's
+---
+> today's
+24,25c23
+< climate
+< .
+---
+> climate.
+32,33c30
+< also
+< .
+---
+> also.
+42,43c39
+< processing
+< .
+---
+> processing.

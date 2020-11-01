@@ -1,0 +1,25 @@
+15,16c15
+< lesson
+< .
+---
+> lesson.
+21,22c20
+< impetus
+< .
+---
+> impetus.
+27,28c25
+< it
+< .
+---
+> it.
+47,48c44
+< justice
+< .
+---
+> justice.
+51,52c47
+< quarter
+< .
+---
+> quarter.

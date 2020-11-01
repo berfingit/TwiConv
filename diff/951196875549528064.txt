@@ -1,0 +1,17 @@
+2,3c2
+< @
+< 798ash
+---
+> @798ash
+16,19c15,16
+< medication
+< .
+< #Sad
+< .
+---
+> medication.
+> #Sad.
+30c27
+< %emoji
+---
+> 💁

@@ -1,0 +1,40 @@
+3,4c3
+< starters
+< ,
+---
+> starters,
+6,7c5
+< was
+< n't
+---
+> wasn't
+18,19c16
+< waiting
+< ,
+---
+> waiting,
+23,24c20
+< understood
+< .
+---
+> understood.
+26,27c22
+< second
+< ,
+---
+> second,
+29,30c24
+< was
+< n't
+---
+> wasn't
+35,36c29
+< Ivanka
+< ,
+---
+> Ivanka,
+48,49c41
+< her
+< .
+---
+> her.

@@ -1,0 +1,38 @@
+6,8c6
+< ''
+< whooped
+< ''
+---
+> "whooped"
+11,16c9,11
+< May
+< 's
+< equality
+< .
+< I
+< 'm
+---
+> May's
+> equality.
+> I'm
+23,24c18
+< inequality
+< .
+---
+> inequality.
+27,31c21,22
+< ca
+< n't
+< ,
+< that
+< 's
+---
+> can't,
+> that's
+33,35c24,25
+< enough
+< .
+< %smiley
+---
+> enough.
+> :)

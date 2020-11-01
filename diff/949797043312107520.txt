@@ -1,0 +1,15 @@
+16,17c16
+< today
+< !
+---
+> today!
+22,23c21
+< while
+< ,
+---
+> while,
+36,37c34
+< shell
+< ~
+---
+> shell~

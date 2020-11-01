@@ -1,0 +1,21 @@
+4,5c4
+< Seriously
+< ?
+---
+> Seriously?
+15,20c14,16
+< stuff
+< ,
+< do
+< n't
+< they
+< .
+---
+> stuff,
+> don't
+> they.
+23,24c19
+< go
+< .
+---
+> go.

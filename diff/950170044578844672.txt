@@ -1,0 +1,20 @@
+7,8c7
+< should
+< 've
+---
+> should’ve
+18,19c17
+< People
+< .
+---
+> People.
+33,34c31
+< independent
+< .
+---
+> independent.
+41,42c38
+< hands
+< .
+---
+> hands.

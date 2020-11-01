@@ -1,0 +1,59 @@
+6,7c6
+< reply
+< .
+---
+> reply.
+9,11c8
+< ''
+< know
+< ''
+---
+> "know"
+15,16c12
+< knowledge
+< .
+---
+> knowledge.
+22,23c18
+< facts
+< .
+---
+> facts.
+27,31c22,23
+< ''
+< I
+< know
+< ''
+< ,
+---
+> "I
+> know",
+36,40c28,29
+< ''
+< I
+< believe
+< ''
+< ,
+---
+> "I
+> believe",
+47,50c36,37
+< facts
+< .
+< *
+< Please
+---
+> facts.
+> *Please
+55,57c42
+< ''
+< proves
+< ''
+---
+> "proves"
+59,61c44
+< existence
+< ?
+< *
+---
+> existence?*

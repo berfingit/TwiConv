@@ -1,0 +1,26 @@
+12,13c12
+< beliefs
+< ,
+---
+> beliefs,
+16,17c15
+< them
+< ,
+---
+> them,
+21,22c19
+< problem
+< ,
+---
+> problem,
+27,28c24
+< loyalty
+< ,
+---
+> loyalty,
+33,35c29
+< -LRB-
+< Shatkon
+< -RRB-
+---
+> (Shatkon)

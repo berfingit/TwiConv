@@ -1,0 +1,10 @@
+5,6c5
+< envelopes
+< .
+---
+> envelopes.
+19,20c18
+< stuff
+< .
+---
+> stuff.

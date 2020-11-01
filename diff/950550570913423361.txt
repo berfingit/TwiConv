@@ -1,0 +1,42 @@
+23,24c23
+< Fact
+< :
+---
+> Fact:
+26,27c25
+< Alexander
+< ,
+---
+> Alexander,
+30,31c28
+< Sif
+< ,
+---
+> Sif,
+37,41c34,35
+< NBC
+< 's
+< '
+< Blindspot
+< '
+---
+> NBC's
+> 'Blindspot'
+44,45c38
+< Doe
+< .
+---
+> Doe.
+47,48c40
+< she
+< 's
+---
+> she's
+51,54c43,44
+< badass
+< .
+< %emoji
+< %emoji
+---
+> badass.
+> 😏👌

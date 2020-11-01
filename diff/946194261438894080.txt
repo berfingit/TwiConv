@@ -1,0 +1,41 @@
+11,12c11
+< so
+< ,
+---
+> so,
+16,17c15
+< statement
+< !
+---
+> statement!
+21,22c19
+< are
+< n't
+---
+> aren’t
+28,29c25
+< that
+< 's
+---
+> that’s
+37,40c33,34
+< be
+< !
+< Do
+< n't
+---
+> be!
+> Don’t
+50,51c44
+< that
+< !!
+---
+> that!!
+53,56c46,47
+< they
+< 're
+< not
+< !
+---
+> they’re
+> not!

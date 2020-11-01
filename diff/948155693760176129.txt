@@ -1,0 +1,19 @@
+17,18c17
+< thinks
+< ,
+---
+> thinks,
+25,29c24,25
+< ''
+< best
+< ''
+< light
+< .
+---
+> "best"
+> light.
+37,38c33
+< eugenics
+< .
+---
+> eugenics.

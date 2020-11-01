@@ -1,0 +1,19 @@
+6,7c6
+< '
+< happily
+---
+> 'happily
+9,11c8
+< after
+< '
+< ;
+---
+> after';
+19,22c16,17
+< -LRB-
+< by
+< @McCabeMeg
+< -RRB-
+---
+> (by
+> @McCabeMeg)

@@ -1,0 +1,25 @@
+6,7c6
+< is
+< ,
+---
+> is,
+13,14c12
+< Tharpe
+< ,
+---
+> Tharpe,
+18,19c16
+< inmate
+< ,
+---
+> inmate,
+22,23c19
+< juror
+< 's
+---
+> juror's
+32,33c28
+< petition
+< .
+---
+> petition.

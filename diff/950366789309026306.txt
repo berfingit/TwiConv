@@ -1,0 +1,37 @@
+4,5c4
+< You
+< 're
+---
+> You're
+9,10c8
+< wrong
+< .
+---
+> wrong.
+29,30c27
+< player
+< 's
+---
+> player's
+35,36c32
+< revenues
+< .
+---
+> revenues.
+41,44c37
+< ''
+< no
+< ''
+< ,
+---
+> "no",
+49,50c42
+< changed
+< .
+---
+> changed.
+60,61c52
+< to
+< .
+---
+> to.

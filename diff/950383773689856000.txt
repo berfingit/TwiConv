@@ -1,0 +1,28 @@
+8,9c8
+< depravity
+< .
+---
+> depravity.
+22,23c21
+< teaching
+< .
+---
+> teaching.
+32,33c30
+< crimes
+< .
+---
+> crimes.
+40,43c37,38
+< Alen
+< ,
+< Weinstein
+< .
+---
+> Alen,
+> Weinstein.
+52,53c47
+< up
+< .
+---
+> up.

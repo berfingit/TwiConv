@@ -1,0 +1,14 @@
+3,4c3
+< You
+< 're
+---
+> You’re
+11,15c10,11
+< account
+< .
+< %emoji
+< %emoji
+< %emoji
+---
+> account.
+> 😂😂😂

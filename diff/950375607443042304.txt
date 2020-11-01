@@ -1,0 +1,29 @@
+28,29c28
+< players
+< .
+---
+> players.
+31,32c30
+< yes
+< ,
+---
+> yes,
+39,40c37
+< AAV
+< ,
+---
+> AAV,
+43,44c40
+< it
+< 's
+---
+> it's
+46,50c42,43
+< shor
+< t-t
+< erm
+< deal
+< .
+---
+> short-term
+> deal.

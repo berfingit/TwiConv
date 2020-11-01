@@ -1,0 +1,23 @@
+6,9c6,7
+< ai
+< n't
+< wrong
+< .
+---
+> ain’t
+> wrong.
+17,18c15
+< belief
+< .
+---
+> belief.
+21,22c18
+< is
+< n't
+---
+> isn’t
+24,25c20
+< marriage
+< .
+---
+> marriage.

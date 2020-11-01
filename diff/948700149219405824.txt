@@ -1,0 +1,15 @@
+18,19c18
+< should
+< n't
+---
+> shouldn’t
+29,30c28
+< circumstance
+< ?
+---
+> circumstance?
+37,38c35
+< excuse
+< ...
+---
+> excuse...

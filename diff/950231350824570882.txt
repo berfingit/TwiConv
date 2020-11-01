@@ -1,0 +1,41 @@
+5,9c5,6
+< understand
+< -LRB-
+< yes
+< I
+< 'm
+---
+> understand(yes
+> I'm
+13,16c10
+< understand
+< -RRB-
+< ...
+< Tax
+---
+> understand)...Tax
+22,23c16
+< wealthy
+< ,
+---
+> wealthy,
+29,30c22
+< golfing
+< ,
+---
+> golfing,
+38,39c30
+< that
+< 's
+---
+> that's
+43,44c34
+< dollars
+< .
+---
+> dollars.
+48,49c38
+< understand
+< .
+---
+> understand.

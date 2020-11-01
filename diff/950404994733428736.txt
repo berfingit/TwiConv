@@ -1,0 +1,20 @@
+1,2c1
+< @
+< 4realchris
+---
+> @4realchris
+8,9c7
+< incorrect
+< .
+---
+> incorrect.
+11,12c9
+< does
+< n't
+---
+> doesn't
+16,17c13
+< video
+< .
+---
+> video.

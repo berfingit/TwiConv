@@ -1,0 +1,23 @@
+2,3c2
+< disrespect
+< ,
+---
+> disrespect,
+6,7c5
+< do
+< n't
+---
+> don’t
+17,18c15
+< columnist
+< .
+---
+> columnist.
+21,24c18,19
+< is
+< n't
+< anymore
+< .
+---
+> isn’t
+> anymore.

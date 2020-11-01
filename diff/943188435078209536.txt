@@ -1,0 +1,21 @@
+3,6c3,4
+< It
+< 's
+< awesome
+< ,
+---
+> It's
+> awesome,
+8,11c6,7
+< you
+< 're
+< gon
+< na
+---
+> you're
+> gonna
+13,14c9
+< this
+< !
+---
+> this!

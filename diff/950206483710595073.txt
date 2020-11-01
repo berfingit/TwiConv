@@ -1,0 +1,35 @@
+4,5c4
+< Yes
+< .
+---
+> Yes.
+10,11c9
+< voters
+< ,
+---
+> voters,
+19,20c17
+< referendum
+< .
+---
+> referendum.
+23,24c20
+< 77
+< %
+---
+> 77%
+28,29c24
+< did
+< n't
+---
+> didn’t
+33,34c28
+< vote
+< .
+---
+> vote.
+51,52c45
+< desires
+< .
+---
+> desires.

@@ -1,0 +1,20 @@
+7,8c7
+< donations
+< ?
+---
+> donations?
+10,11c9
+< ca
+< n't
+---
+> can't
+17,18c15
+< donated
+< .
+---
+> donated.
+23,24c20
+< memes
+< ?
+---
+> memes?

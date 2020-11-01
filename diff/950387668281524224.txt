@@ -1,0 +1,26 @@
+10,12c10
+< 3
+< %
+< ,
+---
+> 3%,
+22,23c20
+< Twitter
+< .
+---
+> Twitter.
+31,32c28
+< Globes
+< .
+---
+> Globes.
+38,39c34
+< pouting
+< .
+---
+> pouting.
+49,50c44
+< everything
+< .
+---
+> everything.

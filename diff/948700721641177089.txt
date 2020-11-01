@@ -1,0 +1,13 @@
+34,37c34
+< victories
+< ...
+< it
+< 's
+---
+> victories...it’s
+39,41c36
+< being
+< .
+< .
+---
+> being..

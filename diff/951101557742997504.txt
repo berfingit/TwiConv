@@ -1,0 +1,26 @@
+10,13c10
+< bipartisan
+< .
+< .
+< kind
+---
+> bipartisan..kind
+19,22c16
+< bill
+< .
+< .
+< and
+---
+> bill..and
+31,32c25
+< partisan
+< .
+---
+> partisan.
+39,42c32
+< regime
+< .
+< .
+< it
+---
+> regime..it

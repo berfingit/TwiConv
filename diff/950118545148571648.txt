@@ -1,0 +1,16 @@
+3,8c3,5
+< Thanks
+< !
+< Nice
+< !
+< Hey
+< ...
+---
+> Thanks!
+> Nice!
+> Hey...
+13,14c10
+< service
+< .
+---
+> service.

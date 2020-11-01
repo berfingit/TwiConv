@@ -1,0 +1,51 @@
+3,4c3
+< you
+< .
+---
+> you.
+8,11c7,8
+< going
+< ,
+< I
+< 've
+---
+> going,
+> I’ve
+17,18c14
+< day
+< ,
+---
+> day,
+21,22c17
+< times
+< ,
+---
+> times,
+26,27c21
+< special
+< .
+---
+> special.
+31,38c25,28
+< you
+< 're
+< doing
+< ,
+< you
+< 're
+< amazing
+< .
+---
+> you’re
+> doing,
+> you’re
+> amazing.
+43,44c33
+< ca
+< n't
+---
+> can’t
+56c45
+< %emoji
+---
+> 💜

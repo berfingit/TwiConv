@@ -1,0 +1,30 @@
+3,4c3
+< ie
+< .
+---
+> ie.
+13,20c12,15
+< -LRB-
+< more
+< appropriately
+< ,
+< altruistic
+< -RRB-
+< society
+< ,
+---
+> (more
+> appropriately,
+> altruistic)
+> society,
+24,29c19,21
+< individualistically
+< ,
+< maybe
+< .
+< 12
+< /
+---
+> individualistically,
+> maybe.
+> 12/

@@ -1,0 +1,15 @@
+11,12c11
+< should
+< ?
+---
+> should?
+21,22c20
+< Australian
+< .
+---
+> Australian.
+28,29c26
+< socks
+< .
+---
+> socks.

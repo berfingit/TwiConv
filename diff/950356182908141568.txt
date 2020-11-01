@@ -1,0 +1,12 @@
+3,4c3
+< do
+< n't
+---
+> don’t
+11,13c10,11
+< kindergarten
+< .
+< %emoji
+---
+> kindergarten.
+> 😔

@@ -1,0 +1,16 @@
+8,13c8,10
+< truth
+< ?
+< That
+< 's
+< Laughable
+< .
+---
+> truth?
+> That’s
+> Laughable.
+38,39c35
+< lies
+< !
+---
+> lies!

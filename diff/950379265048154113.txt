@@ -1,0 +1,31 @@
+15,16c15
+< HITS
+< .
+---
+> HITS.
+20,21c19
+< night
+< !
+---
+> night!
+24,27c22,23
+< time
+< !
+< Finally
+< ,
+---
+> time!
+> Finally,
+30,31c26
+< Love
+< ,
+---
+> Love,
+42,45c37,38
+< existed
+< .
+< 2REAL
+< .
+---
+> existed.
+> 2REAL.

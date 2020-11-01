@@ -1,0 +1,33 @@
+4,5c4
+< If
+< ,
+---
+> If,
+7,10c6,7
+< example
+< ,
+< you
+< 're
+---
+> example,
+> you’re
+15,16c12
+< spouse
+< ,
+---
+> spouse,
+20,21c16
+< does
+< n't
+---
+> doesn’t
+25,26c20
+< you
+< 're
+---
+> you’re
+31,32c25
+< spouse
+< .
+---
+> spouse.

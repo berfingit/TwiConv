@@ -1,0 +1,40 @@
+4,7c4,5
+< Right
+< .
+< I
+< 'm
+---
+> Right.
+> I'm
+10,12c8
+< *
+< reason
+< *
+---
+> *reason*
+17,18c13
+< intentional
+< .
+---
+> intentional.
+24,27c19,20
+< labor
+< .
+< It
+< 's
+---
+> labor.
+> It's
+34,37c27,28
+< compete
+< .
+< That
+< 's
+---
+> compete.
+> That's
+47,48c38
+< scraps
+< .
+---
+> scraps.

@@ -1,0 +1,42 @@
+7,10c7,8
+< Yes
+< ,
+< that
+< 's
+---
+> Yes,
+> that's
+13,16c11,12
+< think
+< !!
+< I
+< 'm
+---
+> think!!
+> I'm
+28,31c24,25
+< boobs
+< ,
+< because
+< ,
+---
+> boobs,
+> because,
+33,34c27
+< gravity
+< ,
+---
+> gravity,
+42,45c35,36
+< '
+< natural
+< look
+< '
+---
+> 'natural
+> look'
+47,48c38
+< now
+< !
+---
+> now!

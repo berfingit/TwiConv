@@ -1,0 +1,41 @@
+3,4c3
+< Amazing
+< .
+---
+> Amazing.
+6,7c5
+< do
+< n't
+---
+> don't
+11,14c9,10
+< -LRB-
+< or
+< anyone
+< -RRB-
+---
+> (or
+> anyone)
+17,18c13
+< it
+< .
+---
+> it.
+20,21c15
+< do
+< n't
+---
+> don't
+27,28c21
+< did
+< n't
+---
+> didn't
+33,36c26,27
+< plug
+< .
+< Weird
+< .
+---
+> plug.
+> Weird.

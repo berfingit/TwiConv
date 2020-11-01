@@ -1,0 +1,19 @@
+5,9c5,6
+< Yes
+< ,
+< there
+< are
+< !
+---
+> Yes,there
+> are!
+22,23c19
+< us
+< !
+---
+> us!
+31,32c27
+< million
+< !
+---
+> million!

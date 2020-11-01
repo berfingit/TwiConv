@@ -1,0 +1,28 @@
+8,9c8
+< club
+< .
+---
+> club.
+17,20c16,17
+< do
+< n't
+< know
+< .
+---
+> don't
+> know.
+42,43c39
+< happen
+< .
+---
+> happen.
+51,52c47
+< up
+< .
+---
+> up.
+58,59c53
+< does
+< n't
+---
+> doesn't

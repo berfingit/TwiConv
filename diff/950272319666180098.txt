@@ -1,0 +1,37 @@
+8,9c8
+< GMB
+< .
+---
+> GMB.
+11,12c10
+< he
+< 's
+---
+> he’s
+16,17c14
+< Barnier
+< ,
+---
+> Barnier,
+23,24c20
+< Minister
+< .
+---
+> Minister.
+26,27c22
+< he
+< 's
+---
+> he’s
+30,31c25
+< deal
+< ,
+---
+> deal,
+56,58c50,51
+< &
+< trade
+< !
+---
+> &amp;
+> trade!

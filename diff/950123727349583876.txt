@@ -1,0 +1,37 @@
+4,5c4
+< personal
+< ,
+---
+> personal,
+13,14c12
+< Greening
+< .
+---
+> Greening.
+20,21c18
+< day
+< ,
+---
+> day,
+26,27c23
+< confidence
+< .
+---
+> confidence.
+37c33
+< %smiley
+---
+> :)
+49,52c45,46
+< hug
+< .
+< She
+< 's
+---
+> hug.
+> She's
+58,59c52
+< tbh
+< .
+---
+> tbh.

@@ -1,0 +1,10 @@
+4,5c4
+< think
+< ,
+---
+> think,
+17,18c16
+< reply
+< .
+---
+> reply.

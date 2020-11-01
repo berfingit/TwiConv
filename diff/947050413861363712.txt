@@ -1,0 +1,25 @@
+11,12c11
+< Remainers
+< .
+---
+> Remainers.
+20,21c19
+< view
+< .
+---
+> view.
+25,26c23
+< clear
+< ,
+---
+> clear,
+31,32c28
+< emphatic
+< .
+---
+> emphatic.
+34,35c30
+< of
+< .
+---
+> of.

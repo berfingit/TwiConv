@@ -1,0 +1,43 @@
+2,3c2
+< Hi
+< ,
+---
+> Hi,
+10,11c9
+< worse
+< .
+---
+> worse.
+21,22c19
+< play
+< .
+---
+> play.
+28,29c25
+< sometimes
+< .
+---
+> sometimes.
+32,33c28
+< itself
+< .
+---
+> itself.
+38,39c33
+< go
+< .
+---
+> go.
+46,49c40,41
+< safari
+< .
+< why
+< ?
+---
+> safari.
+> why?
+52,53c44
+< happening
+< ?
+---
+> happening?

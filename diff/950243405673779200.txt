@@ -1,0 +1,33 @@
+3,4c3
+< So
+< ,
+---
+> So,
+8,9c7
+< get
+< .
+---
+> get.
+24,25c22
+< DC
+< .
+---
+> DC.
+28,29c25
+< birthday
+< ,
+---
+> birthday,
+37,38c33
+< times
+< .
+---
+> times.
+40,43c35,36
+< is
+< n't
+< unusual
+< .
+---
+> isn't
+> unusual.

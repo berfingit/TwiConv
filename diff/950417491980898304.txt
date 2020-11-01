@@ -1,0 +1,58 @@
+2,6c2
+< Ok
+< .
+< .
+< I
+< 'll
+---
+> Ok..I'll
+9,10c5
+< how
+< ?
+---
+> how?
+14,15c9
+< air
+< ,
+---
+> air,
+17,18c11
+< water
+< ,
+---
+> water,
+20,21c13
+< employment
+< ,
+---
+> employment,
+31,32c23
+< off
+< ,
+---
+> off,
+38,41c29
+< employed
+< .
+< .
+< the
+---
+> employed..the
+45,46c33
+< disabled
+< ,
+---
+> disabled,
+56,64c43,44
+< standing
+< .
+< .
+< so
+< yeah
+< .
+< .
+< how
+< ?
+---
+> standing..so
+> yeah..how?

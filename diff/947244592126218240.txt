@@ -1,0 +1,28 @@
+14,15c14
+< campaign
+< .
+---
+> campaign.
+22,23c21
+< campaign
+< .
+---
+> campaign.
+30,33c28,29
+< anyway
+< ?
+< Do
+< n't
+---
+> anyway?
+> Don't
+42,43c38
+< newspaper
+< ?
+---
+> newspaper?
+52,53c47
+< Democrats
+< ?
+---
+> Democrats?

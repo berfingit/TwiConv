@@ -1,0 +1,10 @@
+18,19c18
+< resilience
+< .
+---
+> resilience.
+31,32c30
+< explored
+< .
+---
+> explored.

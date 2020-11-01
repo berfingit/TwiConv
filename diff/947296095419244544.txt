@@ -1,0 +1,20 @@
+7,10c7
+< fam
+< .
+< .
+< just
+---
+> fam..just
+22,25c19,20
+< giving
+< ,
+< it
+< 's
+---
+> giving,
+> it's
+29,30c24
+< planted
+< ?
+---
+> planted?

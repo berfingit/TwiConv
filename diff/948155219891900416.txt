@@ -1,0 +1,26 @@
+20,22c20
+< others
+< ...
+< no
+---
+> others...no
+27,30c25
+< ring
+< .
+< .
+< no
+---
+> ring..no
+36,39c31
+< assumptions
+< .
+< .
+< again
+---
+> assumptions..again
+55,57c47
+< doing
+< .
+< .
+---
+> doing..

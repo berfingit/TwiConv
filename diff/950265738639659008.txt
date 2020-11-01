@@ -1,0 +1,12 @@
+5,6c5
+< phew
+< ,
+---
+> phew,
+13,15c12,13
+< twitter
+< .
+< %emoji
+---
+> twitter.
+> ✌️

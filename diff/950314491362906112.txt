@@ -1,0 +1,21 @@
+9,10c9
+< right
+< ?
+---
+> right?
+13,17c12
+< solution
+< -LRB-
+< Socialism
+< -RRB-
+< ,
+---
+> solution(Socialism),
+22,25c17,18
+< -LRB-
+< natural
+< forces
+< -RRB-
+---
+> (natural
+> forces)

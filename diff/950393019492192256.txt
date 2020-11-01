@@ -1,0 +1,10 @@
+14,15c14
+< question
+< .
+---
+> question.
+25,26c24
+< denouncing
+< .
+---
+> denouncing.

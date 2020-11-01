@@ -1,0 +1,58 @@
+8,9c8
+< make
+< ,
+---
+> make,
+13,14c12
+< stake
+< ,
+---
+> stake,
+17,18c15
+< mistake
+< .
+---
+> mistake.
+22,23c19
+< state
+< ,
+---
+> state,
+27,30c23,24
+< fake
+< ,
+< we
+< 're
+---
+> fake,
+> we're
+33,34c27
+< you
+< .
+---
+> you.
+37,38c30
+< seeeee
+< ?
+---
+> seeeee?
+42,43c34
+< beeee
+< ?
+---
+> beeee?
+47,48c38
+< make
+< ,
+---
+> make,
+51,52c41
+< state
+< ,
+---
+> state,
+56,57c45
+< you
+< .
+---
+> you.

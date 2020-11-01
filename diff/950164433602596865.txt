@@ -1,0 +1,16 @@
+4,5c4
+< Also
+< ,
+---
+> Also,
+9,14c8,10
+< ''
+< throwing
+< stones
+< ''
+< at
+< ?
+---
+> "throwing
+> stones"
+> at?

@@ -1,0 +1,72 @@
+5,6c5
+< insult
+< ?
+---
+> insult?
+9,15c8,10
+< ''
+< emotional
+< argument
+< ''
+< ?
+< you
+< 're
+---
+> "emotional
+> argument"?
+> you're
+23,24c18
+< little
+< .
+---
+> little.
+27,30c21
+< -LRB-
+< quotes
+< ?
+< -RRB-
+---
+> (quotes?)
+38,39c29
+< search
+< ,
+---
+> search,
+43,46c33,34
+< slanted
+< ?
+< Do
+< n't
+---
+> slanted?
+> Don't
+51,52c39
+< mind
+< ,
+---
+> mind,
+55,56c42
+< wo
+< n't
+---
+> won't
+60,61c46
+< you
+< 're
+---
+> you're
+65,73c50,53
+< ''
+< obvious
+< motive
+< .
+< ''
+< Ok
+< ?
+< Ok
+< .
+---
+> "obvious
+> motive."
+> Ok?
+> Ok.

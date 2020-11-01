@@ -1,0 +1,15 @@
+9,10c9
+< Governor
+< ??
+---
+> Governor??
+12,13c11
+< he
+< 's
+---
+> he's
+21,22c19
+< down
+< ?
+---
+> down?

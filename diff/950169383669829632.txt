@@ -1,0 +1,25 @@
+5,6c5
+< Agreed
+< .
+---
+> Agreed.
+29,30c28
+< dependency
+< .
+---
+> dependency.
+38,39c36
+< ''
+< too
+---
+> "too
+42,43c39
+< fail
+< ''
+---
+> fail"
+46,47c42
+< garbage
+< .
+---
+> garbage.

@@ -1,0 +1,25 @@
+1,2c1
+< @
+< 1111summit
+---
+> @1111summit
+19,20c18
+< job
+< ,
+---
+> job,
+27,28c25
+< people
+< .
+---
+> people.
+42,43c39
+< well
+< .
+---
+> well.
+58,59c54
+< Terms
+< !
+---
+> Terms!

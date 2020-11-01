@@ -1,0 +1,15 @@
+18,19c18
+< kindergarten
+< ,
+---
+> kindergarten,
+31,32c30
+< day
+< ?
+---
+> day?
+34,35c32
+< does
+< n't
+---
+> doesn't

@@ -1,0 +1,37 @@
+4,7c4,5
+< all
+< ,
+< I
+< 'm
+---
+> all,
+> I'm
+9,10c7
+< virgin
+< ,
+---
+> virgin,
+14,17c11,12
+< much
+< .
+< Secondly
+< ,
+---
+> much.
+> Secondly,
+19,20c14
+< do
+< n't
+---
+> don't
+23,24c17
+< you
+< 're
+---
+> you're
+27,29c20
+< %emoji
+< %emoji
+< %emoji
+---
+> 😂😂😂

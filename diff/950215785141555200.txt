@@ -1,0 +1,18 @@
+2,7c2,4
+< Kidman
+< 's
+< father
+< ,
+< Antony
+< ,
+---
+> Kidman's
+> father,
+> Antony,
+17,20c14
+< ring
+< .
+< %emoji
+< #GoldenGlobes
+---
+> ring.🍕#GoldenGlobes

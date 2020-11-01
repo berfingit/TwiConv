@@ -1,0 +1,35 @@
+11,12c11
+< Andrew
+< 's
+---
+> Andrew's
+15,16c14
+< arguing
+< .
+---
+> arguing.
+18,19c16
+< way
+< ,
+---
+> way,
+32,33c29
+< positions
+< .
+---
+> positions.
+44,45c40
+< poor
+< .
+---
+> poor.
+50,51c45
+< eugenics
+< ,
+---
+> eugenics,
+56,57c50
+< clear
+< .
+---
+> clear.

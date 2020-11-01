@@ -1,0 +1,31 @@
+14,15c14
+< B
+< .
+---
+> B.
+20,21c19
+< tonight
+< 's
+---
+> tonight's
+23,24c21
+< ''
+< for
+---
+> "for
+31,33c28
+< entertainment
+< .
+< ``
+---
+> entertainment."
+44,45c39
+< '
+< The
+---
+> 'The
+47,48c41
+< Purple
+< '
+---
+> Purple'

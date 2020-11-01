@@ -1,0 +1,43 @@
+3,4c3
+< ''
+< individualism
+---
+> "individualism
+6,7c5
+< collectivism
+< ''
+---
+> collectivism"
+11,12c9
+< me
+< .
+---
+> me.
+22,25c19,20
+< senses
+< :
+< 1
+< .
+---
+> senses:
+> 1.
+29,30c24
+< freedom
+< ,
+---
+> freedom,
+35,36c29
+< 2
+< .
+---
+> 2.
+42,43c35
+< yourself
+< ,
+---
+> yourself,
+49,50c41
+< good
+< ...
+---
+> good...

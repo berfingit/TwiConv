@@ -1,0 +1,41 @@
+4,9c4,6
+< broke
+< ,
+< huh
+< ?
+< I
+< 'm
+---
+> broke,
+> huh?
+> I'm
+11,12c8
+< surprised
+< ,
+---
+> surprised,
+16,17c12
+< history
+< .
+---
+> history.
+19,20c14
+< do
+< n't
+---
+> don't
+26,27c20
+< it
+< ?
+---
+> it?
+31,32c24
+< sycophant
+< ,
+---
+> sycophant,
+34,35c26
+< all
+< .
+---
+> all.

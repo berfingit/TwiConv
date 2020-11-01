@@ -1,0 +1,13 @@
+4,5c4
+< they
+< 've
+---
+> they’ve
+8,11c7,8
+< he
+< 's
+< written
+< .
+---
+> he’s
+> written.

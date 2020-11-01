@@ -1,0 +1,26 @@
+19,20c19
+< record
+< .
+---
+> record.
+23,26c22,23
+< Damon
+< 's
+< projects
+< .
+---
+> Damon's
+> projects.
+45,48c42,43
+< track
+< .
+< It
+< 's
+---
+> track.
+> It's
+57,58c52
+< similarities
+< .
+---
+> similarities.

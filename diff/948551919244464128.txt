@@ -1,0 +1,14 @@
+3,4c3
+< +
+< anyway
+---
+> +anyway
+10,11c9
+< soon
+< .
+---
+> soon.
+19c17
+< %smiley
+---
+> :)

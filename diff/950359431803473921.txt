@@ -1,0 +1,10 @@
+9,10c9
+< cameras
+< .
+---
+> cameras.
+23,24c22
+< truthful
+< .
+---
+> truthful.

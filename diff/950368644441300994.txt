@@ -1,0 +1,18 @@
+6,7c6
+< strong
+< .
+---
+> strong.
+9,12c8,9
+< conservative
+< .
+< Woman
+< .
+---
+> conservative.
+> Woman.
+20,21c17
+< president
+< .
+---
+> president.

@@ -1,0 +1,10 @@
+7,8c7
+< did
+< n't
+---
+> didn't
+27,28c26
+< furious
+< .
+---
+> furious.

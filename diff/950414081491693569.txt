@@ -1,0 +1,25 @@
+18,19c18
+< learn
+< ,
+---
+> learn,
+21,22c20
+< that
+< 's
+---
+> that's
+29,30c27
+< do
+< n't
+---
+> don't
+37,38c34
+< mean
+< ,
+---
+> mean,
+40,41c36
+< course
+< ...
+---
+> course...

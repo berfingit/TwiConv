@@ -1,0 +1,20 @@
+1,2c1
+< @
+< 2Taxpayer
+---
+> @2Taxpayer
+5,6c4
+< 6
+< -RRB-
+---
+> 6)
+18,19c16
+< someone
+< 's
+---
+> someone's
+22,23c19
+< reputation
+< .
+---
+> reputation.

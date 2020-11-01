@@ -1,0 +1,13 @@
+1d0
+< @
+6,8c5
+< Boer
+< ,
+< Kill
+---
+> Boer,Kill
+11,12c8
+< are
+< n't
+---
+> aren't

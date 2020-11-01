@@ -1,0 +1,23 @@
+7,8c7
+< ''
+< open
+---
+> "open
+10,11c9
+< mind
+< ''
+---
+> mind"
+24,27c22,23
+< accused
+< .
+< I
+< 'm
+---
+> accused.
+> I'm
+29,30c25
+< kidding
+< .
+---
+> kidding.

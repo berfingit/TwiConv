@@ -1,0 +1,35 @@
+16,23c16,19
+< know
+< ,
+< it
+< 's
+< awful
+< ,
+< she
+< 's
+---
+> know,
+> it’s
+> awful,
+> she’s
+27,28c23
+< she
+< 's
+---
+> she’s
+33c28
+< &
+---
+> &amp;
+37,38c32
+< out
+< ,
+---
+> out,
+45,47c39,40
+< like
+< !
+< %emoji
+---
+> like!
+> ❤️

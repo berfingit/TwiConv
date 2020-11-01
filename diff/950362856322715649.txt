@@ -1,0 +1,15 @@
+10,11c10
+< breakfast
+< .
+---
+> breakfast.
+19,20c18
+< apple
+< .
+---
+> apple.
+25,26c23
+< better
+< .
+---
+> better.

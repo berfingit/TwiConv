@@ -1,0 +1,43 @@
+8,9c8
+< century
+< ,
+---
+> century,
+20,21c19
+< academics
+< ,
+---
+> academics,
+25,26c23
+< Jewish
+< ,
+---
+> Jewish,
+28,29c25
+< Europe
+< .
+---
+> Europe.
+36c32
+< &
+---
+> &amp;
+39,40c35
+< students
+< .
+---
+> students.
+48,49c43
+< process
+< ,
+---
+> process,
+58c52
+< &
+---
+> &amp;
+62,63c56
+< Iranians
+< ?
+---
+> Iranians?

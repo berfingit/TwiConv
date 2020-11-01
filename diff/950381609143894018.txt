@@ -1,0 +1,30 @@
+3,4c3
+< Absolutely
+< .
+---
+> Absolutely.
+9,10c8
+< DEPRESSING
+< .
+---
+> DEPRESSING.
+17,24c15,18
+< that
+< .
+< -LRB-
+< That
+< said
+< ,
+< I
+< 'm
+---
+> that.
+> (That
+> said,
+> I'm
+27,29c21
+< antidepressants
+< .
+< -RRB-
+---
+> antidepressants.)

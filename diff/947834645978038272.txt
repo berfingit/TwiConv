@@ -1,0 +1,11 @@
+7,9c7
+< bro
+< .
+< i
+---
+> bro.i
+11,12c9
+< Zionist
+< .
+---
+> Zionist.

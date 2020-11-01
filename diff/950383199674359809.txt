@@ -1,0 +1,35 @@
+20,21c20
+< happened
+< .
+---
+> happened.
+23,24c22
+< was
+< n't
+---
+> wasn't
+31,32c29
+< was
+< n't
+---
+> wasn't
+36,37c33
+< could
+< n't
+---
+> couldn't
+42,43c38
+< that
+< .
+---
+> that.
+52,53c47
+< has
+< n't
+---
+> hasn't
+59,60c53
+< do
+< n't
+---
+> don't

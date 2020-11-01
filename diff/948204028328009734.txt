@@ -1,0 +1,30 @@
+7,8c7
+< ig
+< .
+---
+> ig.
+10,11c9
+< did
+< n't
+---
+> didn't
+21,22c19
+< accurate
+< .
+---
+> accurate.
+26,27c23
+< I
+< 've
+---
+> I've
+30,31c26
+< others
+< ,
+---
+> others,
+53,54c48
+< depressed
+< .
+---
+> depressed.

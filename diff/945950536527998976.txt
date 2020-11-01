@@ -1,0 +1,20 @@
+2,3c2
+< That
+< 's
+---
+> That's
+12,14c11
+< it
+< %emoji
+< Have
+---
+> it❤Have
+18,23c15
+< Angelica
+< %emoji
+< %emoji
+< %emoji
+< %emoji
+< %emoji
+---
+> Angelica🙇‍♀️🙋‍♀️❤

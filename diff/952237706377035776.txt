@@ -1,0 +1,15 @@
+5,6c5
+< Disgusting
+< ,
+---
+> Disgusting,
+8,9c7
+< man
+< .
+---
+> man.
+12,13c10
+< are
+< n't
+---
+> aren’t

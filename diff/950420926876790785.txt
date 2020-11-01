@@ -1,0 +1,10 @@
+19,20c19
+< reconfigured
+< .
+---
+> reconfigured.
+22,23c21
+< better
+< .
+---
+> better.

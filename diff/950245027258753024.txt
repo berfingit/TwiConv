@@ -1,0 +1,31 @@
+9,10c9
+< president
+< ...
+---
+> president...
+16,19c15,16
+< it
+< 's
+< laws
+< ,
+---
+> it’s
+> laws,
+23,26c20,21
+< intimately
+< .
+< -LRB-
+< Coming
+---
+> intimately.
+> (Coming
+29,30c24
+< myself
+< -RRB-
+---
+> myself)
+36,37c30
+< run
+< .
+---
+> run.

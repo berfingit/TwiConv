@@ -1,0 +1,39 @@
+6,13c6,9
+< is
+< ,
+< it
+< 's
+< Joey
+< 's
+< decision
+< .
+---
+> is,
+> it's
+> Joey's
+> decision.
+16,17c12
+< fans
+< .
+---
+> fans.
+19,20c14
+< -LRB-
+< most
+---
+> (most
+23,24c17
+< people
+< 's
+---
+> people's
+27a21
+> is),
+29,33c23
+< -RRB-
+< ,
+< is
+< silly
+< .
+---
+> silly.

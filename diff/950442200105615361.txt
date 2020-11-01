@@ -1,0 +1,18 @@
+3,6c3,4
+< `
+< Throw
+< away
+< '
+---
+> ‘Throw
+> away’
+18,19c16
+< mate
+< .
+---
+> mate.
+26,27c23
+< city
+< ,
+---
+> city,

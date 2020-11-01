@@ -1,0 +1,15 @@
+1,2c1
+< .
+< @Starbucks
+---
+> .@Starbucks
+5,6c4
+< splainin
+< '
+---
+> splainin'
+8,9c6
+< do
+< .
+---
+> do.

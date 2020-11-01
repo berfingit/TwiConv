@@ -1,0 +1,13 @@
+8,9c8
+< started
+< .
+---
+> started.
+18,21c17,18
+< proof
+< ?
+< Wow
+< .
+---
+> proof?
+> Wow.

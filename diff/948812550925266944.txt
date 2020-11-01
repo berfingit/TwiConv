@@ -1,0 +1,28 @@
+6,7c6
+< no
+< ,
+---
+> no,
+23,26c22,23
+< gangs
+< ?
+< -LRB-
+< Obviously
+---
+> gangs?
+> (Obviously
+28,29c25
+< does
+< n't
+---
+> doesn’t
+38,39c34
+< race
+< ,
+---
+> race,
+43,44c38
+< question
+< -RRB-
+---
+> question)

@@ -1,0 +1,30 @@
+3,4c3
+< -
+< >
+---
+> -&gt;
+9,23c8,10
+< .
+< /
+< building
+< /
+< common.sh
+< .
+< /
+< building/mac
+< /
+< requirements.sh
+< .
+< /
+< building/mac
+< /
+< build.sh
+---
+> ./building/common.sh
+> ./building/mac/requirements.sh
+> ./building/mac/build.sh
+29,30c16
+< command
+< ?
+---
+> command?

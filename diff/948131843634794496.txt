@@ -1,0 +1,28 @@
+1,2c1
+< It
+< 's
+---
+> It's
+13,14c12
+< Iran
+< 's
+---
+> Iran's
+21,22c19
+< problematic
+< ,
+---
+> problematic,
+28,31c25,26
+< provinces
+< .
+< Yes
+< ,
+---
+> provinces.
+> Yes,
+36,37c31
+< intervene
+< .
+---
+> intervene.

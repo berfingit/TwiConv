@@ -1,0 +1,13 @@
+3,4c3
+< knowing
+< ,
+---
+> knowing,
+6,9c5,6
+< can
+< not
+< say
+< .
+---
+> cannot
+> say.

@@ -1,0 +1,25 @@
+24,25c24
+< did
+< n't
+---
+> didn’t
+29,30c28
+< train
+< ,
+---
+> train,
+32,33c30
+< that
+< 's
+---
+> that’s
+36,37c33
+< that
+< 's
+---
+> that’s
+43,44c39
+< apparently
+< .
+---
+> apparently.

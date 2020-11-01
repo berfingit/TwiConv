@@ -1,0 +1,13 @@
+4,5c4
+< apparently
+< ,
+---
+> apparently,
+17,20c16,17
+< values
+< .
+< 4
+< /
+---
+> values.
+> 4/

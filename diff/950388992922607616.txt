@@ -1,0 +1,35 @@
+1,2c1
+< Here
+< 's
+---
+> Here's
+7,12c6,8
+< v
+< .
+< Sellers
+< .
+< -LRB-
+< For
+---
+> v.
+> Sellers.
+> (For
+15,16c11
+< reason
+< ,
+---
+> reason,
+27,30c22,23
+< list
+< .
+< Why
+< ?
+---
+> list.
+> Why?
+32,34c25
+< knows
+< .
+< -RRB-
+---
+> knows.)

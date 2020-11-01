@@ -1,0 +1,26 @@
+7,12c7,9
+< Oh
+< .
+< Well
+< .
+< Hmm
+< .
+---
+> Oh.
+> Well.
+> Hmm.
+14,18c11,12
+< answer
+< .
+< .
+< -LRB-
+< Except
+---
+> answer..
+> (Except
+22,24c16
+< fake
+< !
+< -RRB-
+---
+> fake!)

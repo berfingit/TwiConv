@@ -1,0 +1,28 @@
+1,2c1
+< Ca
+< n't
+---
+> Can’t
+5,6c4
+< I
+< 'm
+---
+> I’m
+30,31c28
+< think
+< !
+---
+> think!
+34,35c31
+< core
+< ,
+---
+> core,
+53,56c49,50
+< weight
+< .
+< Here
+< :
+---
+> weight.
+> Here:

@@ -1,0 +1,30 @@
+6,7c6
+< Yes
+< ,
+---
+> Yes,
+29,30c28
+< understood
+< .
+---
+> understood.
+32,33c30
+< do
+< n't
+---
+> don't
+35,36c32
+< Young
+< 's
+---
+> Young's
+40,41c36
+< all
+< ,
+---
+> all,
+47,48c42
+< more
+< .
+---
+> more.

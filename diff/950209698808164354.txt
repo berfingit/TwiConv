@@ -1,0 +1,31 @@
+6,9c6,7
+< ``
+< 47
+< Minutes
+< ''
+---
+> “47
+> Minutes”
+14,15c12
+< soon
+< .
+---
+> soon.
+18,19c15
+< you
+< 'll
+---
+> you’ll
+30,33c26,27
+< hop
+< ,
+< politics
+< ,
+---
+> hop,
+> politics,
+41,42c35
+< want
+< .
+---
+> want.

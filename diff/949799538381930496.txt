@@ -1,0 +1,26 @@
+7,8c7
+< -LRB-
+< timezone
+---
+> (timezone
+11,14c10,11
+< all
+< -RRB-
+< D
+< :
+---
+> all)
+> D:
+16,17c13
+< still
+< ,
+---
+> still,
+23,26c19,20
+< endeavors
+< ,
+< man
+< !
+---
+> endeavors,
+> man!

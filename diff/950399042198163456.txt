@@ -1,0 +1,22 @@
+8,12c8,9
+< did
+< n't
+< know
+< --
+< she
+---
+> didn’t
+> know—she
+25,28c22,23
+< office
+< .
+< And
+< ,
+---
+> office.
+> And,
+33,34c28
+< READ
+< !
+---
+> READ!

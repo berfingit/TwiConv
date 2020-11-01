@@ -1,0 +1,62 @@
+5,8c5,6
+< TV
+< ,
+< no
+< .
+---
+> TV,
+> no.
+10,13c8,9
+< themselves
+< ,
+< yes
+< .
+---
+> themselves,
+> yes.
+15,18c11,12
+< it
+< 's
+< true
+< ,
+---
+> it’s
+> true,
+20,21c14
+< part
+< .
+---
+> part.
+23,24c16
+< are
+< .
+---
+> are.
+38,39c30
+< illegally
+< ,
+---
+> illegally,
+41,44c32,33
+< ``
+< bad
+< hombres
+< ''
+---
+> “bad
+> hombres”
+48,49c37
+< too
+< .
+---
+> too.
+60,61c48
+< on
+< ?
+---
+> on?
+63,64c50
+< fun
+< .
+---
+> fun.

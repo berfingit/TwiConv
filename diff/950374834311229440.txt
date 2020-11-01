@@ -1,0 +1,19 @@
+1,4c1,2
+< Coutinho
+< :
+< ''
+< It
+---
+> Coutinho:
+> "It
+16,17c14
+< idols
+< ;
+---
+> idols;
+23,25c20
+< history
+< .
+< ''
+---
+> history."

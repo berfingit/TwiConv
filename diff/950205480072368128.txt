@@ -1,0 +1,25 @@
+4,5c4
+< she
+< 's
+---
+> she's
+7,8c6
+< consenting
+< .
+---
+> consenting.
+10,11c8
+< there
+< 's
+---
+> there's
+16,17c13
+< clothes
+< .
+---
+> clothes.
+25,26c21
+< some
+< .
+---
+> some.

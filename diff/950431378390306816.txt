@@ -1,0 +1,18 @@
+7,8c7
+< do
+< n't
+---
+> don't
+12,13c11
+< wanker
+< ,
+---
+> wanker,
+21,24c19,20
+< company
+< .
+< It
+< 's
+---
+> company.
+> It's

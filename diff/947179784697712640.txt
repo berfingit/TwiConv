@@ -1,0 +1,10 @@
+4,9c4,5
+< %emoji
+< %emoji
+< %emoji
+< %emoji
+< %emoji
+< %emoji
+---
+> 👉😃👉
+> 👈😃👈

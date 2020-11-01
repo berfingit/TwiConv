@@ -1,0 +1,33 @@
+3,4c3
+< Yeah
+< ,
+---
+> Yeah,
+17,18c16
+< happen
+< .
+---
+> happen.
+28,29c26
+< Japan
+< ,
+---
+> Japan,
+36,39c33,34
+< ''
+< work
+< mode
+< ''
+---
+> "work
+> mode"
+43,44c38
+< there
+< ,
+---
+> there,
+60,61c54
+< regions
+< .
+---
+> regions.

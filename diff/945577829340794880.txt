@@ -1,0 +1,15 @@
+5,10c5,6
+< fire
+< %emoji
+< yo
+< !
+< Ca
+< n't
+---
+> fire🔥yo!
+> Can't
+13,14c9
+< down
+< !
+---
+> down!

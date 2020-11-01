@@ -1,0 +1,27 @@
+1,2c1
+< We
+< 're
+---
+> We’re
+12,13c11
+< Assassin
+< 's
+---
+> Assassin’s
+17,18c15
+< year
+< !
+---
+> year!
+28,29c25
+< Assassin
+< 's
+---
+> Assassin’s
+31,33c27,28
+< family
+< .
+< %emoji
+---
+> family.
+> 🤗

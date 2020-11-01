@@ -1,0 +1,43 @@
+4,5c4
+< you
+< 're
+---
+> you're
+8,9c7
+< Karius
+< ,
+---
+> Karius,
+20,23c18,19
+< games
+< :
+< does
+< n't
+---
+> games:
+> doesn't
+25,30c21,23
+< anything
+< ,
+< ca
+< n't
+< catch
+< ,
+---
+> anything,
+> can't
+> catch,
+34,37c27,28
+< line
+< ,
+< does
+< n't
+---
+> line,
+> doesn't
+45,47c36
+< ANYTHING
+< !!
+< '
+---
+> ANYTHING!!'

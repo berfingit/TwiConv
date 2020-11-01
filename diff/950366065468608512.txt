@@ -1,0 +1,33 @@
+2,3c2
+< ca
+< n't
+---
+> can't
+11,14c10,11
+< team
+< .
+< Period
+< .
+---
+> team.
+> Period.
+23,24c20
+< bullies
+< .
+---
+> bullies.
+26,27c22
+< ca
+< n't
+---
+> can't
+31,32c26
+< ball
+< .
+---
+> ball.
+38,39c32
+< short
+< .
+---
+> short.

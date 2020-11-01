@@ -1,0 +1,39 @@
+6,7c6
+< Boer
+< ,
+---
+> Boer,
+10,11c9
+< Boer
+< .
+---
+> Boer.
+24,25c22
+< activism
+< ,
+---
+> activism,
+29,32c26,27
+< song
+< :
+< ''
+< kill
+---
+> song:
+> "kill
+34,36c29
+< Boer
+< ''
+< .
+---
+> Boer".
+39,40c32
+< Organizations
+< ,
+---
+> Organizations,
+50,51c42
+< whites
+< .
+---
+> whites.

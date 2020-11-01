@@ -1,0 +1,28 @@
+5,6c5
+< one
+< ,
+---
+> one,
+12,15c11,12
+< consistent
+< .
+< Today
+< 's
+---
+> consistent.
+> Today's
+18,19c15
+< exceptional
+< .
+---
+> exceptional.
+23,24c19
+< bowlers
+< ,
+---
+> bowlers,
+29,30c24
+< hard
+< .
+---
+> hard.

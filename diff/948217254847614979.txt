@@ -1,0 +1,20 @@
+7,8c7
+< No
+< ,
+---
+> No,
+11,12c10
+< said
+< ,
+---
+> said,
+16,17c14
+< that
+< .
+---
+> that.
+23,24c20
+< breeding
+< .
+---
+> breeding.

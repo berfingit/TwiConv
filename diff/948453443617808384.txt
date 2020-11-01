@@ -1,0 +1,39 @@
+4,5c4
+< Ok
+< ,
+---
+> Ok,
+10,11c9
+< question
+< ,
+---
+> question,
+21,22c19
+< video
+< .
+---
+> video.
+36,39c33,34
+< here
+< .
+< We
+< 've
+---
+> here.
+> We’ve
+45,46c40
+< in
+< ,
+---
+> in,
+48,49c42
+< should
+< n't
+---
+> shouldn’t
+55,57c48
+< `
+< dealing
+< '
+---
+> ‘dealing’

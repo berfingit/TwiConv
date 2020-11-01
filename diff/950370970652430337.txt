@@ -1,0 +1,27 @@
+4,5c4
+< know
+< .
+---
+> know.
+8,9c7
+< did
+< n't
+---
+> didn’t
+16,20c14,15
+< ``
+< burning
+< docs
+< ''
+< ,
+---
+> “burning
+> docs”,
+24,27c19,20
+< Trump
+< ,
+< right
+< ?
+---
+> Trump,
+> right?

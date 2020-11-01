@@ -1,0 +1,36 @@
+5,8c5
+< scored
+< .
+< .
+< except
+---
+> scored..except
+10,12c7
+< #england
+< =
+< WHERE
+---
+> #england=WHERE
+16,17c11
+< SWINGS
+< .
+---
+> SWINGS.
+24,26c18
+< @imVkohli
+< =
+< all
+---
+> @imVkohli=all
+44,46c36
+< in
+< +
+< out
+---
+> in+out
+53,55c43
+< #condoms
+< +
+< you
+---
+> #condoms+you

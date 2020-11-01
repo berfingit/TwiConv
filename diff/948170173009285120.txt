@@ -1,0 +1,44 @@
+6,11c6,8
+< Indeed
+< .
+< It
+< 's
+< likely
+< ,
+---
+> Indeed.
+> It’s
+> likely,
+13,14c10
+< think
+< ,
+---
+> think,
+21,22c17
+< provoke
+< ,
+---
+> provoke,
+25,28c20,21
+< honest
+< .
+< Regardless
+< ,
+---
+> honest.
+> Regardless,
+33,34c26
+< that
+< .
+---
+> that.
+41,42c33
+< he
+< 's
+---
+> he’s
+47,48c38
+< regrets
+< .
+---
+> regrets.

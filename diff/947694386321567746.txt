@@ -1,0 +1,35 @@
+9,10c9
+< same
+< .
+---
+> same.
+17,18c16
+< wo
+< n't
+---
+> won't
+22,23c20
+< marriage
+< ,
+---
+> marriage,
+28,29c25
+< MARRIAGE
+< .
+---
+> MARRIAGE.
+31,32c27
+< why
+< ?
+---
+> why?
+34,35c29
+< it
+< 'll
+---
+> it'll
+38,39c32
+< same
+< .
+---
+> same.

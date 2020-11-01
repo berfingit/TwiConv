@@ -1,0 +1,19 @@
+18c18
+< &
+---
+> &amp;
+33,34c33
+< you
+< 're
+---
+> you're
+39,40c38
+< misogynistic
+< .
+---
+> misogynistic.
+51,52c49
+< Andrew
+< .
+---
+> Andrew.

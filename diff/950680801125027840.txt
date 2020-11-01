@@ -1,0 +1,28 @@
+4,5c4
+< interest
+< ,
+---
+> interest,
+16,17c15
+< this
+< ?
+---
+> this?
+27,30c25,26
+< this
+< .
+< -LRB-
+< You
+---
+> this.
+> (You
+39,40c35
+< neurologist
+< 's
+---
+> neurologist's
+42,43c37
+< https://t.co/uFgy87AqrY
+< -RRB-
+---
+> https://t.co/uFgy87AqrY)

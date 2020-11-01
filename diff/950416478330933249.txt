@@ -1,0 +1,13 @@
+14,15c14
+< is
+< n't
+---
+> isn't
+18,21c17,18
+< anyone
+< 's
+< time
+< .
+---
+> anyone's
+> time.

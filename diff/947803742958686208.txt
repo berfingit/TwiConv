@@ -1,0 +1,30 @@
+4,5c4
+< I
+< 'd
+---
+> I'd
+12,13c11
+< Khan
+< ,
+---
+> Khan,
+16,17c14
+< would
+< n't
+---
+> wouldn't
+26,27c23
+< house
+< ,
+---
+> house,
+39,40c35
+< Goldsmith
+< 's
+---
+> Goldsmith's
+43,44c38
+< campaign
+< .
+---
+> campaign.

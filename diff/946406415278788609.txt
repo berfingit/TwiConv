@@ -1,0 +1,13 @@
+9,12c9,10
+< sand
+< ,
+< dear
+< .
+---
+> sand,
+> dear.
+25,26c23
+< trail
+< .
+---
+> trail.

@@ -1,0 +1,10 @@
+13,18c13,14
+< open
+< .
+< %emoji
+< %emoji
+< %emoji
+< %emoji
+---
+> open.
+> 😆😆😆😆

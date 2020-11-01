@@ -1,0 +1,21 @@
+4,5c4
+< Now
+< .
+---
+> Now.
+13c12
+< %emoji
+---
+> 😁
+23,24c22
+< with
+< .
+---
+> with.
+34,36c32,33
+< %emoji
+< baker
+< %emoji
+---
+> ⭐️baker
+> 🎉

@@ -1,0 +1,24 @@
+2,3c2
+< @
+< 798ash
+---
+> @798ash
+7c6
+< Beyonc
+---
+> Beyoncé
+9,15c8,9
+< %emoji
+< %emoji
+< %emoji
+< %emoji
+< %emoji
+< %emoji
+< %emoji
+---
+> 😂😂😂
+> 😂😂😂😂
+24c18
+< %emoji
+---
+> 💅

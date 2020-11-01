@@ -1,0 +1,52 @@
+3,5c3
+< ''
+< Remainers
+< ''
+---
+> "Remainers"
+14c12
+< &
+---
+> &amp;
+18c16
+< &
+---
+> &amp;
+23,24c21
+< campaigners
+< .
+---
+> campaigners.
+32,33c29
+< ''
+< will
+---
+> "will
+36,37c32
+< people
+< ''
+---
+> people"
+39,40c34
+< UKIP
+< .
+---
+> UKIP.
+44,45c38
+< us
+< .
+---
+> us.
+52,55c45,46
+< sake
+< .
+< You
+< 're
+---
+> sake.
+> You're
+57,58c48
+< problem
+< .
+---
+> problem.

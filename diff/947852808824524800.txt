@@ -1,0 +1,44 @@
+9,10c9
+< you
+< ,
+---
+> you,
+12,13c11
+< ca
+< n't
+---
+> can't
+15,16c13
+< it
+< .
+---
+> it.
+23,24c20
+< yours
+< ,
+---
+> yours,
+28,29c24
+< handsomely
+< .
+---
+> handsomely.
+33,35c28
+< ''
+< mooching
+< ''
+---
+> "mooching"
+47,50c40,41
+< you
+< ,
+< it
+< 's
+---
+> you,
+> it's
+64,65c55
+< expense
+< .
+---
+> expense.

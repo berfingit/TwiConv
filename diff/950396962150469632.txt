@@ -1,0 +1,19 @@
+3,4c3
+< Awww
+< ,
+---
+> Awww,
+7,8c6
+< me
+< .
+---
+> me.
+12,16c10,11
+< snowflake
+< .
+< %emoji
+< %emoji
+< %emoji
+---
+> snowflake.
+> 😂😂😂

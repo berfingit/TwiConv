@@ -1,0 +1,25 @@
+15,17c15
+< ElevatorG
+< *
+< te
+---
+> ElevatorG*te
+27,40c25,27
+< -LRB-
+< K
+< *
+< W
+< *
+< F
+< *
+< R
+< *
+< S
+< ,
+< etc
+< .
+< -RRB-
+---
+> (K*W*
+> F*R*S,
+> etc.)

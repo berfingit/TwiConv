@@ -1,0 +1,24 @@
+15,17c15,16
+< course
+< !
+< %emoji
+---
+> course!
+> 🍞
+19,20c18
+< do
+< n't
+---
+> don’t
+24,25c22
+< crust
+< !
+---
+> crust!
+27,30c24
+< %emoji
+< %emoji
+< %emoji
+< %emoji
+---
+> 😂😂😂😂

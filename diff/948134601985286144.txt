@@ -1,0 +1,20 @@
+18,23c18,19
+< class
+< .
+< %emoji
+< %emoji
+< %emoji
+< %emoji
+---
+> class.
+> 😂😂😂😂
+25,26c21
+< expelled
+< ,
+---
+> expelled,
+30,31c25
+< fun
+< .
+---
+> fun.

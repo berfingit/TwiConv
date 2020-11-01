@@ -1,0 +1,34 @@
+8,10c8
+< budget
+< ...
+< .
+---
+> budget....
+23,24c21
+< hit
+< ...
+---
+> hit...
+32,33c29
+< they
+< 'll
+---
+> they'll
+35,38c31,32
+< anything
+< ...
+< Slbee
+< 's
+---
+> anything...
+> Slbee's
+42,43c36
+< fools
+< .
+---
+> fools.
+55,56c48
+< him
+< .
+---
+> him.

@@ -1,0 +1,20 @@
+18,19c18
+< ones
+< .
+---
+> ones.
+27,28c26
+< charts
+< ,
+---
+> charts,
+46,47c44
+< starts
+< ,
+---
+> starts,
+52,53c49
+< phase
+< .
+---
+> phase.

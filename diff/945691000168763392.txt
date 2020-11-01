@@ -1,0 +1,12 @@
+10,12c10
+< fight
+< ,
+< i
+---
+> fight,i
+24,26c22
+< enemies
+< ,
+< i
+---
+> enemies,i

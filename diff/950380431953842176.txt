@@ -1,0 +1,14 @@
+1,2c1
+< ''
+< Teenage
+---
+> "Teenage
+24,28c23,24
+< behaviour
+< ''
+< .
+< Gross
+< .
+---
+> behaviour".
+> Gross.

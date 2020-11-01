@@ -1,0 +1,17 @@
+6,8c6
+< SIGINT
+< ...
+< he
+---
+> SIGINT...he
+12,14c10
+< said
+< ...
+< methinks
+---
+> said...methinks
+23,24c19
+< caught
+< ...
+---
+> caught...

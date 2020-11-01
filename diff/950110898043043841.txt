@@ -1,0 +1,28 @@
+22,23c22
+< bad
+< .
+---
+> bad.
+25,26c24
+< could
+< n't
+---
+> couldn't
+30,33c28,29
+< unchallenged
+< ,
+< I
+< 'm
+---
+> unchallenged,
+> I'm
+41,42c37
+< admirable
+< ,
+---
+> admirable,
+55,56c50
+< vile
+< ,
+---
+> vile,

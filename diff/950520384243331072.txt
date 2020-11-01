@@ -1,0 +1,50 @@
+1,2c1
+< @
+< 1111summit
+---
+> @1111summit
+13,14c12
+< morning
+< ,
+---
+> morning,
+20,21c18
+< slaves
+< ,
+---
+> slaves,
+24,25c21
+< children
+< ,
+---
+> children,
+38,40c34
+< dog
+< .
+< .
+---
+> dog..
+45,47c39
+< bit
+< .
+< .
+---
+> bit..
+49,50c41
+< ca
+< n't
+---
+> can't
+57,60c48,49
+< sentiment
+< .
+< She
+< 's
+---
+> sentiment.
+> She's
+64,65c53
+< speaker
+< .
+---
+> speaker.

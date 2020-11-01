@@ -1,0 +1,50 @@
+17,18c17
+< did
+< n't
+---
+> didn’t
+24,27c23,24
+< it
+< 's
+< 100
+< %
+---
+> it’s
+> 100%
+31,32c28
+< there
+< 's
+---
+> there’s
+37,40c33,34
+< Auntie
+< ,
+< it
+< 's
+---
+> Auntie,
+> it’s
+47,48c41
+< sense
+< ,
+---
+> sense,
+54c47
+< &
+---
+> &amp;
+56,59c49,50
+< agreed
+< ,
+< Dylan
+< 's
+---
+> agreed,
+> Dylan’s
+63,65c54,55
+< &
+< they
+< 've
+---
+> &amp;
+> they’ve

@@ -1,0 +1,20 @@
+7,8c7
+< hundred
+< ,
+---
+> hundred,
+17,18c16
+< again
+< .
+---
+> again.
+22,23c20
+< delivered
+< ,
+---
+> delivered,
+26,27c23
+< boss
+< .
+---
+> boss.

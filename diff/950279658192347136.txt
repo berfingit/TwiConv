@@ -1,0 +1,15 @@
+4,7c4,5
+< sales
+< :
+< @Beyonce
+< ,
+---
+> sales:
+> @Beyonce,
+10,13c8
+< -LRB-
+< total
+< -RRB-
+< .
+---
+> (total).

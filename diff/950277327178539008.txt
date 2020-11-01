@@ -1,0 +1,45 @@
+2,3c2
+< honestly
+< ?
+---
+> honestly?
+6,7c5
+< me
+< .
+---
+> me.
+10a9
+> so,
+12,17c11,12
+< ,
+< so
+< much
+< .
+< It
+< 's
+---
+> much.
+> It’s
+19,20c14
+< soulless
+< .
+---
+> soulless.
+24,26c18
+< /
+< not
+< /
+---
+> /not/
+28,31c20
+< encouraged
+< .
+< There
+< 's
+---
+> encouraged.There’s
+39,40c28
+< slightest
+< .
+---
+> slightest.

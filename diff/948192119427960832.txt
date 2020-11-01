@@ -1,0 +1,20 @@
+31,32c31
+< refugees
+< .
+---
+> refugees.
+34,35c33
+< ca
+< n't
+---
+> can't
+38,39c36
+< well
+< .
+---
+> well.
+44,45c41
+< troll
+< .
+---
+> troll.

@@ -1,0 +1,50 @@
+3,4c3
+< @
+< 1111summit
+---
+> @1111summit
+6,9c5,6
+< Sorry
+< ...
+< she
+< 's
+---
+> Sorry...
+> she's
+13,15c10
+< woman
+< .
+< .
+---
+> woman..
+21,22c16
+< Trump
+< ...
+---
+> Trump...
+35,36c29
+< experience
+< ...
+---
+> experience...
+39,41c32
+< Trump
+< .
+< .
+---
+> Trump..
+48,49c39
+< us
+< ?
+---
+> us?
+55,56c45
+< qualifications
+< .
+---
+> qualifications.
+59,60c48
+< Oprah
+< ,
+---
+> Oprah,

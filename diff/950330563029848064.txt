@@ -1,0 +1,44 @@
+11,16c11,13
+< feeling
+< !
+< Congrats
+< !
+< Unfortunately
+< ,
+---
+> feeling!
+> Congrats!
+> Unfortunately,
+19,20c16
+< communities
+< ,
+---
+> communities,
+22,23c18
+< are
+< n't
+---
+> aren't
+28,29c23
+< offerings
+< .
+---
+> offerings.
+32,33c26
+< ca
+< n't
+---
+> can't
+37,40c30,31
+< jobs
+< ,
+< they
+< 're
+---
+> jobs,
+> they're
+43,44c34
+< stuck
+< .
+---
+> stuck.

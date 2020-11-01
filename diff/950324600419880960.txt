@@ -1,0 +1,35 @@
+15,18c15
+< ''
+< rabid
+< ''
+< ?
+---
+> "rabid"?
+22,23c19
+< measured
+< ,
+---
+> measured,
+26,27c22
+< response
+< .
+---
+> response.
+29,30c24
+< praise
+< ?
+---
+> praise?
+35,36c29
+< undeserved
+< .
+---
+> undeserved.
+40,43c33,34
+< hyperbole
+< ,
+< please
+< .
+---
+> hyperbole,
+> please.

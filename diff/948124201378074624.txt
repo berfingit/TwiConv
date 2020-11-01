@@ -1,0 +1,33 @@
+7,8c7
+< mac
+< .
+---
+> mac.
+14,15c13
+< this
+< :
+---
+> this:
+17,18c15
+< NOTE
+< :
+---
+> NOTE:
+20,21c17
+< did
+< n't
+---
+> didn't
+26,29c22,23
+< .
+< dmg
+< file
+< .
+---
+> .dmg
+> file.
+43,44c37
+< guide
+< .
+---
+> guide.

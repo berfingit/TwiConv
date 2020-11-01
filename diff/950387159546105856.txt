@@ -1,0 +1,15 @@
+34,35c34
+< hurry
+< .
+---
+> hurry.
+43,44c42
+< annoying
+< .
+---
+> annoying.
+55,56c53
+< at
+< .
+---
+> at.

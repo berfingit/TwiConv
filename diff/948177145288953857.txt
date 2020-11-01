@@ -1,0 +1,15 @@
+18,19c18
+< fight
+< .
+---
+> fight.
+26,27c25
+< Conor
+< .
+---
+> Conor.
+45,46c43
+< Conor
+< .
+---
+> Conor.

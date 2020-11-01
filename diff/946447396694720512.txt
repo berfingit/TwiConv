@@ -1,0 +1,19 @@
+14,15c14
+< -LRB-
+< either
+---
+> (either
+20,21c19
+< choice-aware
+< ,
+---
+> choice-aware,
+28,32c26,27
+< egoism
+< -RRB-
+< ?
+< 9
+< /
+---
+> egoism)?
+> 9/

@@ -1,0 +1,21 @@
+6,7c6
+< false
+< .
+---
+> false.
+14,16c13
+< -LRB-
+< employee
+< -RRB-
+---
+> (employee)
+21,22c18
+< Rivers
+< .
+---
+> Rivers.
+28,29c24
+< authorities
+< .
+---
+> authorities.

@@ -1,0 +1,21 @@
+3,12c3
+< ''
+< Smart
+< ''
+< ...
+< ''
+< Christian
+< ''
+< ...
+< .
+< Only
+---
+> "Smart"..."Christian"......Only
+17,20c8,9
+< I
+< 'm
+< afraid
+< .
+---
+> I'm
+> afraid.

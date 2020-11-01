@@ -1,0 +1,25 @@
+8,9c8
+< scandal
+< .
+---
+> scandal.
+20,21c19
+< phones
+< .
+---
+> phones.
+44,45c42
+< alive
+< .
+---
+> alive.
+48,49c45
+< not
+< .
+---
+> not.
+56,57c52
+< it
+< .
+---
+> it.

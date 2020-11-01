@@ -1,0 +1,23 @@
+1,5c1,2
+< .
+< @charliekirk11
+< :
+< ''
+< You
+---
+> .@charliekirk11:
+> "You
+16,19c13,14
+< year
+< ,
+< it
+< 's
+---
+> year,
+> it's
+21,23c16
+< unprecedented
+< .
+< ''
+---
+> unprecedented."

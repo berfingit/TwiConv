@@ -1,0 +1,30 @@
+22,23c22
+< person
+< ,
+---
+> person,
+30,31c29
+< them
+< ,
+---
+> them,
+34,35c32
+< ''
+< digging
+---
+> "digging
+37,38c34
+< dirt
+< ''
+---
+> dirt"
+41,42c37
+< book
+< .
+---
+> book.
+51,52c46
+< criminality
+< .
+---
+> criminality.

@@ -1,0 +1,51 @@
+3,4c3
+< Also
+< ,
+---
+> Also,
+6,8c5
+< $
+< 4T
+< +
+---
+> $4T+
+18c15
+< &
+---
+> &amp;
+21,28c18,21
+< U.S.
+< ,
+< bus
+< .
+< expansion
+< ,
+< wages
+< ,
+---
+> U.S.,
+> bus.
+> expansion,
+> wages,
+30,33c23,24
+< etc
+< .
+< Also
+< ,
+---
+> etc.
+> Also,
+40,43c31,32
+< -LRB-
+< spending
+< bill
+< -RRB-
+---
+> (spending
+> bill)
+55,57c44
+< -LRB-
+< 2/2
+< -RRB-
+---
+> (2/2)

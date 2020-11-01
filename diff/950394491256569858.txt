@@ -1,0 +1,20 @@
+11,12c11
+< teenager
+< ...
+---
+> teenager...
+27,28c26
+< knife
+< .
+---
+> knife.
+39,40c37
+< speaking
+< ,
+---
+> speaking,
+49,50c46
+< right
+< ?
+---
+> right?

@@ -1,0 +1,48 @@
+4,5c4
+< fans
+< .
+---
+> fans.
+8,9c7
+< -LRB-
+< in
+---
+> (in
+11,12c9
+< fandom
+< -RRB-
+---
+> fandom)
+22,23c19
+< they
+< 're
+---
+> they're
+27,30c23,24
+< wrong
+< ?
+< They
+< 're
+---
+> wrong?
+> They're
+33,34c27
+< she
+< 's
+---
+> she's
+49,50c42
+< themselves
+< .
+---
+> themselves.
+52,53c44
+< I
+< 'm
+---
+> I'm
+55,56c46
+< you
+< 're
+---
+> you're

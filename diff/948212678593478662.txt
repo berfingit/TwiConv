@@ -1,0 +1,20 @@
+8,9c8
+< is
+< n't
+---
+> isn't
+11,12c10
+< issue
+< ,
+---
+> issue,
+24,25c22
+< stock
+< .
+---
+> stock.
+34,35c31
+< know
+< .
+---
+> know.

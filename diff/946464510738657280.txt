@@ -1,0 +1,43 @@
+4,5c4
+< It
+< 's
+---
+> It’s
+11,13c10,11
+< ``
+< investigating
+< ``
+---
+> “investigating
+> “
+15,16c13
+< collusion
+< ,
+---
+> collusion,
+25,26c22
+< law
+< ,
+---
+> law,
+32,33c28
+< evidence
+< .
+---
+> evidence.
+48,53c43,45
+< campaign
+< .
+< Meanwhile
+< ,
+< it
+< 's
+---
+> campaign.
+> Meanwhile,
+> it’s
+58,59c50
+< issues
+< .
+---
+> issues.

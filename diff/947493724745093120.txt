@@ -1,0 +1,30 @@
+7,8c7
+< I
+< 've
+---
+> I’ve
+12,13c11
+< must
+< n't
+---
+> mustn’t
+19,20c17
+< bits
+< .
+---
+> bits.
+25,26c22
+< moments
+< ,
+---
+> moments,
+32,33c28
+< going
+< ,
+---
+> going,
+40,41c35
+< remember
+< .
+---
+> remember.

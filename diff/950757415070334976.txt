@@ -1,0 +1,36 @@
+10,11c10
+< it
+< .
+---
+> it.
+22,23c21
+< depression
+< ,
+---
+> depression,
+28,29c26
+< disorder
+< ,
+---
+> disorder,
+38,50c35,40
+< -LRB-
+< Lacasse
+< &
+< Leo
+< ,
+< 2005
+< ;
+< -LRB-
+< Valenstein
+< ,
+< 1998
+< -RRB-
+< .
+---
+> (Lacasse
+> &amp;
+> Leo,
+> 2005;
+> (Valenstein,
+> 1998).

@@ -1,0 +1,37 @@
+9,12c9,10
+< could
+< n't
+< find
+< .
+---
+> couldn't
+> find.
+14,15c12
+< did
+< n't
+---
+> didn't
+19,20c16
+< YouTube
+< .
+---
+> YouTube.
+35,36c31
+< 1949
+< .
+---
+> 1949.
+39,40c34
+< did
+< n't
+---
+> didn't
+48,49c42
+< Mockingbird
+< .
+---
+> Mockingbird.
+54c47
+< &
+---
+> &amp;

@@ -1,0 +1,35 @@
+13,16c13,14
+< me
+< .
+< ``
+< When
+---
+> me.
+> "When
+19,20c17
+< somebody
+< ''
+---
+> somebody"
+32,33c29
+< metric
+< .
+---
+> metric.
+42,46c38,39
+< could
+< n't
+< -LRB-
+< Purdue
+< -RRB-
+---
+> couldn't
+> (Purdue)
+56,59c49,50
+< week
+< 's
+< bracketology
+< .
+---
+> week's
+> bracketology.

@@ -1,0 +1,31 @@
+5,6c5
+< Yeah
+< ,
+---
+> Yeah,
+12,14c11
+< didn
+< %emoji
+< t
+---
+> didn´t
+19,20c16
+< record
+< .
+---
+> record.
+25,26c21
+< video
+< .
+---
+> video.
+51,52c46
+< it
+< .
+---
+> it.
+61,62c55
+< complain
+< .
+---
+> complain.

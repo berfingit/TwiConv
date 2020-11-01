@@ -1,0 +1,44 @@
+9,10c9
+< from
+< ?
+---
+> from?
+12,13c11
+< Bunker
+< ?
+---
+> Bunker?
+19,20c17
+< here
+< .
+---
+> here.
+24,25c21
+< all
+< ,
+---
+> all,
+34,35c30
+< Year
+< 's
+---
+> Year's
+39,43c34,35
+< ''
+< in
+< ''
+< Twitter
+< ,
+---
+> "in"
+> Twitter,
+47,48c39
+< meaningful
+< ,
+---
+> meaningful,
+54,55c45
+< gem
+< .
+---
+> gem.

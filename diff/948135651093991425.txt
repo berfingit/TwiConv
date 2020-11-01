@@ -1,0 +1,23 @@
+3,4c3
+< Yes
+< ,
+---
+> Yes,
+6,7c5
+< intelligence
+< ,
+---
+> intelligence,
+16,18c14
+< -LRB-
+< ''
+< selective
+---
+> ("selective
+24,27c20
+< characteristics
+< ''
+< -RRB-
+< .
+---
+> characteristics").

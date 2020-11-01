@@ -1,0 +1,20 @@
+5,6c5
+< Lmao
+< .
+---
+> Lmao.
+9,10c8
+< do
+< n't
+---
+> don't
+16,20c14,16
+< less
+< ?
+< Great
+< !
+< %emoji
+---
+> less?
+> Great!
+> 👍🏻

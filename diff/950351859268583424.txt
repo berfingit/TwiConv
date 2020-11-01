@@ -1,0 +1,37 @@
+6,7c6
+< part
+< ,
+---
+> part,
+12,13c11
+< did
+< n't
+---
+> didn't
+19,22c17,18
+< had
+< n't
+< won
+< .
+---
+> hadn't
+> won.
+31,35c27,28
+< great
+< ...
+< but
+< he
+< 's
+---
+> great...but
+> he's
+47,48c40
+< safety
+< .
+---
+> safety.
+56,57c48
+< orders
+< .
+---
+> orders.

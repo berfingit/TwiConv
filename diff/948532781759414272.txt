@@ -1,0 +1,22 @@
+10,11c10
+< situation
+< ,
+---
+> situation,
+15,17c14,15
+< %smiley
+< i
+< 'm
+---
+> :-)
+> i'm
+21,22c19
+< you
+< 're
+---
+> you're
+31,32c28
+< situation
+< .
+---
+> situation.
