@@ -29,12 +29,12 @@ def main():
                     tweet_missing = False
 
                     try:
-                        t = open(tweets+tweet+'.txt', 'r')
+                        t = open(os.path.join(tweets, tweet+'.txt'), 'r')
                     except:
                         tweet_missing = True
 
                     try:
-                        a = open(authors+tweet+'.txt', 'r')
+                        a = open(os.path.join(authors, tweet+'.txt'), 'r')
                         username = a.read().strip('\n')
                     except:
                         print('WARNING: The tweet with ID {} is available, but not its author. Make sure that you correctly added the author text file.'.format(tweet))
@@ -106,7 +106,6 @@ def main():
                                 if i in deleted_tokens:
                                     if i+1 not in deleted_tokens:
                                         tok = tokenized[-1]
-                                        tok = tokenized[-1]
                                     tokenized = tokenized[:-1]
                                     tokenized[-1] = tok
                         else:
@@ -116,12 +115,13 @@ def main():
                 if tweet_missing:
                     new_conll.write(line)
                 else:
-                    line_copy = copy.deepcopy(line.split())
-                    line_copy[3] = tokenized[0]
-                    new_line = line_copy[:-1]
-                    new_line[6] = username
-                    new_conll.write('\t'.join(new_line)+'\n')
-                    tokenized.pop(0)
+                    if len(tokenized) > 0:
+                        line_copy = copy.deepcopy(line.split())
+                        line_copy[3] = tokenized[0]
+                        new_line = line_copy[:-1]
+                        new_line[6] = username
+                        new_conll.write('\t'.join(new_line)+'\n')
+                        tokenized.pop(0)
 
                 previous_tweet = tweet
 
