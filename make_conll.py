@@ -31,6 +31,7 @@ def main():
                     try:
                         t = open(os.path.join(tweets, tweet+'.txt'), 'r')
                     except:
+                        print('WARNING: The tweet with ID {} is missing'.format(tweet))
                         tweet_missing = True
 
                     try:
