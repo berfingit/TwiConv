@@ -13,6 +13,12 @@ def main():
     tweets = sys.argv[1]
     authors = sys.argv[2]
 
+    if not os.path.isdir(tweets):
+        raise Exception(f'{tweets} is not a directory')
+
+    if not os.path.isdir(authors):
+        raise Exception(f'{authors} is not a directory')
+
     if not os.path.isdir(conll):
         os.mkdir(conll)
 
@@ -29,12 +35,13 @@ def main():
                     tweet_missing = False
 
                     try:
-                        t = open(tweets+tweet+'.txt', 'r')
+                        t = open(os.path.join(tweets, tweet+'.txt'), 'r')
                     except:
+                        print('WARNING: The tweet with ID {} is missing'.format(tweet))
                         tweet_missing = True
 
                     try:
-                        a = open(authors+tweet+'.txt', 'r')
+                        a = open(os.path.join(authors, tweet+'.txt'), 'r')
                         username = a.read().strip('\n')
                     except:
                         print('WARNING: The tweet with ID {} is available, but not its author. Make sure that you correctly added the author text file.'.format(tweet))
@@ -106,7 +113,6 @@ def main():
                                 if i in deleted_tokens:
                                     if i+1 not in deleted_tokens:
                                         tok = tokenized[-1]
-                                        tok = tokenized[-1]
                                     tokenized = tokenized[:-1]
                                     tokenized[-1] = tok
                         else:
@@ -116,12 +122,13 @@ def main():
                 if tweet_missing:
                     new_conll.write(line)
                 else:
-                    line_copy = copy.deepcopy(line.split())
-                    line_copy[3] = tokenized[0]
-                    new_line = line_copy[:-1]
-                    new_line[6] = username
-                    new_conll.write('\t'.join(new_line)+'\n')
-                    tokenized.pop(0)
+                    if len(tokenized) > 0:
+                        line_copy = copy.deepcopy(line.split())
+                        line_copy[3] = tokenized[0]
+                        new_line = line_copy[:-1]
+                        new_line[6] = username
+                        new_conll.write('\t'.join(new_line)+'\n')
+                        tokenized.pop(0)
 
                 previous_tweet = tweet
 

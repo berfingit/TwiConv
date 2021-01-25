@@ -41,7 +41,11 @@ Jks
 
 As a final step, running ``python make_conll.py <PATH TO TWEET TEXT FILES> <PATH TO AUTHOR FILES>`` will create the CoNLL files in ``conll``.
 
+### Download the Tweets
 
+You need to enter your generated Twitter access tokens for developer in fetch_tweets.py
+Run this script and then run tokenize_tweets.py to prepare the data for the CoNLL processing.
+The data is split in 2 directories namely, /author and /text .
 ### The CoNLL format
 
 The CoNLL format is inspired by the original CoNLL-2012 format with some additional annotations.
