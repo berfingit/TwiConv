@@ -13,6 +13,12 @@ def main():
     tweets = sys.argv[1]
     authors = sys.argv[2]
 
+    if not os.path.isdir(tweets):
+        raise Exception(f'{tweets} is not a directory')
+
+    if not os.path.isdir(authors):
+        raise Exception(f'{authors} is not a directory')
+
     if not os.path.isdir(conll):
         os.mkdir(conll)
 
