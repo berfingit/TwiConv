@@ -71,3 +71,7 @@ COLUMN 		CONTENT
 15		Genericity
 16		[Tweet number in thread]_[sentence number in tweet]_[token number in sentence]
 ```
+
+### Citation
+
+Berfin Aktaş and Annalena Kohnert. TwiConv: A Coreference-annotated Corpus of Twitter Conversations. In Proceedings of the Third Workshop on Computational Models of Reference, Anaphora and Coreference (CRAC@COLING), 47–54. Barcelona, Spain, December 2020. Association for Computational Linguistics.
