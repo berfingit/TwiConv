@@ -1,53 +1,103 @@
-import tweepy
+# import tweepy
 import sys
 import json
 import time as time
+import argparse
+import stweet as st
+from stweet.tweets_by_ids_runner.tweets_by_id_context import TweetsByIdContext
+from stweet.model import UserTweetRaw
+import json
 
-print("Remember to adjust your twitter access tokens to download the tweets")
 
-consumer_key = 'REPLACE ME'
-consumer_key_secret = 'REPLACE ME'
-access_token = 'REPLACE ME'
-access_token_secret = 'REPLACE ME'
 
-auth = tweepy.OAuthHandler(consumer_key, consumer_key_secret)
-auth.set_access_token(access_token, access_token_secret)
-api = tweepy.API(auth)
+class SingleTweetContext(TweetsByIdContext):
+    def __setattr__(self, __name: str, __value: any) -> None:
+        if __name == "cursor":
+            __value = None
+        return super().__setattr__(__name, __value)
+    
+
+
+def to_json(raw_tweet: UserTweetRaw):
+    return {
+        "object_type": raw_tweet.object_type,
+        "download_datetime": raw_tweet.download_datetime.isoformat(),
+        "raw_value": json.loads(raw_tweet.raw_value),
+    }
+
+
+def process_raw_tweets(tweet_id: str, raw_list: list[UserTweetRaw]) -> dict:
+
+    for raw_tweet in raw_list:
+        tweet = to_json(raw_tweet)
+        if tweet["raw_value"]["rest_id"] == tweet_id:
+            return tweet
+
+    print(f"Tweet {tweet_id} not found!")
+    return None
+
 
 tweet_id_file = "./tweet_ids.txt"
 output_filename_json = "./tweets_fetched.jsonlines"
-output_broken_twweets = "./broke_tweets_ids.json"
+output_broken_tweets = "./broken_tweet_ids.txt"
 sleepTime = 2
 
-broken_ids = {"ids":None}
-ids = []
+def try_tweet_by_id_scrap(id: str, single_tweet: bool = True):
+    id_task = st.TweetsByIdTask(id)
+    output_json = st.JsonLineFileRawOutput(f"data/tweets/{id}.jl")
+    output_print = st.PrintRawOutput()
+    output_tweets = st.CollectorRawOutput()
+
+    st.TweetsByIdRunner(
+        tweets_by_id_task=id_task,
+        raw_data_outputs=[output_tweets],
+        tweets_by_ids_context=SingleTweetContext() if single_tweet else None,
+    ).run()
+
+    raw_list = output_tweets.get_raw_list()
+
+    tweet = process_raw_tweets(id, raw_list)
+
+    #raise error if tweet is not found
+    if tweet is None:
+        raise Exception("Tweet not found")
+    
+    return tweet
+
+
+broken_ids = []
 with open(tweet_id_file) as input_file:
-    for example_num, id_per_line in enumerate(input_file.read().splitlines()):
+    for i, id_per_line in enumerate(input_file.read().splitlines()):
+        if i == 20:
+            break
         tweet = {"tweet_id": id_per_line}
         print(f"Try to fetch tweet id : {id_per_line}")
         with open(output_filename_json, 'a', encoding="utf8") as output_file:
             try:
-                tweetFetched = api.get_status(tweet["tweet_id"])
-                tweet["author_id"] = tweetFetched.author.id_str
-                tweet["author_name"] = tweetFetched.author.name
-                tweet["text"] = tweetFetched.text
+                tweet_scrap = try_tweet_by_id_scrap(tweet["tweet_id"], True)    
+                tweet["author_id"] = tweet_scrap["raw_value"]["core"]["user_results"]["result"]["rest_id"]
+                tweet["author_name"] = tweet_scrap["raw_value"]["core"]["user_results"]["result"]["legacy"]["screen_name"]
+                tweet["text"] = tweet_scrap["raw_value"]["legacy"]["full_text"]
                 print("Tweet fetched" + tweet["text"])
                 output_file.write(json.dumps(tweet))
                 output_file.write("\n")
                 #To avoid being kicked out downloading to aggressively...
                 time.sleep(sleepTime)
-            except:
-                print("Unexpected error:", sys.exc_info()[0])
+            except Exception as e:
+                print("Unexpected error:", e)
+                # print("Unexpected error:", sys.exc_info()[0])
                 print(f"tweet id :{tweet['tweet_id']} does probably not exist anymore")
-                ids.append(id_per_line)
+                broken_ids.append(id_per_line)
                 continue
         print(f"Fetched tweet id : {id_per_line}")
 
-if len(ids) > 0:
-    broken_ids["ids"]=ids
-    print("These twitter ids are no longer available.")
-    print(broken_ids)
+if broken_ids:
+    print(f"{len(broken_ids)} tweets are no longer available.")
+    print(f"Saving broken ids in {output_broken_tweets}")
 
-    with open(output_broken_twweets, 'a', encoding="utf8") as output_file:
-        output_file.write(json.dumps(broken_ids))
-        output_file.write("\n")
+
+    with open(output_broken_tweets, 'a', encoding="utf8") as output_file:
+        for id in broken_ids:
+            output_file.write(id)
+            output_file.write("\n")
+
