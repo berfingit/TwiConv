@@ -1,3 +1,6 @@
+alternative script for recreating [TwiConv](https://github.com/berfingit/TwiConv) dataset without a twitter access token.
+powered by [stweet](https://github.com/markowanga/stweet)
+
 ## TwiConv Corpus
 
 This is an instruction on how to reproduce the TwiConv Corpus as described in _TwiConv: A Coreference-annotated Corpus of Twitter Conversations_. TwiConv is an annotated corpus for nominal coreference in Twitter conversations (Twitter threads). To conform with Twitter's Developer Policy, we only share our annotations as text files without including the full tweet contents and authors. Instead we provide the tweet IDs and also share an additional script and data to map our tokenization and annotations to the original tweets.
