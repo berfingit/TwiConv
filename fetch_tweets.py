@@ -68,8 +68,6 @@ def try_tweet_by_id_scrap(id: str, single_tweet: bool = True):
 broken_ids = []
 with open(tweet_id_file) as input_file:
     for i, id_per_line in enumerate(input_file.read().splitlines()):
-        if i == 20:
-            break
         tweet = {"tweet_id": id_per_line}
         print(f"Try to fetch tweet id : {id_per_line}")
         with open(output_filename_json, 'a', encoding="utf8") as output_file:
